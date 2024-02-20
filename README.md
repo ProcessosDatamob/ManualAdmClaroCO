@@ -6,9 +6,9 @@
 
 **\<NomeProduto>** es una solución de gestión de movilidad empresarial que consta de:
 
-* Portal de Administración **\<NomeProduto>** - sistema web que realiza toda la gestión de los dispositivos móviles de la empresa.
-* Aplicación **\<NomeProduto>** - aplicación Android que recopila toda la información de uso y consumo del dispositivo móvil.  Esta aplicación se instala por defecto estando presente en todos los dispositivos que se registran en el sistema.
-* Aplicación Security Browser - Aplicación Android de navegación web responsable de realizar los bloqueos de sitios web, así como monitorear la navegación del usuario del dispositivo.
+* **Portal de Administración** **\<NomeProduto>** - sistema web que realiza toda la gestión de los dispositivos móviles de la empresa.
+* **Aplicación \<NomeProduto>** - aplicación Android que recopila toda la información de uso y consumo del dispositivo móvil.  Esta aplicación se instala por defecto estando presente en todos los dispositivos que se registran en el sistema.
+* **Aplicación Security Browser** - Aplicación Android de navegación web responsable de realizar los bloqueos de sitios web, así como monitorear la navegación del usuario del dispositivo.
 
 {% hint style="warning" %}
 IMPORTANTE
@@ -36,7 +36,7 @@ Todos los datos enviados por el portal y recibidos por el dispositivo permanecen
 
 El Portal de Administración tiene dos niveles de acceso:
 
-* Administrador del portal: este nivel brinda acceso completo a la información y le permite establecer políticas de bloqueo para dispositivos;
-* Administrador de grupo: este nivel da acceso a los datos de su grupo y permite enviar mensajes al grupo;
+* **Administrador del portal:** este nivel brinda acceso completo a la información y le permite establecer políticas de bloqueo para dispositivos;
+* **Administrador de grupo:** este nivel da acceso a los datos de su grupo y permite enviar mensajes al grupo;
 
 Para saber cómo crear un administrador de portal o grupo, lea la sección "[Configuración inicial y niveles](informacion-general/configuracion-inicial-y-niveles.md)'.

@@ -17,11 +17,11 @@ En su primer acceso, después de hacer clic en "Iniciar sesión", el usuario deb
 
 ![](<../.gitbook/assets/1 (19).png>)
 
-1. Confirme el nombre de empresa y correo electrónico (se sugiere utilizar la misma cuenta de correo de administrador de la empresa usada para ingresar al portal);&#x20;
-2. Cree una contraseña;
-3. Repita el ingreso de la contraseña para confirmarla;
-4. Marque las casillas: “Estoy de acuerdo con la política de privacidad” y “Estoy de acuerdo con los términos de uso del usuario”;
-5. Pulse el botón "Siguiente'.
+4. Confirme el nombre de empresa y correo electrónico (se sugiere utilizar la misma cuenta de correo de administrador de la empresa usada para ingresar al portal);&#x20;
+5. Cree una contraseña;
+6. Repita el ingreso de la contraseña para confirmarla;
+7. Marque las casillas: “Estoy de acuerdo con la política de privacidad” y “Estoy de acuerdo con los términos de uso del usuario”;
+8. Pulse el botón "Siguiente'.
 
 {% hint style="info" %}
 **NOTA**
