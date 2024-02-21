@@ -32,7 +32,7 @@ NOTA&#x20;
 Haciendo clic en ↑↓ se puede ordenar la columna de fecha y hora.
 {% endhint %}
 
-## **Información adicional sobre los filtros de la pantalla "Reportes de Movimientos"**
+### **Información adicional sobre los filtros de la pantalla "Reportes de Movimientos"**
 
 A través de los filtros, es posible identificar las acciones en el portal que tienen registros, lo que permite verificar y rastrear los cambios realizados. Al seleccionar una opción de 'Actividad', se presentarán las opciones de 'Categoría' que tienen registros, según las combinaciones descritas en la tabla a continuación:
 

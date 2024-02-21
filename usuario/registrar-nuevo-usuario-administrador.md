@@ -25,4 +25,8 @@ Si es un responsable de grupo, aparecerán más opciones:
 6. Seleccione el(los) grupo(s) que administrará el usuario. Es necesario crear previamente los grupos usando el menu Grupos >  [Registrar Nuevo Grupo](../grupos/registrar-nuevo-grupo.md).
 7. Haga clic en el botón "Registrar" para completar el registro del usuario.
 
-**Nota**: Al completar el registro, el sistema enviará un correo al usuario con un enlace para crear su contraseña.
+{% hint style="info" %}
+**NOTA**
+
+Al completar el registro, el sistema enviará un correo al usuario con un enlace para crear su contraseña.
+{% endhint %}

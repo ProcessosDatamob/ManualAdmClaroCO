@@ -8,7 +8,7 @@ Para ver los consumos, siga los pasos descritos a continuación.
 
 <figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 171133.png" alt=""><figcaption></figcaption></figure>
 
-Inserir figura Historial de Consumo
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 2. Haga clic en la pestaña "Datos" o "SMS" para elegir el tipo de consumo que desea ver.
 3. Complete las fechas del intervalo en el que se consumieron los Datos o SMS que desea ver. Al hacer clic en "Buscar" se mostrarán los historiales de consumo, por usuario, en el período especificado.
