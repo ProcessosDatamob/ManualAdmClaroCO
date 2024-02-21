@@ -58,9 +58,8 @@ Las aplicaciones deben agregarse primero con Google Play Administrado.
 
 ### Manual
 
-Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente" Rellenar los campos: Nombre de la aplicación (opcional), Nombre del paquete y haga clic en "Agregar".
-
-
+1. Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente"&#x20;
+2. Rellenar los campos: Nombre de la aplicación (opcional), Nombre del paquete y haga clic en "Agregar".
 
 ## **Configuraciones Administradas**
 
@@ -74,7 +73,7 @@ Para acceder a la configuración administrada de una aplicación, debe estar en 
 {% hint style="info" %}
 **IMPORTANTE**
 
-La aplicación Security Browser es el navegador web predeterminado del sistema \<NomeProduto> y con él es posible gestionar bloqueos de sitios por URL y categoría, así como monitorear la navegación del usuario. Consulte la "[Bloqueo de Sitios Web - Security Browser](../../bloqueo-de-sitios-web-security-browser.md)" para obtener información detallada sobre la instalación y configuración de la aplicación Security Browser.
+La aplicación Security Browser es el navegador web predeterminado del sistema **\<NomeProduto**> y con él es posible gestionar bloqueos de sitios por URL y categoría, así como monitorear la navegación del usuario. Consulte la "[Bloqueo de Sitios Web - Security Browser](../../bloqueo-de-sitios-web-security-browser.md)" para obtener información detallada sobre la instalación y configuración de la aplicación Security Browser.
 {% endhint %}
 
 Después del paso 2 se mostrará la siguiente pantalla. En esta pantalla tenemos los siguientes elementos:

@@ -16,12 +16,14 @@ La siguiente captura de pantalla muestra la pantalla de Google Play administrada
 
 ![](<../.gitbook/assets/7 (14).png>)
 
-1. **Botón Buscar -** botón usado para buscar una aplicación;
-2. **Buscar en Play Store -** permite buscar aplicaciones públicas;
-3. **Aplicaciones privadas -** permite cargar aplicaciones propias de la empresa.
-4. **Aplicaciones web -** permite crear aplicaciones web.
-5. Haga clic en la categoría deseada para mostrar más aplicaciones de la categoría.
-6. El botón "**Ver más**" muestra más aplicaciones en la misma categoría.
+* **Botón Buscar -** botón usado para buscar una aplicación;
+* **Buscar en Play Store -** permite buscar aplicaciones públicas;
+* **Aplicaciones privadas -** permite cargar aplicaciones propias de la empresa.
+* **Aplicaciones web -** permite crear aplicaciones web.
+
+Haga clic en la categoría deseada para mostrar más aplicaciones de la categoría.
+
+El botón "**Ver más**" muestra más aplicaciones en la misma categoría.
 
 ## **Aplicaciones Públicas**
 
@@ -84,9 +86,9 @@ Después de registrar una aplicación aparecerá en la pantalla, como se puede v
 
 Al hacer clic en la aplicación aparece la pantalla para editar la aplicación web, como se puede ver en la siguiente imagen. Los botones colocados abajo en la pantalla permiten:
 
-1. Seleccionar la aplicación para su inclusión en las aplicaciones administradas de la empresa.
-2. Editar la configuración y el icono de la aplicación.
-3. Eliminar la aplicación administrada de Google Play.
+8. Seleccionar la aplicación para su inclusión en las aplicaciones administradas de la empresa.
+9. Editar la configuración y el icono de la aplicación.
+10. Eliminar la aplicación administrada de Google Play.
 
 {% hint style="warning" %}
 **IMPORTANTE**
