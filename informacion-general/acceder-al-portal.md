@@ -7,7 +7,7 @@ Cuando el producto **\<NomeProduto>** es habilitado para una empresa, las siguie
 
 Para acceder al Portal de Administración, siga los pasos descritos en esta sección.
 
-1. Accede a la dirección \<EnderecoProduto> para ver la pantalla de acceso del Portal. De preferencia, utilice el navegador Google Chrome, con la versión más actualizada.
+1. Accede a la dirección <mark style="color:orange;">\<EnderecoProduto></mark> para ver la pantalla de acceso del Portal. De preferencia, utilice el navegador Google Chrome, con la versión más actualizada.
 2. Ingrese los campos "Correo electrónico" y "Contraseña" con las credenciales de acceso recibidas en el correo electrónico de bienvenida.
 3. Haga clic en "Iniciar sesión" para confirmar la información y acceder al Portal.
 

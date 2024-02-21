@@ -1,6 +1,6 @@
 # INFORMACIÓN GENERAL
 
-<mark style="color:green;">El propósito de este manual es ayudar al usuario administrador en el uso y configuración del</mark> <mark style="color:green;"></mark><mark style="color:green;">**\<NomeProduto>**</mark><mark style="color:green;">.</mark>
+**El propósito de este manual es ayudar al usuario administrador en el uso y configuración del \<NomeProduto>.**
 
 ## **Visión general de la solución**
 
