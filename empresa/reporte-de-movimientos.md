@@ -36,7 +36,7 @@ Haciendo clic en ↑↓ se puede ordenar la columna de fecha y hora.
 
 A través de los filtros, es posible identificar las acciones en el portal que tienen registros, lo que permite verificar y rastrear los cambios realizados. Al seleccionar una opción de 'Actividad', se presentarán las opciones de 'Categoría' que tienen registros, según las combinaciones descritas en la tabla a continuación:
 
-<table><thead><tr><th width="337">Actividad</th><th>Categoría</th></tr></thead><tbody><tr><td>Inserción</td><td><ul><li>Empresa</li><li>Dispositivo</li></ul></td></tr><tr><td>Edición</td><td><ul><li>Empresa</li></ul></td></tr><tr><td>Exclusión</td><td><ul><li>Dispositivo</li><li>Usuario</li></ul></td></tr><tr><td>Términos de Uso</td><td><ul><li>Empresa</li><li>Dispositivo</li></ul></td></tr><tr><td>Política de Privacidad</td><td><ul><li>Empresa</li><li>Dispositivo</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="337">Actividad</th><th>Categoría</th></tr></thead><tbody><tr><td>Inserción</td><td><ul><li>Empresa</li><li>Dispositivo</li></ul></td></tr><tr><td>Edición</td><td><ul><li>Empresa</li></ul></td></tr><tr><td>Exclusión</td><td><ul><li>Dispositivo</li><li>Usuario</li></ul></td></tr><tr><td><mark style="color:red;">Aceite</mark></td><td><ul><li><mark style="color:red;">Empresa</mark></li><li><mark style="color:red;">Dispositivo</mark></li><li><mark style="color:red;">Usuário</mark></li></ul></td></tr><tr><td><mark style="color:red;">Envio</mark></td><td><ul><li><mark style="color:red;">Empresa</mark></li><li><mark style="color:red;">Dispositivo</mark></li><li><mark style="color:red;">Política</mark></li><li><mark style="color:red;">Usuário</mark></li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 **NOTA**&#x20;

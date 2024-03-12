@@ -15,7 +15,7 @@ Para acceder a la configuración del "**Modo Quiosco**", siga estos pasos:&#x20;
 
 4. Al activar el Modo Quiosco en la política y aprovisionar un dispositivo con esta política, la aplicación Kiosk Launcher Manager se instalará automáticamente en el dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cuando el dispositivo instala la aplicación Kiosk, esta aplicación capturará la lista de todos los programas instalados en el dispositivo y enviará esta lista al Portal. Además, mostrará las siguientes configuraciones en el portal:
 
