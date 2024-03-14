@@ -32,6 +32,7 @@
       * [Restricciones de Contraseña](configuracion/editar-politica/configuracion-general/restricciones-de-contrasena.md)
       * [Seguridad](configuracion/editar-politica/configuracion-general/seguridad.md)
       * [Sistema Operativo](configuracion/editar-politica/configuracion-general/sistema-operativo.md)
+      * [Trabajo](configuracion/editar-politica/configuracion-general/trabajo.md)
       * [Ubicación](configuracion/editar-politica/configuracion-general/ubicacion.md)
       * [Usuario](configuracion/editar-politica/configuracion-general/usuario.md)
       * [VPN](configuracion/editar-politica/configuracion-general/configuracion-de-vpn.md)

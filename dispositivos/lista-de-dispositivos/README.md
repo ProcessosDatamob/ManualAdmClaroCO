@@ -13,12 +13,12 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 6. Para copiar la información de los dispositivos, haga clic en el botón "Copiar".
 7. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar o utilizar los Filtros Avanzados para buscar Modo de Administración y Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../../.gitbook/assets/1 (6).png>)”.
 9. Haga clic en ">" para ver toda la información del dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**&#x20;
@@ -40,7 +40,7 @@ La información del dispositivo que se muestra en la lista es:&#x20;
 
 Al hacer clic en el signo ">" junto al usuario, el sistema muestra más información como se puede ver en la imagen de abajo.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Política - nombre de la política asignada al dispositivo;&#x20;
 * Modo de administración - modo de administración asignado al dispositivo;

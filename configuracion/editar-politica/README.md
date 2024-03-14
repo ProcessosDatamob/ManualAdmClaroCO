@@ -9,8 +9,8 @@ En la siguiente imagen se muestra la pantalla "Editar política" y resalta los e
 
 1. Para guardar todas las configuraciones (Ajustes, aplicaciones y modo quiosco) haga clic en el botón "Guardar".
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cada una de las guías de configuración se describe en las siguientes secciones:
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

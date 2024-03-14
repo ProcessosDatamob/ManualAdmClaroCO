@@ -10,7 +10,7 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 
 2. <mark style="color:red;">Defina as configurações desejadas conforme as opções da tela de Configurações Gerais:</mark>&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 * **Inicio del ciclo -** Utilizamos este campo para definir la fecha de inicio de la contabilización de los datos que serán analizados.
 * **Sincronizar a cada -** Este campo define el tiempo de sincronización del portal, es decir, el tiempo para sincronizar con los datos recibidos de los dispositivos.

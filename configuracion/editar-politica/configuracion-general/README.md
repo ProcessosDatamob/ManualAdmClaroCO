@@ -8,6 +8,7 @@ Los "Ajustes" se agrupan en los tipos:
 * Restricciones de contraseña
 * Seguridad
 * Sistema operativo
+* Trabajo
 * Ubicación
 * Usuario
 * VPN
