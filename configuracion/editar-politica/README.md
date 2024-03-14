@@ -13,4 +13,4 @@ En la siguiente imagen se muestra la pantalla "Editar política" y resalta los e
 
 Cada una de las guías de configuración se describe en las siguientes secciones:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
