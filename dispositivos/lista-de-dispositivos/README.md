@@ -7,26 +7,31 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 <figure><img src="../../.gitbook/assets/Captura de tela 2023-11-03 103939.png" alt=""><figcaption></figcaption></figure>
 
 2. En la parte superior de la pantalla, el sistema muestra la distribución de los dispositivos, separados por fabricantes.
-3. La lista de dispositivos se muestra en la parte inferior de la pantalla.
-4. Para localizar un dispositivo específico, escriba el nombre de usuario, IMEI o ICCID del dispositivo en el campo "Buscar".
-5. Para exportar el reporte de los dispositivos, haga clic en el botón "Excel".
-6. Para copiar la información de los dispositivos, haga clic en el botón "Copiar".
-7. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar o utilizar los Filtros Avanzados para buscar Modo de Administración y Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.
+3. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar.
+4. Utilice los Filtros Avanzados para buscar Modo de Administración y Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.
+5. Para localizar un dispositivo específico, escriba el nombre de usuario, IMEI o ICCID del dispositivo en el campo "Buscar".
+6. Para exportar el reporte de los dispositivos, haga clic en el botón "Excel".
+7. Para copiar la información de los dispositivos, haga clic en el botón "Copiar".
+8. <mark style="color:red;">Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo Ações em lote nesta página</mark>
+9. La lista de dispositivos se muestra en la parte inferior de la pantalla.
+10. Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../../.gitbook/assets/1 (6).png>)”.
+11. Haga clic en ">" para ver toda la información del dispositivo.
+12. Utilice los tres puntos "..." para mostrar el menú de acciones y aplicar la acción deseada al dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+### <mark style="color:red;">Ações em lote</mark>
 
-8. Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../../.gitbook/assets/1 (6).png>)”.
-9. Haga clic en ">" para ver toda la información del dispositivo.
+<mark style="color:red;">Ao clicar na opção “Ações em lote" o sistema exibirá uma tela contendo alguns campos para preenchimento, conforme pode ser visto na tela abaixo.</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-**NOTA**&#x20;
+* <mark style="color:red;">Empresa: clique no campo empresa e no nome da empresa para enviar um camando para todos os dispositivos da empresa (ao selecionar a empresa, os campos de grupo e usuário ficaram desabilitado)</mark>
+* <mark style="color:red;">Grupos: clique em grupo e escolha o grupo desejado</mark>
+* <mark style="color:red;">Usuário de dispositivos: clique em usuário e escolha o usuário desejado.</mark>&#x20;
+* <mark style="color:red;">Comandos: clique em comando e escolha o comando desejado (Desativar dispositivo, Ativar dispositivo, Desligar tela, Reiniciar dispositivo ou Remover dispositivo (Wipe))</mark>
 
-Para buscar por el número de teléfono utilizar el campo de búsqueda libre.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-10. Utilice los tres puntos "..." para mostrar el menú de acciones y aplicar la acción deseada al dispositivo.
+<mark style="color:red;">Após definir os dados da tela clique em "Enviar" para enviar o comando.  Antes de executar o envio, o sistema abrirá uma caixa de diálogo com os botões "Confirmar" e "Cancelar".</mark>&#x20;
 
 ### **Información del dispositivo**
 
