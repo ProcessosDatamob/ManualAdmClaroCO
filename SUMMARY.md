@@ -64,7 +64,7 @@
 
 * [Release Notes \<NomeProduto> V7.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
 * [Release Notes \<NomeProduto> V 6.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/README.md)
-  * [Auditoria de Criação, Cópia e Exclusão de Políticas](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/auditoria-de-criacao-copia-e-exclusao-de-politicas.md)
+  * [Reporte de Movimientos de Creación, Copia e Exclusión de Políticas](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/reporte-de-movimientos-de-creacion-copia-e-exclusion-de-politicas.md)
   * [Exportação do Relatório de Não Conformidade](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/exportacao-do-relatorio-de-nao-conformidade.md)
   * [Alteração de Senha de Novo Usuário a partir de Link](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/alteracao-de-senha-de-novo-usuario-a-partir-de-link.md)
   * [Filtros de Aplicativos de Sistema no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/filtros-de-aplicativos-de-sistema-no-modo-quiosque.md)
