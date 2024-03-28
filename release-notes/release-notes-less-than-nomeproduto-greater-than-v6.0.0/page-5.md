@@ -1,5 +1,0 @@
-# Page 5
-
-
-
-[**Voltar ao menu inicial**](./)
