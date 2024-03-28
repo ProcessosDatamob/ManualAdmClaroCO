@@ -62,7 +62,7 @@
 
 ## Release Notes&#x20;
 
-* [Release Notes \<NomeProduto> V 7.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/README.md)
+* [Release Notes \<NomeProduto> V 7.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
   * [Ativação de Apps de Sistemas via QRCode](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/ativacao-de-apps-de-sistemas-via-qrcode.md)
   * [Ativação de Apps de Sistemas via Comando](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/ativacao-de-apps-de-sistemas-via-comando.md)
   * [Restrição de Funcionamento de Apps por Horário](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/restricao-de-funcionamento-de-apps-por-horario.md)
@@ -72,7 +72,7 @@
   * [Ações em Lote de Dispositivos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/acoes-em-lote-de-dispositivos.md)
   * [Bloqueio Total Fora do Horário de Trabalho](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/bloqueio-total-fora-do-horario-de-trabalho.md)
 * [Release Notes \<NomeProduto> V 6.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/README.md)
-  * [Reporte de Movimientos de Creación, Copia e Exclusión de Políticas](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/reporte-de-movimientos-de-creacion-copia-e-exclusion-de-politicas.md)
+  * [Reporte de Movimientos de Creación, Copia y Exclusión de Políticas](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/reporte-de-movimientos-de-creacion-copia-y-exclusion-de-politicas.md)
   * [Exportação do Relatório de Não Conformidade](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/exportacao-do-relatorio-de-nao-conformidade.md)
   * [Alteração de Senha de Novo Usuário a partir de Link](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/alteracao-de-senha-de-novo-usuario-a-partir-de-link.md)
   * [Filtros de Aplicativos de Sistema no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/filtros-de-aplicativos-de-sistema-no-modo-quiosque.md)
