@@ -59,3 +59,7 @@
 * [AYUDA](ayuda/README.md)
   * [Preguntas Frecuentes](ayuda/preguntas-frecuentes.md)
   * [Documentos y materiales de apoyo](ayuda/documentos-y-materiales-de-apoyo.md)
+
+## Release Notes&#x20;
+
+* [Release Notes \<NomeProduto> V6.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v6.0.0.md)
