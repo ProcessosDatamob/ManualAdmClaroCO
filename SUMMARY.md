@@ -62,4 +62,9 @@
 
 ## Release Notes&#x20;
 
-* [Release Notes \<NomeProduto> V6.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v6.0.0.md)
+* [Release Notes \<NomeProduto> V7.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
+* [Release Notes \<NomeProduto> V6.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v6.0.0/README.md)
+  * [Page 1](release-notes/release-notes-less-than-nomeproduto-greater-than-v6.0.0/page-1.md)
+  * [Page](release-notes/release-notes-less-than-nomeproduto-greater-than-v6.0.0/page.md)
+  * [Page 2](release-notes/release-notes-less-than-nomeproduto-greater-than-v6.0.0/page-2.md)
+  * [Page 3](release-notes/release-notes-less-than-nomeproduto-greater-than-v6.0.0/page-3.md)
