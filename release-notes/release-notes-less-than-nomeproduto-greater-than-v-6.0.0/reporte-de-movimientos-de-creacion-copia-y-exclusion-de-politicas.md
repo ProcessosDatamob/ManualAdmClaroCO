@@ -1,9 +1,8 @@
 # Reporte de Movimientos de Creación, Copia y Exclusión de Políticas
 
-Ao criar, copiar ou excluir uma política, essa ação será registrada e poderá ser visualizada na tela de auditoria.
+Al crear, copiar o eliminar una política, esta acción será registrada y podrá ser visualizada en la pantalla de Reporte de Movimientos.
 
-Acessando a tela de Auditoria o usuário poderá localizar os registros filtrando pelas atividades "Inserção" ou "Exclusão" e categoria "Política".\
-Caso tenha sido feito uma cópia, a informação será exibida no campo "Alterações".
+Accediendo a la pantalla de Reporte de Movimientos, el usuario podrá localizar los registros filtrando por las actividades de "Inserción" o "Exclusión" y la categoría "Política". En caso de que se haya realizado una copia, la información se mostrará en el campo "Modificaciones".
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
