@@ -133,14 +133,14 @@ Las aplicaciones deben agregarse primero con Google Play Administrado.
 1. Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente"&#x20;
 2. Rellenar los campos: Nombre de la aplicación (opcional), Nombre del paquete y haga clic en "Agregar".
 
-### <mark style="color:red;">R</mark><mark style="color:red;">estrições de Funcionamento</mark>
+### <mark style="color:red;">Restrições de Funcionamento</mark>
 
 <mark style="color:red;">Para definir restrições de funcionamento de aplicativos por dias e horários, é necessário clicar no icone de restrições de funcionamento na linha referente ao aplicativo desejado. A imagem a seguir destaca:</mark>&#x20;
 
 1. <mark style="color:red;">Ícones para acessar a opção "Restrições de Funcionamento";</mark>&#x20;
 2. <mark style="color:red;">Botão seletor para ativar restrições.</mark>
 
-<mark style="color:red;">A opção de "Restrições de Funcionamento" está disponível para todos os aplicativos, exceto: aplicativo do sistema</mark> <mark style="color:red;"></mark><mark style="color:red;">**\<nome\_produto>**</mark><mark style="color:red;">, Kiosk Launcher, Block Sim e Remote View.  Quando o aplicativo já possui restrição de funcionamento, o seu ícone de restrição de funcionamento mudará para</mark> ![](../../.gitbook/assets/image.png)<mark style="color:red;">.</mark>
+<mark style="color:red;">A opção de "Restrições de Funcionamento" está disponível para todos os aplicativos, exceto: aplicativo do sistema</mark> <mark style="color:red;"></mark><mark style="color:red;">**\<nome\_produto>**</mark><mark style="color:red;">, Kiosk Launcher, Block Sim e Remote View.  Quando o aplicativo já possui restrição de funcionamento, o seu ícone de restrição de funcionamento mudará para</mark> ![](<../../.gitbook/assets/image (33).png>)<mark style="color:red;">.</mark>
 
 <mark style="color:red;">Para ativar as restrições:</mark>
 
