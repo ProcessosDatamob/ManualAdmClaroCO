@@ -77,7 +77,7 @@
   * [Modificación de la contraseña del nuevo usuario a través de un enlace](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/alteracao-de-senha-de-novo-usuario-a-partir-de-link.md)
   * [Filtros de Aplicaciones del Sistema en Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/filtros-de-aplicativos-de-sistema-no-modo-quiosque.md)
   * [Nuevos Filtros de Registro en el Reporte de Movimientos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/nuevos-filtros-de-registro-en-el-reporte-de-movimientos.md)
-  * [Configuração de Cor das Fontes dos Ícones no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-de-cor-das-fontes-dos-icones-no-modo-quiosque.md)
+  * [Configuración del Color de las Fuentes de los Iconos en el Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-del-color-de-las-fuentes-de-los-iconos-en-el-modo-quiosco.md)
   * [Filtros Avançados na Tela de Dispositivos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/filtros-avancados-na-tela-de-dispositivos.md)
   * [Configuração da Orientação da Tela do Dispositivo no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-da-orientacao-da-tela-do-dispositivo-no-modo-quiosque.md)
   * [Informação de Data da Última Comunicação](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/informacao-de-data-da-ultima-comunicacao.md)
