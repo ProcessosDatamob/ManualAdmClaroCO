@@ -4,6 +4,6 @@ Na tela de edição de uma Política com o Modo Quiosque ativo, foi incluída um
 
 Com essa configuração é possível ajustar a visualização das informações da tela de acordo com a necessidade do usuário.
 
-
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

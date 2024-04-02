@@ -4,6 +4,6 @@ Na tela "Empresas > Configurações Gerais" foi incluído o campo para definir o
 
 Após exceder o tempo limite definido sem realizar nenhuma atividade no portal, o sistema realiza o logout automático do usuário e  apresenta a mensagem informando que a sessão expirou.
 
-
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

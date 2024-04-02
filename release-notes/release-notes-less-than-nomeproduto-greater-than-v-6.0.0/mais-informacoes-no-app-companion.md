@@ -15,6 +15,6 @@ No aplicativo "Companion" foi incluída uma nova opção “Sobre“ que dá ace
 * Rede conectada
 * Força do Sinal da Rede
 
-
+<mark style="background-color:orange;">PRINT CELULAR</mark>
 
 [**Voltar ao menu inicial**](./)

@@ -4,8 +4,6 @@ Na tela de Auditoria foi criado o novo filtro de atividade "Aceite" que permite 
 
 Para fazer um filtro mais específico dos aceites, foi incluída também as categorias: Empresa, Dispositivo e Usuário.
 
-
-
-
+<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

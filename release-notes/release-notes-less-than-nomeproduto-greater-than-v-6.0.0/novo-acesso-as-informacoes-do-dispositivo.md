@@ -6,6 +6,6 @@ Ao clicar no ícone, o sistema exibe as informações "Detalhes", "Instalação"
 
 Nesta tela é possível atualizar as informações conforme o tempo de sincronismos.
 
-
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-04-02 162705.png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

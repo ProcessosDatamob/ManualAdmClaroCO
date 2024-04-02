@@ -6,6 +6,6 @@ Quando o usuário fizer logout ou a sua sessão expirar, ao informar as credenci
 
 O sistema solicitará o preenchimento do código de confirmação para liberar o acesso ao portal de administração. O usuário deverá informar corretamente o código de 6 dígitos ou não conseguirá acessar o Portal novamente.
 
-
+<mark style="background-color:orange;">PRINT CELULAR</mark>
 
 [**Voltar ao menu inicial**](./)

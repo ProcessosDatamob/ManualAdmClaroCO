@@ -4,6 +4,4 @@ En la pantalla de edición de una política con el Modo Quiosco activado, despu�
 
 
 
-
-
 [**Voltar ao menu inicial**](./)

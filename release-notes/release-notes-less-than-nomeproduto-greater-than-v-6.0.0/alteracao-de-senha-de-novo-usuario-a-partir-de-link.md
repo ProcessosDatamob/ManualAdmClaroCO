@@ -4,6 +4,6 @@ Al confirmar el registro de un nuevo usuario administrador en el Portal, el sist
 
 Con este nuevo flujo de creación de contraseña, el campo de contraseña no se mostrará en la pantalla de registro de usuario, pero se mantendrá en la edición de un registro existente.
 
-
+<mark style="background-color:orange;">NÃO CONSEGUI PRINT</mark>
 
 [**Voltar ao menu inicial**](./)
