@@ -80,7 +80,7 @@
   * [Configuración del Color de las Fuentes de los Iconos en el Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-del-color-de-las-fuentes-de-los-iconos-en-el-modo-quiosco.md)
   * [Filtros Avanzados en la Pantalla de Dispositivos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/filtros-avanzados-en-la-pantalla-de-dispositivos.md)
   * [Configuración de la Orientación de la Pantalla del Dispositivo en el Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-de-la-orientacion-de-la-pantalla-del-dispositivo-en-el-modo-quiosco.md)
-  * [Informação de Data da Última Comunicação](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/informacao-de-data-da-ultima-comunicacao.md)
+  * [Información de la Fecha de la Última Comunicación](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/informacion-de-la-fecha-de-la-ultima-comunicacion.md)
   * [Configuração do Layout da Imagem do Papel de Parede no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-do-layout-da-imagem-do-papel-de-parede-no-modo-quiosque.md)
   * [Criação de Grupos de Dispositivos em Lote](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/criacao-de-grupos-de-dispositivos-em-lote.md)
   * [Configuração de Wifi no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-de-wifi-no-modo-quiosque.md)
