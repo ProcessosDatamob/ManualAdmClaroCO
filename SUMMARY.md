@@ -75,7 +75,7 @@
   * [Reporte de Movimientos de Creación, Copia y Exclusión de Políticas](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/reporte-de-movimientos-de-creacion-copia-y-exclusion-de-politicas.md)
   * [Exportación del Informe de No Conformidad](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/exportacion-del-informe-de-no-conformidad.md)
   * [Modificación de la contraseña del nuevo usuario a través de un enlace](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/modificacion-de-la-contrasena-del-nuevo-usuario-a-traves-de-un-enlace.md)
-  * [Filtros de Aplicativos de Sistema no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/filtros-de-aplicativos-de-sistema-no-modo-quiosque.md)
+  * [Filtros de Aplicaciones del Sistema en Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/filtros-de-aplicaciones-del-sistema-en-modo-quiosco.md)
   * [Novos Filtros de Registro na Auditoria](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/novos-filtros-de-registro-na-auditoria.md)
   * [Configuração de Cor das Fontes dos Ícones no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-de-cor-das-fontes-dos-icones-no-modo-quiosque.md)
   * [Filtros Avançados na Tela de Dispositivos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/filtros-avancados-na-tela-de-dispositivos.md)
