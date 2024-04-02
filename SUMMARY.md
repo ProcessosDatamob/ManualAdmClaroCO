@@ -81,7 +81,7 @@
   * [Filtros Avanzados en la Pantalla de Dispositivos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/filtros-avanzados-en-la-pantalla-de-dispositivos.md)
   * [Configuración de la Orientación de la Pantalla del Dispositivo en el Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-de-la-orientacion-de-la-pantalla-del-dispositivo-en-el-modo-quiosco.md)
   * [Información de la Fecha de la Última Comunicación](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/informacion-de-la-fecha-de-la-ultima-comunicacion.md)
-  * [Configuração do Layout da Imagem do Papel de Parede no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-do-layout-da-imagem-do-papel-de-parede-no-modo-quiosque.md)
+  * [Configuración del Layout de la Imagen del Fondo de Pantalla en Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-del-layout-de-la-imagen-del-fondo-de-pantalla-en-modo-quiosco.md)
   * [Criação de Grupos de Dispositivos em Lote](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/criacao-de-grupos-de-dispositivos-em-lote.md)
   * [Configuração de Wifi no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-de-wifi-no-modo-quiosque.md)
   * [Acesso ao Manual de Apoio Online](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/acesso-ao-manual-de-apoio-online.md)
