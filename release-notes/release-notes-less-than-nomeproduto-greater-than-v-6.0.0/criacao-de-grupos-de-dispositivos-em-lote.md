@@ -4,6 +4,6 @@ Na tela de "Gerenciar Grupos" foi criada a opção de "Cadastro em Lote", onde �
 
 Após preencher o modelo, é possível realizar a importação deste arquivo. Neste momento será realizado o cadastro em lote dos grupos e dispositivos informados.
 
-
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)
