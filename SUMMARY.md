@@ -86,7 +86,7 @@
   * [Configuración de Wi-Fi en Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-de-wifi-no-modo-quiosque.md)
   * [Acceso al Manual del Administrador Online](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/acceso-al-manual-del-administrador-online.md)
   * [Configuración de Ordenación de los Iconos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-de-ordenacion-de-los-iconos.md)
-  * [Nova Coluna com Informação do "Nome do Pacote"](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/nova-coluna-com-informacao-do-nome-do-pacote.md)
+  * [Nueva Columna con Información del "Nombre del Paquete"](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/nueva-columna-con-informacion-del-nombre-del-paquete.md)
   * [Configuração do Tamanho de Fontes e Ícones](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-do-tamanho-de-fontes-e-icones.md)
   * [Inclusão Manual de Aplicativos de Sistema](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/inclusao-manual-de-aplicativos-de-sistema.md)
   * [Mais Informações no App Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/mais-informacoes-no-app-companion.md)
