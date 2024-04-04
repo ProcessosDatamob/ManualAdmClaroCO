@@ -85,7 +85,7 @@
   * [Creación de Grupos de Dispositivos en Lote](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/creacion-de-grupos-de-dispositivos-en-lote.md)
   * [Configuración de Wi-Fi en Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-de-wifi-no-modo-quiosque.md)
   * [Acceso al Manual del Administrador Online](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/acceso-al-manual-del-administrador-online.md)
-  * [Configuração de Ordenação dos Ícones](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-de-ordenacao-dos-icones.md)
+  * [Configuración de Ordenación de los Iconos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-de-ordenacion-de-los-iconos.md)
   * [Nova Coluna com Informação do "Nome do Pacote"](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/nova-coluna-com-informacao-do-nome-do-pacote.md)
   * [Configuração do Tamanho de Fontes e Ícones](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-do-tamanho-de-fontes-e-icones.md)
   * [Inclusão Manual de Aplicativos de Sistema](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/inclusao-manual-de-aplicativos-de-sistema.md)
