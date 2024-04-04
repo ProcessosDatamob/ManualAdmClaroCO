@@ -1,6 +1,6 @@
 # Nuevo Acceso a la Información del Dispositivo
 
-En la pantalla "Lista de Dispositivos" se ha agregado un nuevo icono para acceder rápidamente a la información del dispositivo.&#x20;
+En la pantalla "Lista de Dispositivos" se ha agregado un nuevo icono para acceder rápidamente a la información del dispositivo. El icono se encuentra ubicado a la derecha en la línea del dispositivo.
 
 Al hacer clic en el icono, el sistema muestra los detalles, la instalación y el hardware del dispositivo.&#x20;
 

@@ -95,4 +95,4 @@
   * [Expiración de la Sesión del Usuario del Portal (MFA)](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/expiracion-de-la-sesion-del-usuario-del-portal-mfa.md)
   * [Nuevo Filtro y Columna de "Modo de Gestión"](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/novo-filtro-e-coluna-de-modo-de-gerenciamento.md)
   * [Cambio del Bloqueo de Cuentas por Dominio](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/cambio-del-bloqueo-de-cuentas-por-dominio.md)
-  * [Nuevo Acceso a la Información del Dispositivo](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/nuevo-acceso-a-la-informacion-del-dispositivo.md)
+  * [Nuevo Acceso a la Información del Dispositivo](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/novo-acesso-as-informacoes-do-dispositivo.md)
