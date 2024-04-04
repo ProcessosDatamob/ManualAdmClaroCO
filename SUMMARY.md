@@ -90,7 +90,7 @@
   * [Configuración del Tamaño de Fuentes e Iconos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-del-tamano-de-fuentes-e-iconos.md)
   * [Inclusión Manual de Aplicaciones del Sistema](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/inclusion-manual-de-aplicaciones-del-sistema.md)
   * [Más Información en la Aplicación Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/mais-informacoes-no-app-companion.md)
-  * [Solicitação de Duplo Fator de Autenticação (MFA) (Estará oculto nesta versão)](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/solicitacao-de-duplo-fator-de-autenticacao-mfa-estara-oculto-nesta-versao.md)
+  * [Autenticación de Doble Factor (MFA)](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/autenticacion-de-doble-factor-mfa.md)
   * [Informação da Versão do Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/informacao-da-versao-do-companion.md)
   * [Expiração de Sessão do Usuário do Portal (MFA)](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/expiracao-de-sessao-do-usuario-do-portal-mfa.md)
   * [Novo Filtro e Coluna de "Modo de Gerenciamento"](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/novo-filtro-e-coluna-de-modo-de-gerenciamento.md)
