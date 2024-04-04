@@ -83,7 +83,7 @@
   * [Información de la Fecha de la Última Comunicación](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/informacion-de-la-fecha-de-la-ultima-comunicacion.md)
   * [Configuración del Layout de la Imagen del Fondo de Pantalla en Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-del-layout-de-la-imagen-del-fondo-de-pantalla-en-modo-quiosco.md)
   * [Creación de Grupos de Dispositivos en Lote](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/creacion-de-grupos-de-dispositivos-en-lote.md)
-  * [Configuração de Wifi no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-de-wifi-no-modo-quiosque.md)
+  * [Configuración de Wi-Fi en Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-de-wi-fi-en-modo-quiosco.md)
   * [Acesso ao Manual de Apoio Online](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/acesso-ao-manual-de-apoio-online.md)
   * [Configuração de Ordenação dos Ícones](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracao-de-ordenacao-dos-icones.md)
   * [Nova Coluna com Informação do "Nome do Pacote"](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/nova-coluna-com-informacao-do-nome-do-pacote.md)
