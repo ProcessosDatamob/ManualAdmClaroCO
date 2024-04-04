@@ -1,6 +1,6 @@
 # Más Información en la Aplicación Companion
 
-En la aplicación "Companion" se ha incluido una nueva opción <mark style="background-color:orange;">"Acerca de"</mark> que brinda acceso a una pantalla que contiene las siguientes informaciones:
+En la aplicación "Companion" se ha incluido una nueva opción <mark style="background-color:orange;">"Acerca de"</mark>  que brinda acceso a una pantalla que contiene las siguientes informaciones:
 
 * Fabricante&#x20;
 * Modelo&#x20;
