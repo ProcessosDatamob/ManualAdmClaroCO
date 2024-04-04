@@ -92,7 +92,7 @@
   * [Más Información en la Aplicación Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/mais-informacoes-no-app-companion.md)
   * [Autenticación de Doble Factor (MFA)](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/autenticacion-de-doble-factor-mfa.md)
   * [Información de la Versión de la Aplicación Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/informacion-de-la-version-de-la-aplicacion-companion.md)
-  * [Expiração de Sessão do Usuário do Portal (MFA)](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/expiracao-de-sessao-do-usuario-do-portal-mfa.md)
+  * [Expiración de la Sesión del Usuario del Portal (MFA)](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/expiracion-de-la-sesion-del-usuario-del-portal-mfa.md)
   * [Novo Filtro e Coluna de "Modo de Gerenciamento"](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/novo-filtro-e-coluna-de-modo-de-gerenciamento.md)
   * [Alteração do Bloqueio de Contas por Domínio](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/alteracao-do-bloqueio-de-contas-por-dominio.md)
   * [Novo Acesso às Informações do Dispositivo](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/novo-acesso-as-informacoes-do-dispositivo.md)
