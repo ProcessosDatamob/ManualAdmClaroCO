@@ -88,7 +88,7 @@
   * [Configuración de Ordenación de los Iconos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-de-ordenacion-de-los-iconos.md)
   * [Nueva Columna con Información del "Nombre del Paquete"](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/nueva-columna-con-informacion-del-nombre-del-paquete.md)
   * [Configuración del Tamaño de Fuentes e Iconos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/configuracion-del-tamano-de-fuentes-e-iconos.md)
-  * [Inclusão Manual de Aplicativos de Sistema](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/inclusao-manual-de-aplicativos-de-sistema.md)
+  * [Inclusión Manual de Aplicaciones del Sistema](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/inclusion-manual-de-aplicaciones-del-sistema.md)
   * [Mais Informações no App Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/mais-informacoes-no-app-companion.md)
   * [Solicitação de Duplo Fator de Autenticação (MFA) (Estará oculto nesta versão)](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/solicitacao-de-duplo-fator-de-autenticacao-mfa-estara-oculto-nesta-versao.md)
   * [Informação da Versão do Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-6.0.0/informacao-da-versao-do-companion.md)
