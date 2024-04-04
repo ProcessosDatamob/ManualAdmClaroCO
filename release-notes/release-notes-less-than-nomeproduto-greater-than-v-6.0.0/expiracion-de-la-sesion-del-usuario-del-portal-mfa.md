@@ -4,6 +4,6 @@ En la pantalla "Empresas > Configuraciones Generales" se ha agregado el campo pa
 
 Después de exceder el tiempo límite definido sin realizar ninguna actividad en el portal, el sistema cerrará automáticamente la sesión del usuario y mostrará un mensaje informando que la sesión ha expirado.
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

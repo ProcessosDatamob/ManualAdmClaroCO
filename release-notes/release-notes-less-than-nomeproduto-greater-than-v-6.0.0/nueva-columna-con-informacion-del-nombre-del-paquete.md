@@ -4,6 +4,6 @@ En la pantalla de "Edición de la Política", se ha incluido una columna con el 
 
 De esta manera, será más fácil identificar la aplicación que se mostrará o instalará en el dispositivo.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-04-03 140040.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-04-04 135039.png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)
