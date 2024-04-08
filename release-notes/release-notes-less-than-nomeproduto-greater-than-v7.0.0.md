@@ -8,5 +8,5 @@
 4. [Configuração de MFA por Empresa](release-notes-less-than-nomeproduto-greater-than-v-7.0.0/configuracao-de-mfa-por-empresa.md)
 5. [Registro de Log de Ações em Lote](release-notes-less-than-nomeproduto-greater-than-v-7.0.0/registro-de-log-de-acciones-en-lote.md)
 6. [Configuração de Serviços de Telefonia](release-notes-less-than-nomeproduto-greater-than-v-7.0.0/configuracion-de-servicios-de-telefonia.md)
-7. [Ações em Lote de Dispositivos](release-notes-less-than-nomeproduto-greater-than-v-7.0.0/acoes-em-lote-de-dispositivos.md)
+7. [Ações em Lote de Dispositivos](release-notes-less-than-nomeproduto-greater-than-v-7.0.0/acciones-por-lote-de-dispositivos.md)
 8. [Bloqueio Fora do Horário de Trabalho](release-notes-less-than-nomeproduto-greater-than-v-7.0.0/bloqueio-fora-do-horario-de-trabalho.md)
