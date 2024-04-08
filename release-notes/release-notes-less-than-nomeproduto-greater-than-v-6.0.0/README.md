@@ -17,11 +17,11 @@ Novedades de la Versión
 13. [Acceso al Manual del Administrador Online](acceso-al-manual-del-administrador-online.md)
 14. [Configuración de Ordenación de los Iconos](configuracion-de-la-orientacion-de-la-pantalla-del-dispositivo-en-el-modo-quiosco.md)
 15. [Nueva Columna con Información del "Nombre del Paquete"](nueva-columna-con-informacion-del-nombre-del-paquete.md)
-16.
-17. Nova Coluna com Informação do "Nome do Pacote"&#x20;
-18. Configuração do Tamanho de Fontes e Ícones&#x20;
-19. Inclusão Manual de Aplicativos de Sistema&#x20;
-20. Mais Informações no App Companion&#x20;
+16. [Configuración del Tamaño de Fuentes e Iconos](configuracion-del-tamano-de-fuentes-e-iconos.md)
+17. &#x20;[Inclusión Manual de Aplicaciones del Sistema](inclusion-manual-de-aplicaciones-del-sistema.md)
+18. [Más Información en la Aplicación Companion](mais-informacoes-no-app-companion.md)
+19.
+20.
 21. Solicitação de Duplo Fator de Autenticação (MFA) _(Estará oculto nesta versão)_&#x20;
 22. Informação da Versão do Companion&#x20;
 23. Expiração de Sessão do Usuário do Portal (MFA)&#x20;
