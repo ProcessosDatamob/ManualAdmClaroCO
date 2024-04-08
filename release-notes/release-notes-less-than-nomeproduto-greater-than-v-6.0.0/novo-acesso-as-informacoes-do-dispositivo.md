@@ -8,4 +8,4 @@ En esta pantalla es posible actualizar la información según el tiempo de sincr
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-04-02 162705.png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;

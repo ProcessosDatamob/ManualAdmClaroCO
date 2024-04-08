@@ -4,4 +4,4 @@ En la pantalla de "Dispositivos > Lista de Dispositivos" ahora se mostrará la v
 
 <mark style="background-color:orange;">PRINT  Celular e  Portal</mark>&#x20;
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;

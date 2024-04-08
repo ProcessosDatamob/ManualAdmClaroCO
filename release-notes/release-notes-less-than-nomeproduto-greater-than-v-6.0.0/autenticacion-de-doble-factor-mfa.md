@@ -4,4 +4,4 @@ En esta versión el sistema cuenta con autenticación de doble factor para acced
 
 <mark style="background-color:orange;">PRINT Portal</mark>&#x20;
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;

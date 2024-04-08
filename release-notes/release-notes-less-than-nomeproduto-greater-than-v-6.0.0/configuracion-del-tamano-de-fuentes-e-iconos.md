@@ -6,4 +6,4 @@ Con esta configuración, es posible ajustar la visualización de la información
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;

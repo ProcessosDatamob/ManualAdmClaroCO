@@ -6,4 +6,4 @@ Después de exceder el tiempo límite definido sin realizar ninguna actividad en
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;

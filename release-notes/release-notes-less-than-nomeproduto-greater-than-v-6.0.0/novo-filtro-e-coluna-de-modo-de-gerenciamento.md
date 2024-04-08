@@ -6,4 +6,4 @@ Se ha agregado una nueva columna en la lista para identificar el Modo de Gestió
 
 <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;

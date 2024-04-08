@@ -17,4 +17,4 @@ En la aplicación "Companion" se ha incluido una nueva opción <mark style="back
 
 <mark style="background-color:orange;">PRINT CELULAR</mark>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;

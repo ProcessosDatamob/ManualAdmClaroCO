@@ -4,4 +4,4 @@ En la pantalla de edición de una Política con el Modo Quiosco activado, se ha 
 
 <figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;

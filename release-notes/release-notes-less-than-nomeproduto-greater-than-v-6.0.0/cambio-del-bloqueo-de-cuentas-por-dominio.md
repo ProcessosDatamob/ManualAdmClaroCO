@@ -6,4 +6,4 @@ El comportamiento de la configuración seguirá siendo el mismo, bloqueando la c
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-04-02 162601.png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;
