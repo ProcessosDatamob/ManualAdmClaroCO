@@ -4,4 +4,4 @@ Permite la activación de aplicaciones de sistema mediante el envío de mensajes
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
-[Voltar ao menu inicial](../release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
+[Volver a la lista de Release Notes](../release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)

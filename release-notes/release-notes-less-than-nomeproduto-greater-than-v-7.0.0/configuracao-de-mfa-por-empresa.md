@@ -4,4 +4,4 @@ En la pantalla de "Configuraciones Generales" del menu  "Empresas", se ha agrega
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-04-04 135735.png" alt=""><figcaption></figcaption></figure>
 
-[Voltar ao menu inicial](../release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
+[Volver a la lista de Release Notes](../release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)

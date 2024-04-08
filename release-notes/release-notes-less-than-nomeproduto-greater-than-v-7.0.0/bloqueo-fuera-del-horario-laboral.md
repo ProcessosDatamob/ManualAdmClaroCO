@@ -4,4 +4,4 @@ En la pantalla "Editar Política", en la pestaña de Configuraciones, se ha agre
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-[Voltar ao menu inicial](../release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
+[Volver a la lista de Release Notes](../release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)

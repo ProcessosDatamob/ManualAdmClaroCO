@@ -4,4 +4,4 @@ En la pantalla de "Reportes de Movimientos", en el filtro "Actividad", se ha agr
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
-[Voltar ao menu inicial](../release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
+[Volver a la lista de Release Notes](../release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)

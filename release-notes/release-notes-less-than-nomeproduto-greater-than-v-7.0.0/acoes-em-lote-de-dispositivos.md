@@ -4,4 +4,4 @@ En la pantalla de Dispositivos se ha agregado la función de "Acciones por Lote"
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-04-04 135944.png" alt=""><figcaption></figcaption></figure>
 
-[Voltar ao menu inicial](../release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
+[Volver a la lista de Release Notes](../release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
