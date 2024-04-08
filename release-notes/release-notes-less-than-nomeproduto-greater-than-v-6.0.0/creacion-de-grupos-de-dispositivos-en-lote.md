@@ -4,4 +4,4 @@ En la pantalla de 'Administrar Grupos' se ha implementado la función de 'Regist
 
 <figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;

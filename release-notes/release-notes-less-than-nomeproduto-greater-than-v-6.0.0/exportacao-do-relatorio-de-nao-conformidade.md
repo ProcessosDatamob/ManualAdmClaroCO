@@ -4,4 +4,5 @@ En la pantalla "Lista de Dispositivos", en el "Informe de No Conformidad" de un 
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)
+

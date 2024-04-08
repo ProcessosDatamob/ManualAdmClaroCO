@@ -6,4 +6,4 @@ Con este nuevo flujo de creación de contraseña, el campo de contraseña no se 
 
 <mark style="background-color:orange;">NÃO CONSEGUI PRINT</mark>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)

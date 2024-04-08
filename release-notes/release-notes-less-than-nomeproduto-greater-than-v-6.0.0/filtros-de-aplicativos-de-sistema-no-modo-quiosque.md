@@ -4,4 +4,4 @@ En la pantalla de edición de una política con el Modo Quiosco activado, despu�
 
 <mark style="background-color:orange;">NÃO ENCONTREI ESTA TELA</mark>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)

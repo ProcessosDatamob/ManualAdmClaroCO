@@ -4,4 +4,4 @@ En la pantalla de "Lista de Dispositivos" se ha agregado la sección "Filtros Av
 
 <mark style="background-color:orange;">NÃO CONSEGUI PRINT SEM O FILTRO DE SISTEMA OPERACIONAL</mark>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)

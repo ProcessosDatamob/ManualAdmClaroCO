@@ -6,4 +6,4 @@ Para realizar un filtro más específico de las aceptaciones, también se han in
 
 <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)

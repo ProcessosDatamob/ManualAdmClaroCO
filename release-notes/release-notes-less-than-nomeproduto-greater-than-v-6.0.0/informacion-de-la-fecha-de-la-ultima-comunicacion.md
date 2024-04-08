@@ -8,4 +8,4 @@ La misma información se ha agregado a la pantalla "Administrar Dispositivo".
 
 <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;

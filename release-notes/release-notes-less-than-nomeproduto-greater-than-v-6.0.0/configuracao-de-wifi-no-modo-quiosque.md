@@ -6,4 +6,4 @@ En un dispositivo con política de modo quiosco activa y con la configuración "
 
 <mark style="background-color:orange;">PRINT CELULAR</mark>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)&#x20;
