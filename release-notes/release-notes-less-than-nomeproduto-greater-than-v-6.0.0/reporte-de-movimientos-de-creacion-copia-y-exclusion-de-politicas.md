@@ -6,4 +6,4 @@ Accediendo a la pantalla de Reporte de Movimientos, el usuario podrá localizar 
 
 <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial**](./)
+[Volver a la lista de Release Notes](./)
