@@ -64,7 +64,7 @@
 
 * [Release Notes \<NomeProduto> V 7.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
   * [Activación de Aplicaciones de Sistemas a través de Código QR](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/activacion-de-aplicaciones-de-sistemas-a-traves-de-codigo-qr.md)
-  * [Ativação de Apps de Sistemas via Comando](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/ativacao-de-apps-de-sistemas-via-comando.md)
+  * [Activación de Aplicaciones de Sistema Mediante Comando](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/activacion-de-aplicaciones-de-sistema-mediante-comando.md)
   * [Restrição de Funcionamento de Apps por Horário](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/restricao-de-funcionamento-de-apps-por-horario.md)
   * [Configuração de MFA por Empresa](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/configuracao-de-mfa-por-empresa.md)
   * [Registro de Log de Ações em Lote](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/registro-de-log-de-acoes-em-lote.md)
