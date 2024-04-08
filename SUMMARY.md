@@ -67,7 +67,7 @@
   * [Activación de Aplicaciones de Sistema Mediante Comando](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/ativacao-de-apps-de-sistemas-via-comando.md)
   * [Restricción de Funcionamiento de Aplicaciones por Horario](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/restriccion-de-funcionamiento-de-aplicaciones-por-horario.md)
   * [Configuración de MFA por Empresa](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/configuracao-de-mfa-por-empresa.md)
-  * [Registro de Log de Ações em Lote](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/registro-de-log-de-acoes-em-lote.md)
+  * [Registro de Log de Acciones en Lote](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/registro-de-log-de-acciones-en-lote.md)
   * [Configuração de Serviços de Telefonia](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/configuracao-de-servicos-de-telefonia.md)
   * [Ações em Lote de Dispositivos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/acoes-em-lote-de-dispositivos.md)
   * [Bloqueio Fora do Horário de Trabalho](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/bloqueio-fora-do-horario-de-trabalho.md)
