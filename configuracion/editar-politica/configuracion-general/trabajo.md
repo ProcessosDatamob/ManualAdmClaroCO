@@ -4,7 +4,7 @@
 
 <mark style="color:red;">Estando na aba "</mark><mark style="color:red;">**Configurações**</mark><mark style="color:red;">" da tela "</mark><mark style="color:red;">**Editar Políticas**</mark><mark style="color:red;">", clique em "</mark><mark style="color:red;">**Trabalho**</mark><mark style="color:red;">" para ver as opções de configuração.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;<mark style="color:red;">Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os passos a seguir:</mark>
 

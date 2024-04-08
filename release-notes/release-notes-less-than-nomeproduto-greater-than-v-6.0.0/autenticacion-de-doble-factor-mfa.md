@@ -4,6 +4,6 @@ En esta versión el sistema cuenta con autenticación de doble factor para acced
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 [Volver a la lista de Release Notes](./)&#x20;
