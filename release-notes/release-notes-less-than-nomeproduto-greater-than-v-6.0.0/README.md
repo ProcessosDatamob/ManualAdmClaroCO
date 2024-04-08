@@ -15,7 +15,7 @@ Novedades de la Versión
 11. [Creación de Grupos de Dispositivos en Lote](creacion-de-grupos-de-dispositivos-en-lote.md)
 12. [Configuración de Wi-Fi en Modo Quiosco](configuracao-de-wifi-no-modo-quiosque.md)
 13. [Acceso al Manual del Administrador Online](acceso-al-manual-del-administrador-online.md)
-14. &#x20;
+14. [Configuración de Ordenación de los Iconos](configuracion-de-la-orientacion-de-la-pantalla-del-dispositivo-en-el-modo-quiosco.md)
 15.
 16. Configuração de Ordenação dos Ícones&#x20;
 17. Nova Coluna com Informação do "Nome do Pacote"&#x20;
