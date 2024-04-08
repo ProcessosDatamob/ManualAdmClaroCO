@@ -20,11 +20,10 @@ Novedades de la Versión
 16. [Configuración del Tamaño de Fuentes e Iconos](configuracion-del-tamano-de-fuentes-e-iconos.md)
 17. &#x20;[Inclusión Manual de Aplicaciones del Sistema](inclusion-manual-de-aplicaciones-del-sistema.md)
 18. [Más Información en la Aplicación Companion](mais-informacoes-no-app-companion.md)
-19.
-20.
-21. Solicitação de Duplo Fator de Autenticação (MFA) _(Estará oculto nesta versão)_&#x20;
-22. Informação da Versão do Companion&#x20;
-23. Expiração de Sessão do Usuário do Portal (MFA)&#x20;
-24. Novo Filtro e Coluna de "Modo de Gerenciamento"&#x20;
-25. Alteração do Bloqueio de Contas por Domínio&#x20;
-26. Novo Acesso às Informações do Dispositivo
+19. [Autenticación de Doble Factor (MFA)](autenticacion-de-doble-factor-mfa.md)
+20. [Información de la Versión de la Aplicación Companion](informacion-de-la-version-de-la-aplicacion-companion.md)
+21. [Expiración de la Sesión del Usuario del Portal (MFA)](expiracion-de-la-sesion-del-usuario-del-portal-mfa.md)
+22. &#x20;[Nuevo Filtro y Columna de "Modo de Gestión"](novo-filtro-e-coluna-de-modo-de-gerenciamento.md)
+23. [Cambio del Bloqueo de Cuentas por Dominio](cambio-del-bloqueo-de-cuentas-por-dominio.md)
+24. &#x20;[Nuevo Acceso a la Información del Dispositivo](novo-acesso-as-informacoes-do-dispositivo.md)
+
