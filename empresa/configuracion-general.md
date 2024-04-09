@@ -6,16 +6,16 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 
 1. Haga clic en el menú "Empresa" y seleccione el submenú "Configuración general".
 
-<figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 171325 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (88).png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. <mark style="color:red;">Defina as configurações desejadas conforme as opções da tela de Configurações Gerais:</mark>&#x20;
+1. Defina las configuraciones deseadas según las opciones de la pantalla de Configuraciones Generales:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 * **Inicio del ciclo -** Utilizamos este campo para definir la fecha de inicio de la contabilización de los datos que serán analizados.
 * **Sincronizar a cada -** Este campo define el tiempo de sincronización del portal, es decir, el tiempo para sincronizar con los datos recibidos de los dispositivos.
 * **Correo electrónico de aviso -** Esta configuración activa el envío de notificaciones por correo electrónico al administrador cuando el dispositivo alcanza el 80%, 90% y 100% del perfil de consumo configurado.
-* <mark style="color:red;">**Autenticação de dois fatores -**</mark> <mark style="color:red;"></mark><mark style="color:red;">Esta configuração permite ativar a autenticação de dois fatores no Portal de Administração  \<nome\_produto>.  Após ativar a configuração, sempre que tentar realizar acesso ao Portal, o usuário precisará informar um código de confirmação que será enviado para o seu e-mail;</mark>
+* Autenticación de dos factores - Esta configuración permite activar la autenticación de dos factores en el Portal de Administración de \<NomeProduto> . Después de activar la configuración, cada vez que un usuario intente acceder al Portal, deberá proporcionar un código de confirmación que se enviará a su correo electrónico.
 
 {% hint style="info" %}
 <mark style="color:red;">**Observação:**</mark>
