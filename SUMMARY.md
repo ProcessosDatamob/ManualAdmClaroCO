@@ -62,7 +62,8 @@
 
 ## Release Notes&#x20;
 
-* [Release Notes \<NomeProduto> V 8.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-8.0.0.md)
+* [Release Notes \<NomeProduto> V 8.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-8.0.0/README.md)
+  * [Configurações de Conectividade](release-notes/release-notes-less-than-nomeproduto-greater-than-v-8.0.0/configuracoes-de-conectividade.md)
 * [Release Notes \<NomeProduto> V 7.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
   * [Activación de Aplicaciones de Sistemas a través de Código QR](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/activacion-de-aplicaciones-de-sistemas-a-traves-de-codigo-qr.md)
   * [Activación de Aplicaciones de Sistema Mediante Comando](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/ativacao-de-apps-de-sistemas-via-comando.md)
