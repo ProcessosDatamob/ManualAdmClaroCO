@@ -9,7 +9,7 @@
   * [Información de la empresa](empresa/informacion-de-la-empresa.md)
   * [Consumo de la empresa](empresa/consumo-de-la-empresa.md)
   * [Licencias contratadas](empresa/licencias-contratadas.md)
-  * [Configuración general](empresa/configuracion-general.md)
+  * [Configuraciones generales](empresa/configuracion-general.md)
   * [Reporte de movimientos](empresa/reporte-de-movimientos.md)
 * [GRUPOS](grupos/README.md)
   * [Registrar Nuevo Grupo](grupos/registrar-nuevo-grupo.md)
@@ -62,6 +62,7 @@
 
 ## Release Notes&#x20;
 
+* [Release Notes \<NomeProduto> V 8.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-8.0.0.md)
 * [Release Notes \<NomeProduto> V 7.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v7.0.0.md)
   * [Activación de Aplicaciones de Sistemas a través de Código QR](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/activacion-de-aplicaciones-de-sistemas-a-traves-de-codigo-qr.md)
   * [Activación de Aplicaciones de Sistema Mediante Comando](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/ativacao-de-apps-de-sistemas-via-comando.md)
