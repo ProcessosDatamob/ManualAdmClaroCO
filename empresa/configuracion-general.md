@@ -1,4 +1,4 @@
-# Configuraciones generales
+# Configuraciones Generales
 
 Esta pantalla del sistema tiene como objetivo permitir al usuario configurar información importante de la empresa.
 
@@ -18,11 +18,11 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 * Autenticación de dos factores - Esta configuración permite activar la autenticación de dos factores en el Portal de Administración de **\<NomeProduto>** . Después de activar la configuración, cada vez que un usuario intente acceder al Portal, deberá proporcionar un código de confirmación que se enviará a su correo electrónico.
 
 {% hint style="info" %}
-<mark style="color:red;">**Observação:**</mark>
+**Observación:**
 
-<mark style="color:red;">Antes de ativar essa configuração certifique que todos os usuários estão cadastrados com um e-mail válido.</mark>&#x20;
+Antes de activar esta configuración, asegúrese de que todos los usuarios estén registrados con un correo electrónico válido.
 {% endhint %}
 
-* <mark style="color:red;">**Tempo limite de inatividade -**</mark> <mark style="color:red;"></mark><mark style="color:red;">o sistema utiliza como padrão 30 min, podendo ser reduzido até 5 min. Após exceder o tempo limite definido sem realizar nenhuma atividade no portal, o sistema realiza o logout automático do usuário e  apresenta a mensagem informando que a sessão expirou.</mark>
+* **Tiempo límite de inactividad:** el sistema utiliza 30 minutos como valor predeterminado, pudiendo ser reducido hasta 5 minutos. Después de exceder el límite de tiempo definido sin realizar ninguna actividad en el portal, el sistema realiza automáticamente el cierre de sesión del usuario y muestra un mensaje informando que la sesión ha expirado.
 
 3. Haga clic en "Actualizar".
