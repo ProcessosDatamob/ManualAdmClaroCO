@@ -6,7 +6,7 @@ La pantalla "Editar política" situada en la pestaña "Aplicaciones" se muestra 
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-03-14 153400.png" alt=""><figcaption></figcaption></figure>
 
-Las pantallas tienen las siguientes partes, según la numeración en la figura:
+La pantalla tiene las siguientes partes, según la numeración en la figura:
 
 1. Modo de selección de aplicaciones en Play Store - permite controlar cómo se mostrarán las aplicaciones en los dispositivos registrados en esta política. En el modo "Restricta", los usuarios solo pueden ver e instalar desde Google Play Store las aplicaciones elegidas por el administrador. Las otras aplicaciones se eliminarán y no estarán disponibles en los dispositivos.
 
@@ -19,18 +19,20 @@ Al seleccionar la opción “Abierta”, las aplicaciones agregadas a la políti
 {% endhint %}
 
 2. Utilice el cuadro de búsqueda para buscar aplicaciones dentro de la lista que aparece.
-3. Lista de aplicaciones incluidas.
-4. Tipo de instalación - Elija el tipo de instalación de cada dispositivo. Los tipos de instalación son: disponible, preinstalado, instalación forzada o bloqueado.
+3. Lista de aplicaciones incluidas en la política.
+4. Tipo de instalación - Elija el tipo de instalación de cada dispositivo. Los tipos de instalación son: "Disponible", "Pre instalado", "Instalación forzada" o "Bloqueado".
 
 {% hint style="info" %}
 **NOTA**
 
-Si el usuario elige la opción “pre-instalada” deberá considerar que las aplicaciones se instalaran en ese momento ignorando si el dispositivo está en WIFI o si está usando la red de datos lo que podría traducirse en un alto consumo de datos. Es necesario asegurarse que el dispositivo esté conectado a WIFI si se utilizarán APPs “Pre-instaladas”.
+Si el usuario elige la opción “Pre instalada” deberá considerar que las aplicaciones se instalaran en ese momento ignorando si el dispositivo está en WIFI o si está usando la red de datos lo que podría traducirse en un alto consumo de datos. Es necesario asegurarse que el dispositivo esté conectado a WIFI si se utilizarán aplicaciones “Pre instaladas”.
 {% endhint %}
 
-5. <mark style="color:red;">Mais ações ("...") que podem ser realizadas com o aplicativo: Configurações Gerenciadas, Permissões, Configurações Avançadas e Remover Aplicativo.</mark>
-6. <mark style="color:red;">**Adicionar Aplicativos -**</mark> <mark style="color:red;"></mark><mark style="color:red;">permite adicionar aplicativos para gerenciamento, para mais informações acessar o conteúdo Adicionar Aplicativos nesta página.</mark>
-7. <mark style="color:red;">**Restrições de funcionamento -**</mark><mark style="color:red;">permite criar restrições de acesso aos apps por horário, para que seja possível definir os horários em que os apps não poderão ser acessados. Para mais informações acessar o conteúdo</mark> [<mark style="color:red;">Restrições de Funcionamento</mark>](aplicaciones.md#restricoes-de-funcionamento) <mark style="color:red;">nesta página.</mark>
+5. Otras acciones "...":  permite acceder a las opciones de acciones disponibles para la aplicación: "Configuraciones Administradas", "Permisos", "Configuraciones Avanzadas" y "Eliminar Aplicación".
+6. Agregar Aplicaciones: Permite añadir aplicaciones para su gestión. Para obtener más información, acceda al contenido "Agregar Aplicaciones" en esta página.
+7. Restricciones de Funcionamiento: Permite crear restricciones de acceso a las aplicaciones por horario, para definir los momentos en los que las aplicaciones no podrán ser accedidas. Para más información, acceda al contenido "Restricciones de Funcionamiento" en esta página.
+
+
 
 ## **Configuraciones Administradas**
 
@@ -133,17 +135,25 @@ Las aplicaciones deben agregarse primero con Google Play Administrado.
 1. Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente"&#x20;
 2. Rellenar los campos: Nombre de la aplicación (opcional), Nombre del paquete y haga clic en "Agregar".
 
-### <mark style="color:red;">Restrições de Funcionamento</mark>
+### Restricciones de Funcionamiento
 
-<mark style="color:red;">Para definir restrições de funcionamento de aplicativos por dias e horários, é necessário clicar no icone de restrições de funcionamento na linha referente ao aplicativo desejado. A imagem a seguir destaca:</mark>&#x20;
+Para definir restricciones de funcionamiento de aplicaciones por días y horarios, es necesario hacer clic en el icono de restricciones de funcionamiento en la linea correspondiente a la aplicación deseada. La siguiente imagen destaca:
 
-1. <mark style="color:red;">Ícones para acessar a opção "Restrições de Funcionamento";</mark>&#x20;
-2. <mark style="color:red;">Botão seletor para ativar restrições.</mark>
+1. Ícono para acceder a la opción 'Restricciones de Funcionamiento'"
 
-<mark style="color:red;">A opção de "Restrições de Funcionamento" está disponível para todos os aplicativos, exceto: aplicativo do sistema</mark> <mark style="color:red;"></mark><mark style="color:red;">**\<nome\_produto>**</mark><mark style="color:red;">, Kiosk Launcher, Block Sim e Remote View.  Quando o aplicativo já possui restrição de funcionamento, o seu ícone de restrição de funcionamento mudará para</mark> ![](<../../.gitbook/assets/image (33).png>)<mark style="color:red;">.</mark>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Para ativar as restrições:</mark>
+2. Botón selector para activar restricciones.
 
-1. <mark style="color:red;">Selecione o campo “Ativar restrições".</mark>
-2. <mark style="color:red;">Informe o horário de inicio e fim do período para cada dia, ou selecione o campo "Restringir"  para bloquear o funcionamento o dia inteiro.</mark>
-3. <mark style="color:red;">Clique em "Confirmar" para salvar as alterações. A política enviará as informações de restrições do aplicativo para os dispositivos vinculados.</mark>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+La opción de "Restricciones de Funcionamiento" está disponible para todas las aplicaciones, excepto la aplicación del sistema **\<NombreProduto>** Cuando una aplicación ya tiene restricciones de funcionamiento, su ícono de restricción cambiará y mostrará un pequeño punto rojo<img src="../../.gitbook/assets/image (3).png" alt="" data-size="line">.
+
+Para activar las restricciones:
+
+1. Seleccione el campo “Permitir restricciones".
+2. Indique la hora de uso para cada día, movendo el punto inicial(hora inicial) e punto final (hora final) con el mouse, o seleccione el campo "Restringir" para bloquear el funcionamiento durante todo el día.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+
+3. Haga clic en "Confirmar" para guardar los cambios. La política enviará la información de las restricciones de la aplicación a los dispositivos vinculados.

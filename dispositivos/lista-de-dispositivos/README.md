@@ -45,7 +45,7 @@ La información del dispositivo que se muestra en la lista es:&#x20;
 
 Al hacer clic en el signo ">" junto al usuario, el sistema muestra más información como se puede ver en la imagen de abajo.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Política - nombre de la política asignada al dispositivo;&#x20;
 * Modo de administración - modo de administración asignado al dispositivo;
