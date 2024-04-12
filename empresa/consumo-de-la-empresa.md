@@ -6,7 +6,7 @@ Para ver los consumos, siga los pasos descritos a continuación.
 
 1. Haga clic en el menú "Empresas" y seleccione el submenú "Consumos".
 
-<figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 171133.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 171133.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
