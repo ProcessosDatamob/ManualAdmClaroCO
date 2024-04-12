@@ -2,8 +2,6 @@
 
 En esta sección se describen los pasos para activar aplicaciones de sistema de forma remota, permitiendo que los usuarios las utilicen en sus dispositivos. El proceso se realiza mediante el envío de comandos específicos a través de la pantalla "Mensajes" del portal de administración.
 
-
-
 Pasos para la activación remota de aplicaciones:
 
 1. Acceda a la pantalla "Mensajes" del portal utilizando el menú "Mensajes".&#x20;

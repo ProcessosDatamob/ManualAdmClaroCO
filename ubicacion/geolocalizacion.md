@@ -2,7 +2,7 @@
 
 Para saber cómo ver las ubicaciones geográficas de un dispositivo, sigue los pasos descritos en esta sección.
 
-1. Haga clic en el menú "Ubicación" para acceder a las opciones de ubicación.
+1. Haga clic en el menú "Localización" para acceder a las opciones de Localización.
 2. Haga clic en "Geolocalización" para abrir la pantalla.
 
 ![](<../.gitbook/assets/0 (5).png>)

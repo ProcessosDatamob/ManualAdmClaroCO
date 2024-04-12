@@ -1,4 +1,4 @@
-# Ubicación de los dispositivos
+# Ubicación del Dispositivos
 
 Esta pantalla del sistema tiene como objetivo visualizar y generar un reporte con la última ubicación enviada por los dispositivos.
 
@@ -6,7 +6,7 @@ Para ver y generar el reporte de las ubicaciones, siga los pasos descritos en es
 
 1. Haga clic en el menú "Ubicación" y seleccione el submenú "Ubicación de dispositivo".
 
-<figure><img src="../.gitbook/assets/Captura de tela 2024-01-16 103502 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2024-01-16 103502 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Seleccione el usuario o las fechas que desea buscar para obtener información y haga clic en el botón Buscar;
 
