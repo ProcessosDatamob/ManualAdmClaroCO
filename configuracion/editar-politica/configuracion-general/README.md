@@ -11,7 +11,12 @@ Los "Ajustes" se agrupan en los tipos:
 * Trabajo
 * Ubicación
 * Usuario
-* VPN
+* VPN\
+
+
+Cada grupo de configuración presenta varias opciones posibles para la política. Haga clic para verlas. La imagen abajo muestra la pantalla con los grupos de configuraciones de "Ajustes".
+
+<figure><img src="../../../.gitbook/assets/image (91).png" alt="" width="223"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**
@@ -25,4 +30,4 @@ Utilice los botones selectores para activar o desactivar la configuración de bl
 
 ![](<../../../.gitbook/assets/6 (17).png>)
 
-Los grupos de configuración se muestran en la continuación.
+Los grupos de configuración se detallan en la continuación.
