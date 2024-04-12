@@ -36,7 +36,7 @@ Para configurar siga los siguientes pasos:
 Es necesario rellenar los siguientes campos que serán de identificación para el usuario del dispositivo.
 
 * "Nombre de configuración": Identifique la configuración deseada;
-* "DPC de EMM": Android Device Police;
+* "DPC de EMM": Android Device Policy Controller;
 * "Extras del DPC";
 * "Nombre de la empresa": Nombre de la empresa;
 * "Dirección de correo electrónico de soporte": Ingrese el correo electrónico de soporte de su empresa;
@@ -52,7 +52,7 @@ Es necesario rellenar los siguientes campos que serán de identificación para e
 * En el menú agrupado seleccione "Token de Registro";
 * Copie "Configuración Zero-Touch".
 
-![](<.gitbook/assets/3 (22).png>)
+<figure><img src=".gitbook/assets/image (94).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. En el portal Zero-Touch, añade esta información en el campo "Extras DPC" de la Configuración Zero-Touch.
 
