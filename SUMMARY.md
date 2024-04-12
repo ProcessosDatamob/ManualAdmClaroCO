@@ -50,7 +50,7 @@
   * [Reporte de Sitios por Fecha](sitios/reporte-de-sitios-por-fecha.md)
   * [Reporte de Sitios por URL/ Palabra Clave](sitios/reporte-de-sitios-web-por-url-o-palabra-clave.md)
 * [MENSAJES Y COMANDOS](mensajes-y-comandos.md)
-  * [Ativação de Apps de Sistemas via Comando](mensajes-y-comandos/ativacao-de-apps-de-sistemas-via-comando.md)
+  * [Activación de Aplicaciones de Sistema a través de Comando](mensajes-y-comandos/activacion-de-aplicaciones-de-sistema-a-traves-de-comando.md)
 * [COMPARTIR DOCUMENTOS](compartir-documentos.md)
 * [UBICACIÓN](ubicacion/README.md)
   * [Geolocalización](ubicacion/geolocalizacion.md)
