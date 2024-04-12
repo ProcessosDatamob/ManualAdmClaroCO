@@ -29,15 +29,15 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 * Almacenamiento Interno - cuánto de almacenamiento interno tiene.
 * Batería - Cuántos % de batería está actualmente.
 
-Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuraciones del dispositivo, como se ilustra en la imagen de abajo:
+Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuraciones del dispositivo, como se ilustra en la imagen a continuación.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2023-11-03 143049.png" alt=""><figcaption></figcaption></figure>
 
-Las opciones disponibles se muestran en la siguiente tabla:
+Las opciones disponibles se muestran en la tabla siguiente y se detallan a continuación.
 
 <table><thead><tr><th width="233">Modo de Gestión</th><th>Opciones disponibles</th></tr></thead><tbody><tr><td>Android</td><td><p>Historial de la Batería </p><p>Historial de Almacenamiento</p><p>Reporte de no Conformidad </p><p>Alterar Politica </p><p>Habilitar/ Deshabilitar el dispositivo</p><p>Apagar Pantalla </p><p>Reiniciar Dispositivo </p><p>Generar nueva contraseña de dispositivo </p><p>Remover dispositivo (WIPE)</p><p>Administrar Información</p></td></tr></tbody></table>
 
-Las opciones resaltadas en la figura se detallan en las siguientes subsecciones.
+
 
 ### **Historial de la Batería**
 
