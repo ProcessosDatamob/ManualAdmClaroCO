@@ -9,7 +9,7 @@
 5. [Nuevos Filtros de Registro en el Reporte de Movimientos](nuevos-filtros-de-registro-en-el-reporte-de-movimientos.md)
 6. [Configuración del Color de las Fuentes de los Iconos en el Modo Quiosco](configuracion-del-color-de-las-fuentes-de-los-iconos-en-el-modo-quiosco.md)
 7. [Filtros Avanzados en la Pantalla de Dispositivos](filtros-avanzados-en-la-pantalla-de-dispositivos.md)
-8. Configuración de la Orientación de la Pantalla del Dispositivo en el Modo Quiosco
+8. Config
 9. [Información de la Fecha de la Última Comunicación](informacion-de-la-fecha-de-la-ultima-comunicacion.md)
 10. [Configuración del Layout de la Imagen del Fondo de Pantalla en Modo Quiosco](configuracion-del-layout-de-la-imagen-del-fondo-de-pantalla-en-modo-quiosco.md)
 11. [Creación de Grupos de Dispositivos en Lote](creacion-de-grupos-de-dispositivos-en-lote.md)
