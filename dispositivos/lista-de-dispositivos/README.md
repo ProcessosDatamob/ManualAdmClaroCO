@@ -15,9 +15,9 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 8.  Haga clic en la opción "Acciones por lote" para aplicar una acción en varios dispositivos a la vez. Para obtener más información, consulte el contenido "Acciones en lote" en esta página.\
 
 
-    <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 9. La lista de dispositivos se muestra en la parte inferior de la pantalla.
-10. &#x20;Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../../.gitbook/assets/1 (6).png>)”.
+10. &#x20;Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../../.gitbook/assets/1 (15).png>)”.
 11. Haga clic en ">" para ver toda la información del dispositivo.
 12. Utilice los tres puntos "..." para mostrar el menú de acciones y aplicar la acción deseada al dispositivo.
 
@@ -25,7 +25,7 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 
 Ao hacer clic en la opción "Acciones por lotes", el sistema mostrará una pantalla que contiene algunos campos para completar, como se puede ver en la pantalla a continuación.
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (118).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Empresa: haga clic en el campo "Empresa" y luego en el nombre de la empresa para enviar un comando a todos los dispositivos de la empresa (al seleccionar la empresa, los campos de grupo y usuario se desactivarán).&#x20;
 * Grupos: haga clic en "Grupo" y elija el grupo deseado.&#x20;
@@ -46,7 +46,7 @@ La información del dispositivo que se muestra en la lista es:&#x20;
 
 Al hacer clic en el signo ">" junto al usuario, el sistema muestra más información como se puede ver en la imagen de abajo.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 * Política - nombre de la política asignada al dispositivo;&#x20;
 * Modo de administración - modo de administración asignado al dispositivo;

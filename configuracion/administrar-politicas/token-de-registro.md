@@ -2,7 +2,7 @@
 
 Como se ve en la sección anterior, puede acceder al token de registro de dispositivos desde el menú "Configuración" en la opción "Administrar Políticas". La pantalla del token de registro se muestra a continuación.
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (115).png" alt="" width="563"><figcaption></figcaption></figure>
 
 A continuación se describen los elementos disponibles en esta pantalla:
 

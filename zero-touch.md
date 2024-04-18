@@ -52,7 +52,7 @@ Es necesario rellenar los siguientes campos que serán de identificación para e
 * En el menú agrupado seleccione "Token de Registro";
 * Copie "Configuración Zero-Touch".
 
-<figure><img src=".gitbook/assets/image (94).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (119).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. En el portal Zero-Touch, añade esta información en el campo "Extras DPC" de la Configuración Zero-Touch.
 

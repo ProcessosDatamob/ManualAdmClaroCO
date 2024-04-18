@@ -10,7 +10,7 @@ Después de iniciar sesión en el portal de administración, uno de los primeros
 
 Para acceder a Google Play Administrado, ve al menú "Administración de aplicaciones" y a la opción "Google Play Administrada".
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 La siguiente captura de pantalla muestra la pantalla de Google Play administrada. Observe la pantalla y los puntos destacados y numerados:
 

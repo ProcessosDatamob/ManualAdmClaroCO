@@ -1,4 +1,4 @@
-# Administrar grupos
+# Administrar Grupos
 
 Esta pantalla del sistema tiene como objetivo permitir al usuario administrar los grupos de usuarios de dispositivos.
 
@@ -6,7 +6,7 @@ Para administrar un grupo, siga los pasos descritos a continuación.
 
 1. Se puede acceder a la pantalla de administración de grupos haciendo clic en el menú "Grupos" y seleccionando el submenú "Administrar grupos". Esta pantalla también se muestra al completar el registro de un nuevo grupo. Esta pantalla se muestra en la secuencia de texto.
 
-![](<../.gitbook/assets/2 (12).png>)
+![](<../.gitbook/assets/2 (7).png>)
 
 2. Al entrar en la pantalla, se muestra la lista de grupos registrados.
 3. Puede utilizar el filtro de teléfono para encontrar el grupo de un usuario.

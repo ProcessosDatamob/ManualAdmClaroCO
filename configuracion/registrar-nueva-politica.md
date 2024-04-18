@@ -2,11 +2,11 @@
 
 Esta pantalla del sistema tiene el objetivo de realizar el registro de nuevas políticas. Para iniciar el registro de una nueva política seleccione la opción "Registrar nueva política" en el menú "Configuración".
 
-![](<../.gitbook/assets/14 (5).png>)
+![](<../.gitbook/assets/14 (11).png>)
 
 La pantalla de inicio del registro de políticas se muestra a continuación.
 
-![](<../.gitbook/assets/15 (5).png>)
+![](<../.gitbook/assets/15 (9).png>)
 
 Para registrar una nueva política, siga los siguientes pasos:
 

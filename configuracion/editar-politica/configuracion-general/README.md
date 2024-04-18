@@ -16,7 +16,7 @@ Los "Ajustes" se agrupan en los tipos:
 
 Cada grupo de configuración presenta varias opciones posibles para la política. Haga clic para verlas. La imagen abajo muestra la pantalla con los grupos de configuraciones de "Ajustes".
 
-<figure><img src="../../../.gitbook/assets/image (91).png" alt="" width="223"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (116).png" alt="" width="223"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

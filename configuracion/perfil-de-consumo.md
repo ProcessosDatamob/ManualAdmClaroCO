@@ -2,11 +2,11 @@
 
 Para acceder a la pantalla Perfil de Consumo, debemos acceder al menú "Configuraciones" y al submenú "Perfil de Consumo" como sigue:
 
-![](<../.gitbook/assets/16 (4).png>)
+![](<../.gitbook/assets/16 (8).png>)
 
 La siguiente imagen muestra la pantalla de configuración del perfil de consumo a la que se accede desde el menú "Configuración". Un rectángulo destaca el acceso a las pestañas "General", "Grupos" y "Usuarios".
 
-<figure><img src="../.gitbook/assets/17 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/17 (10).png" alt=""><figcaption></figcaption></figure>
 
 Los límites se pueden configurar para:
 

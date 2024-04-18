@@ -1,4 +1,4 @@
-# Gestionar usuarios administradores
+# Gestionar Usuarios Administradores
 
 Esta pantalla del sistema tiene como objetivo permitir cambiar los datos de un usuario de tipo Administrador de Empresa o Administrador de Grupo.
 
@@ -10,7 +10,7 @@ Al acceder a la pantalla, el sistema no permitirá cambiar la información del c
 
 1. Al acceder a la pantalla, el sistema mostrará una lista con todos los usuarios administradores.
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 2. Para buscar un usuario, ingrese el nombre del usuario en el campo "Buscar".
 3. Para ordenar la información mostrada, haga clic en el título de la información que desee.

@@ -4,6 +4,6 @@ Al acceder a la pantalla "Administrar Políticas", es posible seleccionar el mod
 
 Se ha agregado una nueva columna en la lista para identificar el Modo de Gestión de cada política.
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 [Volver a la lista de Release Notes](./)&#x20;

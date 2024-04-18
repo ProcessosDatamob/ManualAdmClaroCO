@@ -7,7 +7,7 @@ Para saber cómo compartir documentos con los dispositivos, sigue los pasos desc
 1. Haga clic en el menú "Compartir documentos" para acceder a la pantalla.
 2. Haga clic en el botón "Compartir nuevo" para compartir un documento. La pantalla compartir documentos se muestra a continuación:
 
-![](<.gitbook/assets/0 (4).png>)
+![](<.gitbook/assets/0 (13).png>)
 
 3. Rellene la URL donde el documento está alojado en el campo Documento.
 4. Para compartir el documento con todos los dispositivos de la empresa, seleccione la empresa.
@@ -24,7 +24,7 @@ Si un dispositivo se informa en dos campos (por ejemplo, grupo y usuario), recib
 8. Si desea eliminar la empresa, el grupo o el usuario del dispositivo de la selección, haga clic en la "x" junto al elemento seleccionado.
 9. Haga clic en el botón "Enviar" para colocar el documento en la fila de envío.
 
-![](<.gitbook/assets/1 (4).png>)
+![](<.gitbook/assets/1 (13).png>)
 
 10. Al colocar el documento en la fila de envío, el sistema mostrará la URL en el reporte de envío.
 11. Si desea ver una URL específica, ingrese la URL en el campo "Buscar".
@@ -35,4 +35,4 @@ Si un dispositivo se informa en dos campos (por ejemplo, grupo y usuario), recib
 16. Al recibir el documento, la aplicación lo descarga y lo coloca en la lista de notificaciones recibidas. Al hacer clic en el icono de advertencia, podemos ver todas las notificaciones y documentos recibidos.
 17. Estas notificaciones de documentos se pueden eliminar arrastrando la notificación hacia la izquierda y confirmando la eliminación.
 
-![](<.gitbook/assets/2 (4).png>)
+![](<.gitbook/assets/2 (13).png>)

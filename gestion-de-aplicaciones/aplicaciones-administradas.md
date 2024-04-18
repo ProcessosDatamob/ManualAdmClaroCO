@@ -1,10 +1,10 @@
-# Aplicaciones administradas
+# Aplicaciones Administradas
 
 Esta pantalla del sistema tiene como objetivo permitir al usuario ver y generar un reporte de todas las aplicaciones incluidas para la gestión.
 
 Para ver y generar este reporte, haga clic en el menú "Administración de aplicaciones" y en la opción "Aplicaciones administradas".
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 El sistema mostrará una lista de todas las aplicaciones agregadas para administración de la empresa. A continuación, se muestra la pantalla de visualización de las aplicaciones administradas.
 
@@ -36,6 +36,6 @@ Si es el reporte de una página, se genera y descarga automáticamente. Si es el
 
 Descrição gerada automaticamente](<../.gitbook/assets/4 (16).png>)
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 7. Para copiar la información de la lista de aplicaciones al portapapeles, haga clic en el botón "Copiar".

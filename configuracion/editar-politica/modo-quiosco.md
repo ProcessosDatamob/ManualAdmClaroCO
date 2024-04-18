@@ -11,7 +11,7 @@ Para acceder a la configuración del "**Modo Quiosco**", siga estos pasos:&#x20;
 
 3. En la pantalla se mostrará un mensaje de confirmación. Confirme haciendo clic en el botón "Activar".
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 4. Al activar el Modo Quiosco en la política y aprovisionar un dispositivo con esta política, la aplicación Kiosk Launcher Manager se instalará automáticamente en el dispositivo.
 
@@ -23,7 +23,7 @@ Cuando el dispositivo instale la aplicación Kiosk, la aplicación capturará la
 
 Cuando el modo quiosco esté activado, estarán disponibles las siguientes opciones de configuración:
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 * **Botones de navegación:** Permite definir los botones de navegación del dispositivo como "Activo", "Bloqueado" o "Solo el botón Inicio".
 * **Botão "Power":** permite definir el botón de encendido del dispositivo como "Disponible" o "Bloqueado.

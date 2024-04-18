@@ -55,7 +55,7 @@ Después del paso 2 se mostrará la siguiente pantalla. En esta pantalla tenemos
 4. Lista de configuraciones administradas disponibles para la aplicación seleccionada. Al hacer clic en cada fila se muestran las preferencias;
 5. Enlace para volver a la lista de aplicaciones.
 
-![](<../../.gitbook/assets/3 (8).png>)
+![](<../../.gitbook/assets/3 (17).png>)
 
 ## **Permisos**
 
@@ -64,11 +64,11 @@ Para acceder a la configuración de permisos de una aplicación, debe estar en l
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
 2. Haga clic en "Permisos".
 
-![](<../../.gitbook/assets/4 (6).png>)
+![](<../../.gitbook/assets/4 (14).png>)
 
 Después del paso 2 se mostrará la siguiente pantalla. La lista blanca, que se puede configurar en la aplicación seleccionada, se muestra en esta pantalla.
 
-![](<../../.gitbook/assets/5 (6).png>)
+![](<../../.gitbook/assets/5 (13).png>)
 
 Los permisos se pueden configurar como: Solicitar al usuario, Activada o Denegada.
 
@@ -79,14 +79,14 @@ Para acceder a la configuración avanzada de una aplicación, debe estar en la p
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
 2. Haga clic en "Configuración avanzada".
 
-![](<../../.gitbook/assets/6 (6).png>)
+![](<../../.gitbook/assets/6 (13).png>)
 
 Después del paso 2 se mostrará la siguiente pantalla. En esta pantalla tenemos los siguientes elementos:
 
 * **Prioridad de actualización -** Establezca la prioridad de actualización de la aplicación como predefinida, retrasada o prioritaria.
 * **Versión mínima -** permite definir una versión mínima de la aplicación.
 
-![](<../../.gitbook/assets/7 (6).png>)
+![](<../../.gitbook/assets/7 (12).png>)
 
 ## **Eliminar Aplicación**
 
@@ -95,11 +95,11 @@ Para eliminar una aplicación de la directiva, debe estar en la pantalla "Editar
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
 2. Haga clic en "Eliminar aplicación".
 
-![](<../../.gitbook/assets/8 (6).png>)
+![](<../../.gitbook/assets/8 (12).png>)
 
 Después del paso 2 se mostrará la siguiente pantalla para confirmar la eliminación. Haga clic en el botón "Eliminar" para eliminar la aplicación de la lista.
 
-![](<../../.gitbook/assets/9 (6).png>)
+![](<../../.gitbook/assets/9 (12).png>)
 
 {% hint style="info" %}
 **NOTA**

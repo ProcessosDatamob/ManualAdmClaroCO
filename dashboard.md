@@ -6,52 +6,52 @@ Para saber cómo acceder y analizar los datos mostrados en el Dashboard, siga lo
 
 La pantalla de Dashboard puede ser considerada la "Pantalla de Inicio" del sistema, pues se muestra inmediatamente después de que el usuario acceda al Portal, pero también se puede acceder haciendo clic en el menú "Dashboard". En un primer acceso, los indicadores de usuarios, dispositivos y consumos no tendrán aún información, por lo que estarán en cero.
 
-<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Al acceder a la pantalla, toda la información se mostrará separada por secciones. Cada sección corresponde a un dato diferente, obtenido del dispositivo y toda la información se muestra de acuerdo con las opciones seleccionadas en el filtro (Empresa, Grupo o Usuario).
 
 Al habilitar la opción de filtro "Roaming internacional", el sistema solo mostrará la información del consumo total de datos móviles del dispositivo y el consumo de SMS registrada cuando el dispositivo esté usando una conexión de roaming, pero no será posible ver el consumo de datos por aplicación y sitios web accedidos. No se muestran consumos en Wi-Fi ni en otras redes.
 
-![](<.gitbook/assets/11 (10).png>)
+![](<.gitbook/assets/11 (4).png>)
 
 Los filtros "Empresa", "Grupo" y "Usuario" permiten realizar un análisis de los datos de los dispositivos de un nivel determinado.
 
 Haga clic en el filtro "Empresa", escriba y seleccione el nombre de la empresa para mostrar la información recopilada de todos los dispositivos.
 
-![](<.gitbook/assets/12 (10).png>)
+![](<.gitbook/assets/12 (4).png>)
 
 Haga clic en el filtro "Grupo", escriba y seleccione el nombre del grupo para mostrar la información recopilada de todos los dispositivos que forman parte de un grupo.
 
-![](<.gitbook/assets/13 (10).png>)
+![](<.gitbook/assets/13 (4).png>)
 
 Haga clic en el filtro "Usuario" escriba y seleccione el usuario, para mostrar la información recopilada del dispositivo del usuario.
 
-![](<.gitbook/assets/14 (10).png>)
+![](<.gitbook/assets/14 (4).png>)
 
 En la esquina superior derecha de la pantalla, tenemos algunos iconos que tienen las siguientes características:
 
 * Notificaciones - En el icono ![](https://lh7-us.googleusercontent.com/LIqOOPLli\_-KQv0gbnkeBAgAG1\_EOWziv1kRkMmMtO2dOIvA17vDOpWbmtTw5\_2RUg1D-mUt1PWNvciaKyYAHysUPk47UBQ8yIufI8DmrX523Zqn\_ntcDKa0ff0KqkWZeeaDLHoJF9MB762IkIm6vw)el administrador puede ver las notificaciones del portal, por ejemplo, al solicitar la generación de un reporte.
 * Admin - En el icono ![](https://lh7-us.googleusercontent.com/XnN5TtWJIzJYNZfcb\_18o7Mzx\_RrJYRxyodSpfkBQuPCce64vPyFVeN6g6umpqRYxKpCZ\_v8JGiU3iuMYa4vOmakPCagWJmIJFLK3dsOj3f7Ta1mH0KwNpxCTIGDJ5xs1IUicW1Ncuv2XJcBMyJvGg) despliega la opción para que el administrador pueda salir del portal y también muestra la versión actual de la solución el número de versión.
 
-<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ## **Barra de Estado**
 
 La barra de estado de Dashboard muestra el estatus actual de todos los usuarios y licencias de la empresa.
 
-![](<.gitbook/assets/18 (8).png>)
+![](<.gitbook/assets/18 (4).png>)
 
 ## **Total de Usuarios**
 
 Este indicador muestra el número total de usuarios de dispositivos que utilizan la aplicación **\<NomeProduto>.**
 
-![](<.gitbook/assets/19 (7).png>)
+![](<.gitbook/assets/19 (4).png>)
 
 ## **Total de Licencias**
 
 Este indicador muestra el número total de licencias disponibles en el portal **\<NomeProduto>**.
 
-![](<.gitbook/assets/20 (6).png>)
+![](<.gitbook/assets/20 (4).png>)
 
 ## **Licencias sin uso**
 
@@ -65,7 +65,7 @@ Al hacer clic en este indicador, el sistema mostrará la pantalla "Licencias con
 
 Este indicador muestra el número total de dispositivos que están activos en el sistema y los dispositivos sin comunicación. Además, permite al administrador tener la visibilidad de los dispositivos que están en Modo Quiosco.
 
-![](<.gitbook/assets/0 (17).png>)
+![](<.gitbook/assets/0 (3).png>)
 
 * **TOTAL -** Estos dispositivos se consideran "activos" al instalar y activar la aplicación **\<NomeProduto>**. Al hacer clic en "Total" el indicador mostrará la pantalla "Lista de dispositivos" que contiene el reporte con la información clave de los dispositivos activos
 
@@ -75,7 +75,7 @@ Al hacer clic en "Total" el indicador mostrará la pantalla "Lista de dispositiv
 
 ![Interface gráfica do usuário
 
-Descrição gerada automaticamente com confiança baixa](<.gitbook/assets/1 (17).png>)
+Descrição gerada automaticamente com confiança baixa](<.gitbook/assets/1 (3).png>)
 
 Esta falta de comunicación puede ocurrir cuando el dispositivo se encuentra en las siguientes situaciones:
 
@@ -98,7 +98,7 @@ Este indicador muestra el porcentaje de consumo de datos móviles de los disposi
 
 ![Diagrama
 
-Descrição gerada automaticamente](<.gitbook/assets/2 (17).png>)
+Descrição gerada automaticamente](<.gitbook/assets/2 (3).png>)
 
 ## **Consumo de SMS**
 
@@ -106,7 +106,7 @@ Este indicador muestra el porcentaje de consumo de SMS enviados por los disposit
 
 ![Uma imagem contendo Diagrama
 
-Descrição gerada automaticamente](<.gitbook/assets/3 (15).png>)
+Descrição gerada automaticamente](<.gitbook/assets/3 (3).png>)
 
 ## **Consumo de Datos por Aplicación**
 
@@ -118,7 +118,7 @@ Al hacer clic en el botón “Ver lista completa” el sistema exhibirá en pant
 
 ![Uma imagem contendo Interface gráfica do usuário
 
-Descrição gerada automaticamente](<.gitbook/assets/4 (12).png>)
+Descrição gerada automaticamente](<.gitbook/assets/4 (3).png>)
 
 ## **Consumo de Datos por Usuario**
 
@@ -130,7 +130,7 @@ Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla
 
 ![Gráfico
 
-Descrição gerada automaticamente](<.gitbook/assets/5 (11).png>)
+Descrição gerada automaticamente](<.gitbook/assets/5 (3).png>)
 
 ## **Tiempo de uso por aplicación**
 
@@ -140,7 +140,7 @@ El valor porcentual de cada una de las 5 aplicaciones se calcula en relación co
 
 Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla con la información de todas las aplicaciones. Para saber cómo utilizar esta pantalla, lea la sección "[Aplicaciones](configuracion/editar-politica/aplicaciones.md)" de este manual.
 
-![](<.gitbook/assets/6 (11).png>)
+![](<.gitbook/assets/6 (3).png>)
 
 ## **Inventario de Dispositivos**
 
@@ -148,7 +148,7 @@ Este indicador muestra el porcentaje de los 5 fabricantes de dispositivos activo
 
 ![Gráfico, Gráfico de explosão solar
 
-Descrição gerada automaticamente](<.gitbook/assets/7 (10).png>)
+Descrição gerada automaticamente](<.gitbook/assets/7 (2).png>)
 
 ## **Sitios más visitados**
 
@@ -162,7 +162,7 @@ Los sitios web visitados son obtenidos por el navegador web predeterminado del s
 
 ![Gráfico, Gráfico de barras
 
-Descrição gerada automaticamente](<.gitbook/assets/8 (10).png>)
+Descrição gerada automaticamente](<.gitbook/assets/8 (2).png>)
 
 ## **Indicador de Consumo y su Historial**
 
@@ -170,7 +170,7 @@ Este indicador muestra en porcentaje los datos móviles y SMS consumidos en los 
 
 ![Gráfico, Gráfico de barras
 
-Descrição gerada automaticamente](<.gitbook/assets/9 (10).png>)
+Descrição gerada automaticamente](<.gitbook/assets/9 (2).png>)
 
 ## **Indicador de Nuevos Usuarios de dispositivos y su Historial**
 
@@ -180,7 +180,7 @@ Para realizar el análisis individual de los usuarios de dispositivos, haga clic
 
 ![Gráfico, Gráfico de barras
 
-Descrição gerada automaticamente](<.gitbook/assets/10 (9).png>)
+Descrição gerada automaticamente](<.gitbook/assets/10 (2).png>)
 
 ## **Ubicación de los Dispositivos**
 
@@ -192,9 +192,9 @@ La ubicación de los dispositivos se muestra con un marcador en el mapa, que pue
 
 Utilice los recursos del mapa para optimizar la visualización de las ubicaciones.
 
-![](<.gitbook/assets/11 (8).png>)
+![](<.gitbook/assets/11 (2).png>)
 
-![](<.gitbook/assets/12 (8).png>)
+![](<.gitbook/assets/12 (2).png>)
 
 En la sección “[GEOLOCALIZACIÓN](ubicacion/geolocalizacion.md)” se detalla esta y otras funcionalidades relacionadas a la ubicación.
 
@@ -202,7 +202,7 @@ En la sección “[GEOLOCALIZACIÓN](ubicacion/geolocalizacion.md)” se detalla
 
 En esta pantalla tendremos acceso a los manuales descargables. Al hacer clic en "Más información", se mostrará la pantalla con Documentos y Materiales de Apoyo.
 
-![](<.gitbook/assets/13 (8).png>)
+![](<.gitbook/assets/13 (2).png>)
 
 <figure><img src=".gitbook/assets/Captura de tela 2023-11-07 085758.png" alt=""><figcaption></figcaption></figure>
 
@@ -214,8 +214,8 @@ A través de la sesión “_Alguna duda?_" tendremos acceso a la pantalla donde 
 
 Al hacer clic en "Más información", nos dirigiremos a la siguiente pantalla, donde es posible realizar una búsqueda a través del campo de escritura libre o bien filtrar por categoría.
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 Al desplazar la pantalla más abajo, tendremos acceso a la lista de preguntas frecuentes y, al final de la página, tendremos acceso también a los manuales de descarga, así como tenemos en el Dashboard.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>

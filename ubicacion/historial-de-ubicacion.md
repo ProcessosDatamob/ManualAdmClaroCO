@@ -1,4 +1,4 @@
-# Historial de ubicación
+# Historial de Ubicación
 
 Esta pantalla del sistema tiene como objetivo permitir al usuario visualizar y generar un reporte con el historial de ubicaciones de los dispositivos de la empresa.
 
@@ -6,7 +6,7 @@ Para ver y generar el reporte, siga los pasos descritos en esta sección.
 
 1. Haga clic en el menú "Ubicación" y seleccione el submenú "Historial de ubicación".
 
-![](<../.gitbook/assets/4 (4).png>)
+![](<../.gitbook/assets/4 (12).png>)
 
 2. Seleccione la información del reporte que desea filtrar.
 3. Haga clic en el botón "Buscar".
@@ -24,4 +24,4 @@ El sistema mostrará todas las ubicaciones de los dispositivos según el filtro 
 8. Para ver una mayor cantidad de ubicaciones por página, seleccione la cantidad al final de la página, como se muestra a continuación.
 9. Utilice el campo de navegación para ver las ubicaciones de las otras páginas del reporte.
 
-![](<../.gitbook/assets/5 (4).png>)
+![](<../.gitbook/assets/5 (11).png>)

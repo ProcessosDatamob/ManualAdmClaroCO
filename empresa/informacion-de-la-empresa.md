@@ -1,4 +1,4 @@
-# Información de la empresa
+# Información de la Empresa
 
 Para ver o cambiar los datos de la empresa, siga los pasos descritos a continuación:
 
@@ -10,7 +10,7 @@ Para ver o cambiar los datos de la empresa, siga los pasos descritos a continuac
 3. La información de todos los demás campos se puede cambiar.
 4. Después de finalizar, haga clic en "Actualizar" para guardar los cambios.
 
-![](<../.gitbook/assets/19 (5).png>)
+![](<../.gitbook/assets/19 (2).png>)
 
 ## **Eliminar Empresa**
 
@@ -26,4 +26,4 @@ Esta es una acción irreversible. Antes de eliminar la empresa se debe solicitar
 
 La siguiente pantalla se muestra al hacer clic en "Eliminar empresa".
 
-![](<../.gitbook/assets/20 (4).png>)
+![](<../.gitbook/assets/20 (2).png>)

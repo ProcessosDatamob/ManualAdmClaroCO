@@ -4,8 +4,8 @@ En la pantalla de Lista de Dispositivos se ha añadido la información "Fecha de
 
 La misma información se ha agregado a la pantalla "Administrar Dispositivo".
 
-<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 [Volver a la lista de Release Notes](./)&#x20;
