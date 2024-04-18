@@ -8,7 +8,7 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 
 <figure><img src="../.gitbook/assets/image (88).png" alt="" width="375"><figcaption></figcaption></figure>
 
-1. Defina las configuraciones deseadas según las opciones de la pantalla de Configuraciones Generales:
+2. Defina las configuraciones deseadas según las opciones de la pantalla de Configuraciones Generales:
 
 <figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 

@@ -1,6 +1,6 @@
-# Release Notes \<NomeProduto> V 7.0.0
+# Release Notes \<NomeProduto> Versión 7.0.0
 
-### Novidades da Versão
+### Novedades de la Versión
 
 1. [Activación de Aplicaciones de Sistemas a través de Código QR](activacion-de-aplicaciones-de-sistemas-a-traves-de-codigo-qr.md)
 2. [Activación de Aplicaciones de Sistema Mediante Comando](activacion-de-aplicaciones-de-sistema-mediante-comando.md)

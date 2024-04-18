@@ -1,6 +1,6 @@
-# Release Notes \<NomeProduto> V 6.0.0
+# Release Notes \<NomeProduto> Versión 6.0.0
 
-Novedades de la Versión
+### Novedades de la Versión
 
 1. [Reporte de Movimientos de Creación, Copia y Exclusión de Políticas](reporte-de-movimientos-de-creacion-copia-y-exclusion-de-politicas.md)
 2. [Exportación del Informe de No Conformidad](exportacion-del-informe-de-no-conformidad.md)

@@ -1,5 +1,5 @@
-# Release Notes \<NomeProduto> V 8.0.0
+# Release Notes \<NomeProduto> Versión 8.0.0
 
-### Novidades da Versão
+### Novedades de la Versión
 
 1. [Configuraciones de Conectividad](configuraciones-de-conectividad.md)
