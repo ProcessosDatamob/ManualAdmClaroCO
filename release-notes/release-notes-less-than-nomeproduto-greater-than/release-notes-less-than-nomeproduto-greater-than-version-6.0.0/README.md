@@ -15,7 +15,7 @@
 11. [Creación de Grupos de Dispositivos en Lote](creacion-de-grupos-de-dispositivos-en-lote.md)
 12. [Configuración de Wi-Fi en Modo Quiosco](configuracion-de-wi-fi-en-modo-quiosco.md)
 13. [Acceso al Manual del Administrador Online](acceso-al-manual-del-administrador-online.md)
-14. Configuración de Ordenación de los Iconos
+14. [Configuración de Ordenación de los Iconos](configuracion-de-ordenacion-de-los-iconos.md)
 15. [Nueva Columna con Información del "Nombre del Paquete"](nueva-columna-con-informacion-del-nombre-del-paquete.md)
 16. [Configuración del Tamaño de Fuentes e Iconos](configuracion-del-tamano-de-fuentes-e-iconos.md)
 17. &#x20;[Inclusión Manual de Aplicaciones del Sistema](inclusion-manual-de-aplicaciones-del-sistema.md)
