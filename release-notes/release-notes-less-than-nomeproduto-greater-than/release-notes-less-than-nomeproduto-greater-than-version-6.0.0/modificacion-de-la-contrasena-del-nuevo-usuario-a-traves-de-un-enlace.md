@@ -4,6 +4,6 @@ Al confirmar el registro de un nuevo usuario administrador en el Portal, el sist
 
 Con este nuevo flujo de creación de contraseña, el campo de contraseña no se mostrará en la pantalla de registro de usuario, pero se mantendrá en la edición de un registro existente.
 
-<figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 [Volver a la lista de Release Notes](./)

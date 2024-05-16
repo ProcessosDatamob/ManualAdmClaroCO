@@ -13,6 +13,12 @@ Algunos comandos especiales son:
 * **Iniciar sesión -** Habilita _la gestión_ de registros por la aplicación.
 * **Logoff** - Deshabilita _la gestión_ de registros por la aplicación.
 
+{% hint style="info" %}
+<mark style="color:red;">**Nota**</mark>
+
+<mark style="color:red;">Para reiniciar os serviços no caso de perda de comunicação do aplicativo, clique em “Nova Mensagem”, envie a mensagem “start\_services" para os dispositivos afetados, quando o aplicativo receber o push com o comando, ele irá inicializar os processos do aplicativo, ativar os alarmes do aplicativo e enviar as informações pertinentes do aplicativo, incluindo Device Info, Consumos, Site e SMS.</mark>
+{% endhint %}
+
 Al recibir una orden, la aplicación no mostrará el texto sobre la orden enviada.
 
 Para saber cómo enviar mensajes y comandos, siga los pasos descritos en esta sección.

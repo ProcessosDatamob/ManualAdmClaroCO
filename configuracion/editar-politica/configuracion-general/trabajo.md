@@ -6,7 +6,7 @@ Para acceder a esta función, vaya a la pestaña "**Ajustes**" en la pantalla "*
 
 
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Para realizar el bloqueo de dispositivos fuera del horario de trabajo, siga los siguientes pasos:<mark style="color:red;">:</mark>
 
@@ -14,7 +14,7 @@ Para acceder a esta función, vaya a la pestaña "**Ajustes**" en la pantalla "*
 2. Complete el campo "Días laborales" con los días laborables de la semana, especificando el día de inicio y el día de finalización.<mark style="color:red;">.</mark>
 3. Complete el campo "Horario de trabajo" con la hora de inicio y la hora de finalización del horario laboral.
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Observación:**

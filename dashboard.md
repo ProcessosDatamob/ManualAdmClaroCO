@@ -6,7 +6,7 @@ Para saber cómo acceder y analizar los datos mostrados en el Dashboard, siga lo
 
 La pantalla de Dashboard puede ser considerada la "Pantalla de Inicio" del sistema, pues se muestra inmediatamente después de que el usuario acceda al Portal, pero también se puede acceder haciendo clic en el menú "Dashboard". En un primer acceso, los indicadores de usuarios, dispositivos y consumos no tendrán aún información, por lo que estarán en cero.
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Al acceder a la pantalla, toda la información se mostrará separada por secciones. Cada sección corresponde a un dato diferente, obtenido del dispositivo y toda la información se muestra de acuerdo con las opciones seleccionadas en el filtro (Empresa, Grupo o Usuario).
 
@@ -33,7 +33,7 @@ En la esquina superior derecha de la pantalla, tenemos algunos iconos que tienen
 * Notificaciones - En el icono ![](https://lh7-us.googleusercontent.com/LIqOOPLli\_-KQv0gbnkeBAgAG1\_EOWziv1kRkMmMtO2dOIvA17vDOpWbmtTw5\_2RUg1D-mUt1PWNvciaKyYAHysUPk47UBQ8yIufI8DmrX523Zqn\_ntcDKa0ff0KqkWZeeaDLHoJF9MB762IkIm6vw)el administrador puede ver las notificaciones del portal, por ejemplo, al solicitar la generación de un reporte.
 * Admin - En el icono ![](https://lh7-us.googleusercontent.com/XnN5TtWJIzJYNZfcb\_18o7Mzx\_RrJYRxyodSpfkBQuPCce64vPyFVeN6g6umpqRYxKpCZ\_v8JGiU3iuMYa4vOmakPCagWJmIJFLK3dsOj3f7Ta1mH0KwNpxCTIGDJ5xs1IUicW1Ncuv2XJcBMyJvGg) despliega la opción para que el administrador pueda salir del portal y también muestra la versión actual de la solución el número de versión.
 
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ## **Barra de Estado**
 
@@ -192,9 +192,9 @@ La ubicación de los dispositivos se muestra con un marcador en el mapa, que pue
 
 Utilice los recursos del mapa para optimizar la visualización de las ubicaciones.
 
-![](<.gitbook/assets/11 (2).png>)
+<mark style="color:red;">Caso o sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  então elas serão exibidas.</mark>
 
-![](<.gitbook/assets/12 (2).png>)
+<figure><img src=".gitbook/assets/Captura de tela 2024-05-16 144307.png" alt=""><figcaption></figcaption></figure>
 
 En la sección “[GEOLOCALIZACIÓN](ubicacion/geolocalizacion.md)” se detalla esta y otras funcionalidades relacionadas a la ubicación.
 
@@ -214,8 +214,8 @@ A través de la sesión “_Alguna duda?_" tendremos acceso a la pantalla donde 
 
 Al hacer clic en "Más información", nos dirigiremos a la siguiente pantalla, donde es posible realizar una búsqueda a través del campo de escritura libre o bien filtrar por categoría.
 
-<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 Al desplazar la pantalla más abajo, tendremos acceso a la lista de preguntas frecuentes y, al final de la página, tendremos acceso también a los manuales de descarga, así como tenemos en el Dashboard.
 
-<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>

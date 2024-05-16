@@ -4,6 +4,6 @@ En la pantalla de Auditoría se ha creado un nuevo filtro de actividad llamado "
 
 Para realizar un filtro más específico de las aceptaciones, también se han incluido las categorías: Empresa, Dispositivo y Usuario.
 
-<figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 [Volver a la lista de Release Notes](./)

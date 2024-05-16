@@ -10,7 +10,7 @@ Al acceder a la pantalla, el sistema no permitirá cambiar la información del c
 
 1. Al acceder a la pantalla, el sistema mostrará una lista con todos los usuarios administradores.
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 2. Para buscar un usuario, ingrese el nombre del usuario en el campo "Buscar".
 3. Para ordenar la información mostrada, haga clic en el título de la información que desee.

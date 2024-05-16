@@ -41,11 +41,11 @@ El correo electrónico de confirmación es un mensaje automático y se puede ide
 
 El token de confirmación debe insertarse en la pantalla para confirmar el registro de la empresa. La pantalla de confirmación se muestra a continuación.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="" width="308"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt="" width="308"><figcaption></figcaption></figure>
 
 Si no ha recibido el token por correo electrónico, el usuario puede solicitar que se reenvíe haciendo clic en la opción "Reenviar código" que está disponible justo encima del botón "Confirmar".
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Después de esta confirmación, el sistema abrirá la pantalla de Google Play. Este es el paso final del primer acceso al Portal. En esta pantalla se llevará a cabo la configuración de una cuenta de Google Play para la empresa. Este paso es importante para que la empresa administre las aplicaciones que estarán disponibles en sus dispositivos.&#x20;
 

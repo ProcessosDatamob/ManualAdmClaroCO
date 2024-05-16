@@ -20,6 +20,7 @@
 * [GESTIÓN DE APLICACIONES](gestion-de-aplicaciones/README.md)
   * [Aplicaciones Administradas](gestion-de-aplicaciones/aplicaciones-administradas.md)
   * [Google Play Administrada](gestion-de-aplicaciones/google-play-administrada.md)
+  * [Instalación remota de aplicaciones](gestion-de-aplicaciones/instalacion-remota-de-aplicaciones.md)
 * [CONFIGURACIONES](configuracion/README.md)
   * [Administrar Políticas](configuracion/administrar-politicas/README.md)
     * [Token de Registro](configuracion/administrar-politicas/token-de-registro.md)

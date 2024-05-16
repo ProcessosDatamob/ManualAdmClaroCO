@@ -19,11 +19,11 @@ Para realizar la instalación de la aplicación, vaya al menú "Gestión de Apli
 
 3. Abrirá la pantalla con más información de la aplicación. Haga clic en el botón "Seleccionar", como se muestra en la siguiente imagen.
 
-<figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 4. Pulse sobre el botón confirmar para hacer efectiva la inclusión.
 
-<figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 5. La aplicación Security Browser aparecerá en la lista de "Aplicaciones Administradas", tal como se puede visualizar en la pantalla siguiente.
 
@@ -69,4 +69,4 @@ El bloqueo de sitios permite que el dispositivo se utilice para navegar en el tr
 
 8. Para realizar el bloqueo por categoría, pulse sobre los selectores para activar o desactivar el bloqueo de la categoría deseada. En la pantalla de abajo están bloqueadas las categorías: contenido adulto, contenido alcohólico, tabaco y compras.
 
-<figure><img src=".gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>

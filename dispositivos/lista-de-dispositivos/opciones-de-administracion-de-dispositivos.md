@@ -2,15 +2,17 @@
 
 En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acceder a la información del dispositivo haciendo clic en el botón de información.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-01-11 144211.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Detalles&#x20;
 
 * Usuario - nombre del usuario registrado en el portal
 * Identificación - Identificación registrada para el dispositivo.&#x20;
-* Teléfono - número de teléfono.
+* Grupo - grupo registrado para el dispositivo;
 * IMEI - número interno y único en cada dispositivo.&#x20;
 * ICCID - número de chip SIM.&#x20;
+* Número de serie - número de serie del dispositivo;
+* Teléfono - número de teléfono.
 * Modelo - modelo de dispositivo.&#x20;
 * Fabricante - nombre del fabricante del dispositivo.
 * Sistema Operativo - sistema operativo del dispositivo.&#x20;
@@ -18,11 +20,15 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 
 ### Instalación&#x20;
 
+* Estado Aplicado - <mark style="color:red;">status do registro do dispositivo, se o dispositivo está totalmente registrado, o status será "Ativo";</mark>
 * Fecha de registro - fecha de registro de los dispositivos.
 * Modo de gestión - muestra el modo de gestión utilizado.
 * Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
-* Nombre de la Política en el Portal - nombre de la politica asignada al dispositivo.
-* Fecha de la última comunicación - mostrará la fecha en que el dispositivo se comunicó por última vez con el portal.
+* <mark style="color:red;">**Nome da Política no Dispositivo -**</mark> <mark style="color:red;"></mark><mark style="color:red;">nome da política atribuída no dispositivo</mark><mark style="color:blue;">;</mark>
+* <mark style="color:red;">**Versão da política Aplicada -**</mark> <mark style="color:red;"></mark><mark style="color:red;">versão da política;</mark>
+* <mark style="color:red;">**Data de sincronização da Política -**</mark> <mark style="color:red;"></mark><mark style="color:red;">exibirá a data da sincronização da política;</mark>
+* <mark style="color:red;">**Em conformidade -**</mark> <mark style="color:red;"></mark><mark style="color:red;">é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".</mark>&#x20;
+* <mark style="color:red;">**Data da Última Comunicação -**</mark> <mark style="color:red;"></mark><mark style="color:red;">exibirá a data em que o dispositivo se comunicou a última vez com o portal;</mark>
 
 ### Hardware&#x20;
 
@@ -30,6 +36,13 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 * Batería - Cuántos % de batería está actualmente.
 
 Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuraciones del dispositivo, como se ilustra en la imagen a continuación.
+
+### <mark style="color:red;">Permissões</mark>
+
+* <mark style="color:red;">**Acesso ao Dados de Uso -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as consumos de dados e tempo de uso dos aplicativos.</mark>
+* <mark style="color:red;">**Ignorar Otimização de Bateria -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.</mark>
+* <mark style="color:red;">**Escrita de Configurações do Sistema -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage</mark><mark style="color:red;">**r**</mark> <mark style="color:red;"></mark><mark style="color:red;">não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.</mark>
+* <mark style="color:red;">**Leitura de SMS -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.</mark>
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2023-11-03 143049.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +61,7 @@ El sistema mostrará la pantalla del historial de batería del dispositivo.
 1. Seleccione una fecha para ver los datos del historial.
 2. Desplazar el cursor sobre el gráfico para ver los valores en un momento específico.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ### **Historial de Almacenamiento**
 
@@ -72,7 +85,7 @@ Al elegir Alterar política, aparecerá en el centro de la pantalla un cuadro de
 
 La política define las preferencias, incluidos los criterios de hardware, software, sistema operativo, seguridad, etc. Para obtener más información sobre Políticas, lea la sección de configuración de este manual.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 ### **Deshabilitar Dispositivo**
 
@@ -80,7 +93,7 @@ Cuando se envía el comando 'Desactivar Dispositivos', se desactivan (o quedan b
 
 Para confirmar la operación, en la pantalla de confirmación haga clic en el botón "Deshabilitar".
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 ### **Activar dispositivo**
 
@@ -96,7 +109,7 @@ La opción "Apagar pantalla" envía un comando para apagar la pantalla del dispo
 
 Esta operación envía una orden para reiniciar el dispositivo. Seleccione la opción "Reiniciar dispositivo". Se muestra un mensaje en la pantalla del portal para confirmar el envío de la orden. El mensaje mostrado se muestra a continuación.
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 ### **Generar nueva contraseña del dispositivo**
 
@@ -110,7 +123,7 @@ Rellene los campos "Nueva contraseña" y "Confirmar nueva contraseña" con valor
 
 La pantalla para generar nueva contraseña del dispositivo se muestra a continuación.
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 ### **Remover dispositivo (WIPE)**
 
@@ -118,7 +131,7 @@ Esta operación le permite eliminar un dispositivo. Limpia los datos y configura
 
 Como se puede ver en la siguiente imagen, se muestra un mensaje en la pantalla para información y advertencia. La operación no se puede deshacer, por lo tanto, confirme solo cuando esté seguro de que desea eliminar el dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 ### **Administrar**
 

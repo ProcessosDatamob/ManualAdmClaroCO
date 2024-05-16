@@ -32,8 +32,6 @@ Si el usuario elige la opción “Pre instalada” deberá considerar que las ap
 6. Agregar Aplicaciones: Permite añadir aplicaciones para su gestión. Para obtener más información, acceda al contenido "Agregar Aplicaciones" en esta página.
 7. Restricciones de Funcionamiento: Permite crear restricciones de acceso a las aplicaciones por horario, para definir los momentos en los que las aplicaciones no podrán ser accedidas. Para más información, acceda al contenido "Restricciones de Funcionamiento" en esta página.
 
-
-
 ## **Configuraciones Administradas**
 
 Para acceder a la configuración administrada de una aplicación, debe estar en la pantalla "Editar política" con la pestaña "Aplicaciones" seleccionada. Siga los siguientes pasos:
@@ -43,19 +41,17 @@ Para acceder a la configuración administrada de una aplicación, debe estar en 
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2023-11-06 174309.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-**IMPORTANTE**
+<mark style="color:red;">A tela a seguir será exibida:</mark>
 
-La aplicación Security Browser es el navegador web predeterminado del sistema **\<NomeProduto>** y con él es posible gestionar bloqueos de sitios por URL y categoría, así como monitorear la navegación del usuario. Consulte la "[Bloqueo de Sitios Web - Security Browser](../../bloqueo-de-sitios-web-security-browser.md)" para obtener información detallada sobre la instalación y configuración de la aplicación Security Browser.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-05-16 145644.png" alt=""><figcaption></figcaption></figure>
 
-Después del paso 2 se mostrará la siguiente pantalla. En esta pantalla tenemos los siguientes elementos:
+<mark style="color:red;">Nesta tela é possível ver a identificação do aplicativo selecionado e a tela de configuração que foi escolhida ("Configurações Gerenciadas");</mark>
 
-3. Identificación de la aplicación seleccionada y la pantalla de configuración elegida ("Configuración administrada");
-4. Lista de configuraciones administradas disponibles para la aplicación seleccionada. Al hacer clic en cada fila se muestran las preferencias;
-5. Enlace para volver a la lista de aplicaciones.
+2. <mark style="color:red;">Clique no menu “Permissões Opcionais" para acessar a lista de configurações gerenciadas disponíveis para o aplicativo selecionado. Nesse menu é possível ativar e desativar cada uma das configurações.</mark>
 
-![](<../../.gitbook/assets/3 (17).png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+3. <mark style="color:red;">Ao clicar em "Salvar" o sistema</mark> <mark style="color:red;">enviará as configurações selecionadas para os dispositivos.</mark>
 
 ## **Permisos**
 
@@ -71,6 +67,12 @@ Después del paso 2 se mostrará la siguiente pantalla. La lista blanca, que se 
 ![](<../../.gitbook/assets/5 (13).png>)
 
 Los permisos se pueden configurar como: Solicitar al usuario, Activada o Denegada.
+
+{% hint style="info" %}
+<mark style="color:blue;">**Observação**</mark>
+
+<mark style="color:blue;">Se a opção “Permissões" aparecer desabilitada no sistema, é para evitar que o usuário acesse configurações que não são relevantes para sua função. Visando garantir que o usuário não se confunda ou tente ajustar configurações que não estão dentro de suas atribuições ou necessidades específicas dentro do sistema.</mark>
+{% endhint %}
 
 ## **Configuraciones Avanzadas**
 
@@ -141,19 +143,19 @@ Para definir restricciones de funcionamiento de aplicaciones por días y horario
 
 1. Ícono para acceder a la opción 'Restricciones de Funcionamiento'"
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 2. Botón selector para activar restricciones.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
-La opción de "Restricciones de Funcionamiento" está disponible para todas las aplicaciones, excepto la aplicación del sistema **\<NombreProduto>** Cuando una aplicación ya tiene restricciones de funcionamiento, su ícono de restricción cambiará y mostrará un pequeño punto rojo<img src="../../.gitbook/assets/image (3).png" alt="" data-size="line">.
+La opción de "Restricciones de Funcionamiento" está disponible para todas las aplicaciones, excepto la aplicación del sistema **\<NombreProduto>** Cuando una aplicación ya tiene restricciones de funcionamiento, su ícono de restricción cambiará y mostrará un pequeño punto rojo<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">.
 
 Para activar las restricciones:
 
 1. Seleccione el campo “Permitir restricciones".
 2. Indique la hora de uso para cada día, movendo el punto inicial(hora inicial) e punto final (hora final) con el mouse, o seleccione el campo "Restringir" para bloquear el funcionamiento durante todo el día.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Haga clic en "Confirmar" para guardar los cambios. La política enviará la información de las restricciones de la aplicación a los dispositivos vinculados.
