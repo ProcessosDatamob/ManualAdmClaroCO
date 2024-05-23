@@ -20,7 +20,12 @@ Al seleccionar la opción “Abierta”, las aplicaciones agregadas a la políti
 
 2. Utilice el cuadro de búsqueda para buscar aplicaciones dentro de la lista que aparece.
 3. Lista de aplicaciones incluidas en la política.
-4. Tipo de instalación - Elija el tipo de instalación de cada dispositivo. Los tipos de instalación son: "Disponible", "Pre instalado", "Instalación forzada" o "Bloqueado".
+4. <mark style="color:red;">**Tipos de instalación -**</mark> <mark style="color:red;"></mark><mark style="color:red;">elija el tipo de instalación de cada dispositivo. Los tipos de instalación son:</mark>
+
+* <mark style="color:red;">**Disponible:**</mark> <mark style="color:red;"></mark><mark style="color:red;">La aplicación está disponible para su instalación, el usuario tiene la opción de instalarla según su conveniencia. No se instala automáticamente en el dispositivo.</mark>
+* <mark style="color:red;">**Preinstalado:**</mark> <mark style="color:red;"></mark><mark style="color:red;">La aplicación se instala automáticamente en el dispositivo. Cuando el usuario utilice el dispositivo, las herramientas o configuraciones necesarias ya estarán instaladas.</mark>
+* <mark style="color:red;">**Instalación Forzada:**</mark> <mark style="color:red;"></mark><mark style="color:red;">La aplicación se instala automáticamente en el dispositivo sin la intervención del usuario. El usuario no puede desinstalar la aplicación; si lo hace, el sistema la volverá a instalar, garantizando que las herramientas necesarias estén siempre presentes y activas.</mark>
+* <mark style="color:red;">**Bloqueado:**</mark> <mark style="color:red;"></mark><mark style="color:red;">La instalación de ciertas aplicaciones está explícitamente impedida. El usuario no podrá instalar ni acceder a estas aplicaciones o configuraciones restringidas en el dispositivo.</mark>
 
 {% hint style="info" %}
 **NOTA**
