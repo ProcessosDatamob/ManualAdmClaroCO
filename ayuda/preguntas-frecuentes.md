@@ -11,3 +11,7 @@ Para ver las preguntas frecuentes, haga clic en el menú "Ayuda", seleccione el 
 3. Para ver la respuesta a la pregunta, haga clic en el símbolo ">" situado a la izquierda de la pregunta.
 
 ![](<../.gitbook/assets/1 (18).png>)
+
+Al desplazarse hasta el final de la página, tenemos acceso a los Manuales haciendo clic en "Más Información":
+
+<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>

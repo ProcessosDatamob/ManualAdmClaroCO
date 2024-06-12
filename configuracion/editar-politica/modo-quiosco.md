@@ -17,25 +17,36 @@ Para acceder a la configuración del "**Modo Quiosco**", siga estos pasos:&#x20;
 
 Cuando el dispositivo instale la aplicación Kiosk, la aplicación capturará la lista de todos los aplicativos instalados en el dispositivo y la enviará al Portal de administración.  Además, enviará las  configuraciones administradas al portal y cambiará el lanzador del dispositivo por el de la aplicación Kiosk. No permitirá que el usuario cambie el lanzador en el dispositivo y mantendrá la configuración del Modo Quiosco recibida en la política.
 
-
-
 ### Opciones de configuración del Modo Quiosco
 
 Cuando el modo quiosco esté activado, estarán disponibles las siguientes opciones de configuración:
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 * **Botones de navegación:** Permite definir los botones de navegación del dispositivo como "Activo", "Bloqueado" o "Solo el botón Inicio".
 * **Botão "Power":** permite definir el botón de encendido del dispositivo como "Disponible" o "Bloqueado.
 * **Exhibir mensajes de error:** permite definir la exhibición de mensajes de error como "Activo" o "Silenciado".
 * **Informaciones mostradas en la barra de estado:** permite definir la información que se mostrará en la barra de estado del dispositivo. Puede ser definido como "Notificaciones e información del sistema", "Solo información del sistema" o "Ninguna".
 * **Acceso a configuraciones:** permite definir como "Liberado" o "Bloqueado".
+
+{% hint style="info" %}
+<mark style="color:red;">**OBSERVACIÓN**</mark>\ <mark style="color:red;">Durante la activación de un dispositivo en una política con Modo Kiosco Activo, la configuración "Acceso a Configuraciones" necesita estar como "Liberada" para que el usuario pueda conceder los permisos solicitados para la activación del Companion. Esto es porque el usuario necesita acceder directamente a la interfaz de configuraciones del dispositivo. Por este motivo, en el modo kiosco ningún aplicativo podrá activar permisos que requieran acceso a la interfaz de configuración del SO si las configuraciones están bloqueadas en la política. Después del enrolamiento, las configuraciones podrán ser bloqueadas si es necesario.</mark>\ <mark style="color:red;">Otra opción, para no tener que dejar el acceso a las configuraciones liberado, es dejar los permisos del Companion como opcionales, así el usuario puede activar sin que sea necesario conceder los permisos; sin embargo, en este caso, los datos relacionados con los permisos no concedidos no serán recopilados.</mark>
+{% endhint %}
+
 * **Servicios de telefonía adicionales:** permite definir los servicios de telefonía como "Activo" o "Definido por dispositivo". Al definir como "Activo" y guardar la política, el sistema enviará los paquetes de servicios de telefonía al dispositivo, lo que permitirá recibir y realizar llamadas en el dispositivo que provisiona la política. Al definir como "Definido por  Dispositivo", el dispositivo funcionará según su configuración estándar, teniendo o no los servicios.
+
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+
 * **Fondo de pantalla** - Es posible cargar una imagen para el fondo de pantalla en la política y establecer la orientación de la pantalla, la cual se enviará a la aplicación.
 * **Color de fuente de los iconos** - Permite configurar el color del texto de los iconos en la pantalla de inicio.
 * **Orientación de pantalla** - Permite seleccionar la orientación de pantalla para el dispositivo, y el valor predeterminado es 'Definido por el usuario'."
 * **Tamaño de iconos y fuentes** - Permite seleccionar las siguientes opciones de tamaño de pantalla: Estándar del sistema (predeterminado), Pequeño (75%) y Grande (125%).
 * **Ordenación de los iconos** - Permite realizar la ordenación de los iconos por orden alfabético o por fecha de inclusión.
 * **Posicionamiento de la imagen** - Permite seleccionar la posición de la imagen del fondo de pantalla en la pantalla de inicio del dispositivo.
+* <mark style="color:red;">**Bloquear acceso a las configuraciones de Wi-Fi**</mark> <mark style="color:red;"></mark><mark style="color:red;">- impide que los usuarios accedan y modifiquen las configuraciones de Wi-Fi durante la inicialización y el uso del dispositivo en el modo Kiosco.</mark>
 
-Las aplicaciones que se mostrarán en el dispositivo se establecerán mediante la política, es decir, solo las aplicaciones autorizadas en la política se mostrarán en el quiosco.
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+
+* <mark style="color:red;">**Acceso Temporal al Dispositivo**</mark> <mark style="color:red;"></mark><mark style="color:red;">- Configuración para permitir que el usuario acceda al dispositivo durante un tiempo determinado. Para activar el permiso, deslice el interruptor hacia la derecha desde la pantalla principal. Además, es posible definir la duración del acceso del usuario al dispositivo, que puede ser de 5, 10, 15, 30 minutos o 1 hora. Al habilitar el acceso temporal, se generará una contraseña para que el usuario pueda acceder al dispositivo. En la sección "Opciones de Gestión de Dispositivos" detallaremos mejor cómo funcionará.</mark>\ <mark style="color:red;">Después de finalizar el tiempo definido, el Modo Kiosco se activará nuevamente de forma automática.</mark>
+
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>

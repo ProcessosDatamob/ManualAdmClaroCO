@@ -28,4 +28,4 @@ Cuando finalice el procesamiento, aparecerá una notificación con la opción 'V
 
 Al finalizar los cambios en el grupo, el sistema volverá a la pantalla de administración de grupos.
 
-<figure><img src="../.gitbook/assets/Captura de tela 2024-01-11 132606.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2024-06-12 105421.png" alt=""><figcaption></figcaption></figure>

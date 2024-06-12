@@ -4,13 +4,13 @@ Para ver o cambiar los datos de la empresa, siga los pasos descritos a continuac
 
 1. Haga clic en el menú "Empresa" y seleccione el submenú "Información de la Empresa" .
 
-<figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 170944.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 170944.png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Al acceder a la pantalla, el sistema no permitirá cambiar la información de los campos "Empresa" y "Número de Identificación", pues son esenciales para el correcto funcionamiento de las reglas del sistema.
 3. La información de todos los demás campos se puede cambiar.
 4. Después de finalizar, haga clic en "Actualizar" para guardar los cambios.
 
-![](<../.gitbook/assets/19 (2).png>)
+<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 ## **Eliminar Empresa**
 

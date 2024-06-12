@@ -67,15 +67,13 @@ Este indicador muestra el número total de dispositivos que están activos en el
 
 ![](<.gitbook/assets/0 (3).png>)
 
-* **TOTAL -** Estos dispositivos se consideran "activos" al instalar y activar la aplicación **\<NomeProduto>**. Al hacer clic en "Total" el indicador mostrará la pantalla "Lista de dispositivos" que contiene el reporte con la información clave de los dispositivos activos
+* **Total -** Estos dispositivos se consideran "activos" al instalar y activar la aplicación **\<NomeProduto>**. Al hacer clic en "Total" el indicador mostrará la pantalla "Lista de dispositivos" que contiene el reporte con la información clave de los dispositivos activos
 
 Al hacer clic en "Total" el indicador mostrará la pantalla "Lista de dispositivos" que contiene el informe con la información clave de los dispositivos activos.
 
-* **SIN COMUNICACIÓN -** Este indicador muestra el número total de dispositivos que no están enviando datos a los servidores durante un período prolongado. Al hacer clic en "Sin comunicación" el sistema muestra la pantalla de dispositivos sin comunicación.
+* **Sim Comunicación -** Este indicador muestra el número total de dispositivos que no están enviando datos a los servidores durante un período prolongado. Al hacer clic en "Sin comunicación" el sistema muestra la pantalla de dispositivos sin comunicación.
 
-![Interface gráfica do usuário
-
-Descrição gerada automaticamente com confiança baixa](<.gitbook/assets/1 (3).png>)
+<figure><img src=".gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 Esta falta de comunicación puede ocurrir cuando el dispositivo se encuentra en las siguientes situaciones:
 

@@ -10,7 +10,7 @@ Para crear un grupo, siga los pasos descritos en esta sección.
 3. Rellene el nombre del grupo.
 4. Haga clic en "Registrar" para completar el registro del nuevo grupo.
 
-![](<../.gitbook/assets/1 (7).png>)
+<figure><img src="../.gitbook/assets/Captura de tela 2024-06-12 105154.png" alt=""><figcaption></figcaption></figure>
 
 Los usuarios o dispositivos que no están vinculados a ningún grupo se enumeran y pueden ser marcados para estar ya en el nuevo grupo que se está registrando. También puedes buscar usuarios para vincularlos al nuevo grupo.
 

@@ -24,4 +24,4 @@ El sistema mostrará todas las ubicaciones de los dispositivos según el filtro 
 8. Para ver una mayor cantidad de ubicaciones por página, seleccione la cantidad al final de la página, como se muestra a continuación.
 9. Utilice el campo de navegación para ver las ubicaciones de las otras páginas del reporte.
 
-![](<../.gitbook/assets/5 (11).png>)
+<figure><img src="../.gitbook/assets/Captura de tela 2024-06-12 113409.png" alt=""><figcaption></figcaption></figure>

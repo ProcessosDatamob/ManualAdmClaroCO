@@ -9,17 +9,17 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 2. En la parte superior de la pantalla, el sistema muestra la distribución de los dispositivos, separados por fabricantes.
 3. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar.
 4. Utilice los Filtros Avanzados para buscar Modo de Administración y Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.
-5. Para localizar un dispositivo específico, escriba el nombre de usuario, IMEI o ICCID del dispositivo en el campo "Buscar".
+5. Para localizar un dispositivo específico, escriba el nombre de usuario, IMEI o ICCID, departamento o teléfono del usuario del dispositivo en el campo "Buscar".
 6. Para exportar el reporte de los dispositivos, haga clic en el botón "Excel".
 7. Para copiar la información de los dispositivos, haga clic en el botón "Copiar".
-8.  Haga clic en la opción "Acciones por lote" para aplicar una acción en varios dispositivos a la vez. Para obtener más información, consulte el contenido "Acciones en lote" en esta página.\
+8. Haga clic en la opción "Acciones por lote" para aplicar una acción en varios dispositivos a la vez. Para obtener más información, consulte el contenido "Acciones en lote" en esta página.
 
+<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
-9. La lista de dispositivos se muestra en la parte inferior de la pantalla.
-10. &#x20;Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../../.gitbook/assets/1 (15).png>)”.
-11. Haga clic en ">" para ver toda la información del dispositivo.
-12. Utilice los tres puntos "..." para mostrar el menú de acciones y aplicar la acción deseada al dispositivo.
+2. La lista de dispositivos se muestra en la parte inferior de la pantalla.
+3. &#x20;Ordene la lista de dispositivos por las columnas en las flechas “ ![](<../../.gitbook/assets/1 (15).png>)”.
+4. Haga clic en ">" para ver toda la información del dispositivo.
+5. Utilice los tres puntos "..." para mostrar el menú de acciones y aplicar la acción deseada al dispositivo.
 
 ### Acciones por lotes
 
@@ -46,7 +46,7 @@ La información del dispositivo que se muestra en la lista es:&#x20;
 
 Al hacer clic en el signo ">" junto al usuario, el sistema muestra más información como se puede ver en la imagen de abajo.
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 * Política - nombre de la política asignada al dispositivo;&#x20;
 * Modo de administración - modo de administración asignado al dispositivo;
@@ -56,6 +56,9 @@ Al hacer clic en el signo ">" junto al usuario, el sistema muestra más informac
 * Sistema operativo - versión de Android;&#x20;
 * Fecha de registro - fecha y hora de registro del dispositivo;&#x20;
 * Grupo - grupo al que está asociado el dispositivo;&#x20;
+*   <mark style="color:red;">Departamento - Es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica la unidad o departamento de la organización al que está asignado el dispositivo.</mark>
+
+    <mark style="color:red;">Teléfono del Usuario - Es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica el número de teléfono asociado al usuario del dispositivo.</mark>
 * Fecha de la última comunicación - última comunicación del dispositivo;&#x20;
 * Estado - indica el estado del dispositivo. Los estados que puede tener un dispositivo están en la tabla siguiente:
 
