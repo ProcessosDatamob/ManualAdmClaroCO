@@ -9,9 +9,9 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 * Usuario - nombre del usuario registrado en el portal
 * Identificación - Identificación registrada para el dispositivo.&#x20;
 * Grupo - grupo registrado para el dispositivo;
-*   <mark style="color:red;">Departamento - Es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica la unidad o departamento de la organización al que está asignado el dispositivo.</mark>
+*   <mark style="color:red;">Departamento - es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica la unidad o departamento de la organización al que está asignado el dispositivo.</mark>
 
-    <mark style="color:red;">Teléfono del Usuario - Es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica el número de teléfono asociado al usuario del dispositivo.</mark>
+    <mark style="color:red;">Teléfono del Usuario - es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica el número de teléfono asociado al usuario del dispositivo.</mark>
 * IMEI - número interno y único en cada dispositivo.&#x20;
 * ICCID - número de chip SIM.&#x20;
 * Número de serie - número de serie del dispositivo;
@@ -20,19 +20,19 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 * Fabricante - nombre del fabricante del dispositivo.
 * Sistema Operativo - sistema operativo del dispositivo.&#x20;
 * Versión de Android - versión de Android del dispositivo.&#x20;
-* <mark style="color:red;">Senha de Acesso Temporário - Esta senha temporária es generada al activar la Configuración "Acceso Temporal al Dispositivo" en el Modo Kiosco. La contraseña debe ser proporcionada al usuario del dispositivo y se actualizará en el portal cada 5 minutos, con opción de copiar y mostrar el tiempo restante hasta que la contraseña expire. Por lo tanto, si se ha definido un tiempo de 10 minutos para que los usuarios accedan al dispositivo, si exceden esos 10 minutos, no podrán usar la misma contraseña, ya que habrá sido actualizada. En el dispositivo, con la contraseña en mano, el usuario deberá acceder a las Configuraciones Iniciales, hacer clic en la opción Acceso Temporal y escribir la contraseña en el campo "Código".</mark>
+* <mark style="color:red;">Senha de Acesso Temporário - esta senha temporária es generada al activar la Configuración "Acceso Temporal al Dispositivo" en el Modo Kiosco. La contraseña debe ser proporcionada al usuario del dispositivo y se actualizará en el portal cada 5 minutos, con opción de copiar y mostrar el tiempo restante hasta que la contraseña expire. Por lo tanto, si se ha definido un tiempo de 10 minutos para que los usuarios accedan al dispositivo, si exceden esos 10 minutos, no podrán usar la misma contraseña, ya que habrá sido actualizada. En el dispositivo, con la contraseña en mano, el usuario deberá acceder a las Configuraciones Iniciales, hacer clic en la opción Acceso Temporal y escribir la contraseña en el campo "Código".</mark>
 
 ### Instalación&#x20;
 
-* Estado Aplicado - <mark style="color:red;">status do registro do dispositivo, se o dispositivo está totalmente registrado, o status será "Ativo";</mark>
+* Estado Aplicado - <mark style="color:red;">si el dispositivo está completamente registrado, el estado será "Activo";</mark>
 * Fecha de registro - fecha de registro de los dispositivos.
 * Modo de gestión - muestra el modo de gestión utilizado.
 * Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
-* <mark style="color:red;">**Nome da Política no Dispositivo -**</mark> <mark style="color:red;"></mark><mark style="color:red;">nome da política atribuída no dispositivo</mark><mark style="color:blue;">;</mark>
-* <mark style="color:red;">**Versão da política Aplicada -**</mark> <mark style="color:red;"></mark><mark style="color:red;">versão da política;</mark>
-* <mark style="color:red;">**Data de sincronização da Política -**</mark> <mark style="color:red;"></mark><mark style="color:red;">exibirá a data da sincronização da política;</mark>
-* <mark style="color:red;">**Em conformidade -**</mark> <mark style="color:red;"></mark><mark style="color:red;">é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".</mark>&#x20;
-* <mark style="color:red;">**Data da Última Comunicação -**</mark> <mark style="color:red;"></mark><mark style="color:red;">exibirá a data em que o dispositivo se comunicou a última vez com o portal;</mark>
+* <mark style="color:red;">Nombre de la Política en el Dispositivo: nombre de la política asignada en el dispositivo;</mark>&#x20;
+* <mark style="color:red;">Versión de la Política Aplicada: versión de la política;</mark>&#x20;
+* <mark style="color:red;">Fecha de Sincronización de la Política: mostrará la fecha de sincronización de la política;</mark>&#x20;
+* <mark style="color:red;">En Conformidad: es la adherencia del dispositivo a todas las configuraciones de políticas asignadas a él. Si alguna configuración no se ha aplicado, el valor de esta opción será "No";</mark>&#x20;
+* <mark style="color:red;">Fecha de la Última Comunicación: mostrará la fecha en que el dispositivo se comunicó por última vez con el portal.</mark>
 
 ### Hardware&#x20;
 
@@ -41,12 +41,12 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 
 Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuraciones del dispositivo, como se ilustra en la imagen a continuación.
 
-### <mark style="color:red;">Permissões</mark>
+### <mark style="color:red;">**Permisos**</mark>
 
-* <mark style="color:red;">**Acesso ao Dados de Uso -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as consumos de dados e tempo de uso dos aplicativos.</mark>
-* <mark style="color:red;">**Ignorar Otimização de Bateria -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.</mark>
-* <mark style="color:red;">**Escrita de Configurações do Sistema -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage</mark><mark style="color:red;">**r**</mark> <mark style="color:red;"></mark><mark style="color:red;">não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.</mark>
-* <mark style="color:red;">**Leitura de SMS -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.</mark>
+* <mark style="color:red;">**Acceso a los Datos de Uso:**</mark> <mark style="color:red;"></mark><mark style="color:red;">estado sí o no, si el usuario no activa este permiso, la aplicación no capturará los datos de consumo y tiempo de uso de las aplicaciones.</mark>&#x20;
+* <mark style="color:red;">**Ignorar Optimización de Batería:**</mark> <mark style="color:red;"></mark><mark style="color:red;">estado sí o no, si el usuario no activa este permiso, la aplicación podrá verse afectada por las configuraciones de optimización de batería, dejará de capturar las ubicaciones de los dispositivos y dejará de enviar la información al Portal.</mark>&#x20;
+* <mark style="color:red;">**Escritura de Configuraciones del Sistema:**</mark> <mark style="color:red;"></mark><mark style="color:red;">estado sí o no, si el usuario no activa este permiso, la aplicación Kiosk Launcher Manager no permitirá que el usuario altere algunas configuraciones del sistema cuando esté en el modo Kiosco.</mark>&#x20;
+* <mark style="color:red;">**Lectura de SMS:**</mark> <mark style="color:red;"></mark><mark style="color:red;">estado sí o no, si el usuario no activa este permiso, la aplicación no capturará la información de los SMS enviados.</mark>
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2023-11-03 143049.png" alt=""><figcaption></figcaption></figure>
 

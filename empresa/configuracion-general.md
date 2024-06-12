@@ -6,7 +6,7 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 
 1. Haga clic en el menú "Empresa" y seleccione el submenú "Configuración general".
 
-<figure><img src="../.gitbook/assets/image (117).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (117).png" alt="" width="188"><figcaption></figcaption></figure>
 
 2. Defina las configuraciones deseadas según las opciones de la pantalla de Configuraciones Generales:
 
