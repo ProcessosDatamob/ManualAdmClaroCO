@@ -190,7 +190,7 @@ La ubicación de los dispositivos se muestra con un marcador en el mapa, que pue
 
 Utilice los recursos del mapa para optimizar la visualización de las ubicaciones.
 
-<mark style="color:red;">Si el sistema no carga las ubicaciones en el mapa, haga clic en el botón "Ver ubicaciones", entonces se mostrarán.</mark>
+<mark style="color:red;">\*\*\*Si el sistema no carga las ubicaciones en el mapa, haga clic en el botón "Ver ubicaciones", entonces se mostrarán.</mark>
 
 <figure><img src=".gitbook/assets/Captura de tela 2024-05-16 144307.png" alt=""><figcaption></figcaption></figure>
 
