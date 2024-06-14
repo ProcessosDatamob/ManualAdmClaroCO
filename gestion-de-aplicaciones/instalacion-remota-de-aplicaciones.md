@@ -1,21 +1,22 @@
 # Instalación remota de aplicaciones
 
-<mark style="color:red;">Esta pantalla del sistema tiene como objetivo posibilitar la instalación, desinstalación y actualización remota de aplicaciones en los dispositivos de la empresa, sin que la aplicación esté en Play Store. Para que esto sea posible, la aplicación debe estar en un servidor con acceso público a una URL y en un entorno HTTPS. Si el archivo no cumple con estas condiciones, la descarga de la aplicación no se realizará.</mark>\ <mark style="color:red;">Para gestionar y enviar la instalación remota de aplicaciones a los dispositivos, haga clic en el menú “Gestión de Aplicaciones” y en la opción "Instalación Remota de Aplicaciones".</mark>
+Esta pantalla del sistema tiene como objetivo posibilitar la instalación, desinstalación y actualización remota de aplicaciones en los dispositivos de la empresa, sin la necesidad de subir la la aplicación a la Play Store. Para que esto sea posible, la aplicación debe estar en un servidor con acceso público a una URL y en un entorno HTTPS. Si el archivo no cumple con estas condiciones, la descarga de la aplicación no se realizará.\
+Para gestionar y enviar la instalación remota de aplicaciones a los dispositivos, haga clic en el menú “Gestión de Aplicaciones” y en la opción "Instalación Remota de Aplicaciones".
 
 <figure><img src="../.gitbook/assets/Captura de tela 2024-05-16 144645 (2).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">El sistema mostrará una lista con las aplicaciones instaladas en los dispositivos de la empresa. La pantalla de visualización de las aplicaciones se presenta a continuación.</mark>
+El sistema mostrará una lista con las aplicaciones instaladas en los dispositivos de la empresa. La pantalla de visualización de las aplicaciones se presenta a continuación.
 
 <figure><img src="../.gitbook/assets/Captura de tela 2024-05-16 145207.png" alt=""><figcaption></figcaption></figure>
 
-1. <mark style="color:red;">El sistema mostrará un filtro de período por fecha.</mark>
-2. <mark style="color:red;">En el campo de búsqueda es posible buscar por una información específica.</mark>
-3. <mark style="color:red;">Para exportar el informe de las aplicaciones, haga clic en el botón “Excel”.</mark>
-4. <mark style="color:red;">Para copiar la información de las aplicaciones, haga clic en el botón “Copiar”.</mark>
-5. <mark style="color:red;">En el campo "Nueva Instalación" es posible enviar la instalación remota de una aplicación a los dispositivos. Para más detalles, acceda a "Instalar Aplicación" en esta misma página.</mark>
-6. <mark style="color:red;">La lista de información de las aplicaciones muestra los siguientes detalles: Fecha de Envío, Nombre de la Aplicación, Nombre del paquete y URL para descarga.</mark>
-7. <mark style="color:red;">Ordene la lista de aplicaciones por las columnas con las flechas "↑↓".</mark>
-8. <mark style="color:red;">Al hacer clic en los tres puntos "...", y hacer clic en “Visualizar instalación", es posible acceder a la pantalla “Detalles de Envío de la Aplicación".</mark>
+1. El sistema mostrará un filtro de un periodo por fecha.
+2. En el campo de búsqueda es posible buscar por una información específica.
+3. Para exportar el informe de las aplicaciones, haga clic en el botón “Excel”.
+4. Para copiar la información de las aplicaciones, haga clic en el botón “Copiar”.
+5. En el botón "Nueva Instalación" es posible enviar la instalación remota de una aplicación a los dispositivos. Para más detalles, acceda a "Instalar Aplicación" en esta misma página.
+6. La lista de información de las aplicaciones muestra los siguientes detalles: Fecha de Envío, Nombre de la Aplicación, Nombre del paquete y URL para descarga.
+7. Ordene la lista de aplicaciones por las columnas con las flechas "↑↓".
+8. Al hacer clic en los tres puntos "...", y hacer clic en “Ver Instalación", es posible acceder a la pantalla “Detalles de Envío de la Aplicación".
 
 <figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 

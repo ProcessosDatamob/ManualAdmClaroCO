@@ -16,7 +16,7 @@ La pantalla tiene elementos estándar que son similares a otras pantallas del si
 2. La lista de aplicaciones se muestra en la pantalla y cada línea se refiere a un dispositivo.
 3. Para ordenar la información mostrada, haga clic en las flechas arriba y abajo que se encuentran junto a cada título (Nombre de la aplicación, Origen y Nombre del paquete).
 4. Al hacer clic en "..." el sistema muestra la opción de comando para la aplicación.
-5. <mark style="color:red;">El comando "Eliminar Aplicación" elimina la aplicación de la lista. Sin embargo, no es posible eliminar la aplicación si existen políticas vinculadas a ella; primero elimine el vínculo de las políticas para poder eliminar la aplicación.</mark>
+5. El comando "Eliminar Aplicación" elimina la aplicación de la lista. Sin embargo, sólo es posible eliminar la aplicación de la lista si la aplicación no está vinculadas a alguna política; primero elimine la aplicación de las políticas y después podrá eliminar la aplicación del menu "Administrar Políticas".
 6. Para generar el reporte de las aplicaciones, haga clic en la opción "Excel". El sistema puede generar un reporte solo con la información que está en la primera página o un reporte completo. Haga clic en la opción deseada para que el sistema comience a procesar.
 
 Si es el reporte de una página, se genera y descarga automáticamente. Si es el completo, puede tomar unos minutos para ser generado se pone a disposición para su descarga en las notificaciones del sistema como se puede ver a continuación.
