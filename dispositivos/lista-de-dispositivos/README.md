@@ -56,8 +56,8 @@ Al hacer clic en el signo ">" junto al usuario, el sistema muestra más informac
 * Sistema operativo - versión de Android;&#x20;
 * Fecha de registro - fecha y hora de registro del dispositivo;&#x20;
 * Grupo - grupo al que está asociado el dispositivo;&#x20;
-* <mark style="color:red;">Departamento - Es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica la unidad o departamento de la organización al que está asignado el dispositivo.</mark>
-* <mark style="color:red;">Teléfono del Usuario - Es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica el número de teléfono asociado al usuario del dispositivo.</mark>
+* Departamento - Es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica la unidad o departamento de la organización al que está asignado el dispositivo.
+* Teléfono del Usuario - Es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica el número de teléfono asociado al usuario del dispositivo.
 * Fecha de la última comunicación - última comunicación del dispositivo;&#x20;
 * Estado - indica el estado del dispositivo. Los estados que puede tener un dispositivo están en la tabla siguiente:
 
