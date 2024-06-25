@@ -20,12 +20,12 @@ Al seleccionar la opción “Abierta”, las aplicaciones agregadas a la políti
 
 2. Utilice el cuadro de búsqueda para buscar aplicaciones dentro de la lista que aparece.
 3. Lista de aplicaciones incluidas en la política.
-4. <mark style="color:red;">**Tipos de instalación**</mark> <mark style="color:red;"></mark><mark style="color:red;">- elija el tipo de instalación para cada dispositivo. Los tipos de instalación son:</mark>
+4. **Tipos de instalación** - elija el tipo de instalación para cada aplicación. Los tipos de instalación son:
 
-* <mark style="color:red;">**Disponible:**</mark> <mark style="color:red;"></mark><mark style="color:red;">La aplicación está disponible para su instalación; el usuario tiene la opción de instalarla según su conveniencia. No se instala automáticamente en el dispositivo.</mark>
-* <mark style="color:red;">**Preinstalado:**</mark> <mark style="color:red;"></mark><mark style="color:red;">La aplicación se instala automáticamente en el dispositivo. Cuando el usuario utilice el dispositivo, las herramientas o configuraciones necesarias ya estarán instaladas.</mark>
-* <mark style="color:red;">**Instalación Forzada:**</mark> <mark style="color:red;"></mark><mark style="color:red;">La aplicación se instala automáticamente en el dispositivo sin la intervención del usuario. El usuario no puede desinstalar la aplicación; si lo hace, el sistema la volverá a instalar, garantizando que las herramientas necesarias estén siempre presentes y activas.</mark>
-* <mark style="color:red;">**Bloqueado:**</mark> <mark style="color:red;"></mark><mark style="color:red;">La instalación de ciertas aplicaciones está explícitamente impedida. El usuario no podrá instalar ni acceder a estas aplicaciones o configuraciones restringidas en el dispositivo.</mark>
+* **Disponible:** La aplicación está disponible para su instalación; el usuario tiene la opción de instalarla según su conveniencia. No se instala automáticamente en el dispositivo.
+* **Preinstalado:** La aplicación se instala automáticamente en el dispositivo. Cuando el usuario utilice el dispositivo, las herramientas o configuraciones necesarias ya estarán instaladas. Permite que el usuario desinstale la aplicación.
+* **Instalación Forzada:** La aplicación se instala automáticamente en el dispositivo sin la intervención del usuario. El usuario no puede desinstalar la aplicación; si lo hace, el sistema la volverá a instalar, garantizando que las herramientas necesarias estén siempre presentes y activas.
+* **Bloqueado:** La instalación de ciertas aplicaciones está explícitamente impedida. El usuario no podrá instalar ni acceder a estas aplicaciones o configuraciones restringidas en el dispositivo.
 
 {% hint style="info" %}
 **NOTA**
@@ -50,13 +50,13 @@ La pantalla siguiente será mostrada:
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-05-16 145644.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">En esta pantalla es posible ver la identificación de la aplicación seleccionada y la pantalla de configuración que fue elegida ("Configuraciones Gestionadas");</mark>
+En esta pantalla es posible ver la identificación de la aplicación seleccionada y la pantalla de configuración que fue elegida ("Configuraciones Gestionadas");
 
-2. <mark style="color:red;">Haga clic en el menú “Permisos Opcionales" para acceder a la lista de configuraciones gestionadas disponibles para la aplicación seleccionada. En este menú es posible activar y desactivar cada una de las configuraciones.</mark>
+2. Haga clic en el menú “Permisos Opcionales" para acceder a la lista de configuraciones gestionadas disponibles para la aplicación seleccionada. En este menú es posible activar y desactivar cada una de las configuraciones.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="color:red;">Al hacer clic en "Guardar", el sistema enviará las configuraciones seleccionadas a los dispositivos.</mark>
+3. Al hacer clic en "Guardar", el sistema enviará las configuraciones seleccionadas a los dispositivos.
 
 ## **Permisos**
 
@@ -74,7 +74,8 @@ Después del paso 2 se mostrará la siguiente pantalla. La lista blanca, que se 
 Los permisos se pueden configurar como: Solicitar al usuario, Activada o Denegada.
 
 {% hint style="info" %}
-<mark style="color:red;">**OBSERVACIÓN**</mark>\ <mark style="color:red;">Si la opción “Permisos" aparece deshabilitada en el sistema, es para evitar que el usuario acceda a configuraciones que no son relevantes para su función. Esto garantiza que el usuario no se confunda o intente ajustar configuraciones que no están dentro de sus atribuciones o necesidades específicas dentro del sistema.</mark>
+**OBSERVACIÓN**\
+Si la opción “Permisos" aparece deshabilitada en el sistema, es para evitar que el usuario acceda a configuraciones que no son relevantes para su función. Esto garantiza que el usuario no se confunda o intente ajustar configuraciones que no están dentro de sus atribuciones o necesidades específicas dentro del sistema.
 {% endhint %}
 
 ## **Configuraciones Avanzadas**
@@ -116,7 +117,7 @@ La aplicación se eliminará de la lista de aplicaciones de la política que se 
 
 La opción Agregar aplicaciones tendrá diferentes comportamientos cuando el Modo Quiosco está activado o desactivado.
 
-* **M**<mark style="color:red;">**odo Kiosco Desactivado:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Al hacer clic en el botón "Agregar Aplicaciones", si se trata de una política con Modo Kiosco Desactivado, se mostrarán dos opciones: Playstore, que incluye la lista de aplicaciones que fueron añadidas usando Google Play Administrado, y la opción Manual, que permite agregar aplicaciones de forma manual.</mark>
+* **Modo Kiosco Desactivado:** Al hacer clic en el botón "Agregar Aplicaciones", si se trata de una política con modo kiosco desactivado, se mostrarán dos opciones: Play Store, que incluye la lista de aplicaciones que fueron añadidas usando Google Play Administrado, y la opción Manual, que permite agregar aplicaciones de forma manual.
 
 <figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
@@ -143,17 +144,17 @@ Las aplicaciones deben agregarse primero con Google Play Administrado.
 1. Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente"&#x20;
 2. Rellenar los campos: Nombre de la aplicación (opcional), Nombre del paquete y haga clic en "Agregar".
 
-<mark style="color:red;">El tipo de instalación será "Disponible" y permitirá cambiar el tipo de instalación de la aplicación a las opciones: Disponible, Preinstalado, Instalación forzada o Bloqueado, y enviará al dispositivo la aplicación con el tipo de instalación definido al guardar la política.</mark>
+El tipo de instalación será "Disponible" y permitirá cambiar el tipo de instalación de la aplicación a las opciones: Disponible, Preinstalado, Instalación forzada o Bloqueado, y enviará al dispositivo la aplicación con el tipo de instalación definido al guardar la política.
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTA**</mark>&#x20;
+**NOTA**&#x20;
 
-<mark style="color:red;">Si la aplicación no está en Google Play, las opciones "Preinstalado" e "Instalación forzada" tendrán el mismo efecto que la opción "Disponible". Es decir, la aplicación estará disponible para instalación y el usuario tendrá la opción de instalarla según su conveniencia. No se instala automáticamente en el dispositivo.</mark>
+Si la aplicación no está en Google Play, las opciones "Preinstalado" e "Instalación forzada" tendrán el mismo efecto que la opción "Disponible". Es decir, la aplicación estará disponible para instalación y el usuario tendrá la opción de instalarla según su conveniencia. No se instala automáticamente en el dispositivo.
 {% endhint %}
 
-* <mark style="color:red;">**Remota**</mark>
+* Remota
 
-<mark style="color:red;">Los aplicativos enviados mediante instalación remota, a través del menú "Instalación Remota de Aplicativos", se mostrarán en la lista de aplicativos con la ORIGEN = "Remota" y con el tipo de instalación 'Disponible' con la edición bloqueada.</mark>
+Los aplicativos enviados mediante instalación remota, a través del menú "Instalación Remota de Aplicaciones", se mostrarán en la lista de aplicativos con el ORIGEN = "Remota" y con el tipo de instalación 'Disponible' con la edición bloqueada.
 
 ### Restricciones de Funcionamiento
 
