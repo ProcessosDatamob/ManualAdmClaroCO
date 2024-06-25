@@ -14,7 +14,8 @@ Algunos comandos especiales son:
 * **Logoff** - Deshabilita _la gestión_ de registros por la aplicación.
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTA**</mark>\ <mark style="color:red;">Para reiniciar los servicios en caso de pérdida de comunicación de la aplicación, haga clic en “Nuevo Mensaje” y envíe el mensaje “start\_services” a los dispositivos afectados. Cuando la aplicación reciba el push con el comando, iniciará los procesos de la aplicación, activará las alarmas de la aplicación y enviará la información pertinente de la aplicación, incluyendo Información del Dispositivo, Consumos, Sitios y SMS.</mark>
+**NOTA**\
+Para reiniciar los servicios en caso de pérdida de comunicación de la aplicación, haga clic en “Nuevo Mensaje” y envíe el mensaje “start\_services” (sin comillas) a los dispositivos afectados. Cuando la aplicación reciba el mensaje push con el comando, iniciará los procesos de la aplicación, activará las alarmas de la aplicación y enviará la información pertinente de la aplicación, incluyendo Información del Dispositivo, Consumos, Sitios y SMS.
 {% endhint %}
 
 Al recibir una orden, la aplicación no mostrará el texto sobre la orden enviada.

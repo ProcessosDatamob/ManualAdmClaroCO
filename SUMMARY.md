@@ -73,7 +73,7 @@
 * [Release Notes \<NomeProduto> Versión 9.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/README.md)
   * [Instalación Remota de Aplicaciones](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/instalacion-remota-de-aplicaciones.md)
   * [Configurar Permisos Opcionales del Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/configurar-permisos-opcionales-del-companion.md)
-  * [Informação de Não Conformidade de Permissões](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/informacao-de-nao-conformidade-de-permissoes.md)
+  * [Información de No Conformidad de Permisos](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/informacion-de-no-conformidad-de-permisos.md)
   * [Ocultar Permisos del Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/ocultar-permisos-del-companion.md)
   * [Service en el Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/service-en-el-companion.md)
   * [Eliminación de Aplicaciones Gestionadas](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/eliminacion-de-aplicaciones-gestionadas.md)

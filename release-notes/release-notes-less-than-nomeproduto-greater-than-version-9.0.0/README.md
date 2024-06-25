@@ -1,11 +1,11 @@
 # Release Notes \<NomeProduto> Versión 9.0.0
 
-### <mark style="color:red;">**Novedades de la Versión**</mark>
+### **Novedades de la Versión**
 
-1. <mark style="color:red;">Instalación Remota de Aplicaciones</mark>
-2. <mark style="color:red;">Configurar Permisos Opcionales del Companion</mark>
-3. <mark style="color:red;">Informar No Conformidad de Permisos</mark>
-4. <mark style="color:red;">Ocultar Permisos del Companion</mark>
-5. <mark style="color:red;">Start Service en el Companion</mark>
-6. <mark style="color:red;">Eliminación de Aplicaciones GestionadasNuevas Configuraciones en el QR Code</mark>
-7. <mark style="color:red;">Eliminación de la Localización Automática en el Dashboard</mark>
+1. Instalación Remota de Aplicaciones
+2. Configurar Permisos Opcionales del Companion
+3. Informar No Conformidad de Permisos
+4. Ocultar Permisos del Companion
+5. Start Service en el Companion
+6. Eliminación de Aplicaciones Gestionadas en el QR Code
+7. Eliminación de la Localización Automática en el Dashboard
