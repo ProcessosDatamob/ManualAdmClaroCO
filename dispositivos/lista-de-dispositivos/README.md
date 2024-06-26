@@ -44,9 +44,7 @@ La información del dispositivo que se muestra en la lista es:&#x20;
 * IMEI - número interno y único en cada dispositivo. En Android 10 ya no es posible capturar esta información del dispositivo porque utilizamos otro método para recibir esta información con el Enriquecimiento de URL;&#x20;
 * Modelo - modelo de dispositivo;&#x20;
 
-Al hacer clic en el signo ">" junto al usuario, el sistema muestra más información como se puede ver en la imagen de abajo.
-
-<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+Al hacer clic en el signo ">" junto al usuario, el sistema muestra más información.
 
 * Política - nombre de la política asignada al dispositivo;&#x20;
 * Modo de administración - modo de administración asignado al dispositivo;

@@ -24,3 +24,4 @@ El cambio se realizó en las siguientes pantallas:
 
 En los informes generados, el campo que era "Teléfono" ahora también se mostrará como “Licencia”.
 
+[Volver a la lista de Release Notes](./)

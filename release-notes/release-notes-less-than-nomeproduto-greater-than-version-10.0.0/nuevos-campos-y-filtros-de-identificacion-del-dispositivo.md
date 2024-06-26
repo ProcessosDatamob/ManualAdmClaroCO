@@ -4,3 +4,4 @@ En el menú "Lista de Dispositivos", en la opción "Gestionar", se añadieron nu
 La información de Departamento y Teléfono del Usuario se añadió en la pantalla inicial de la "Lista de Dispositivos". Al hacer clic en ">" es posible visualizarlas.\
 Estas nuevas configuraciones facilitan la clasificación y la gestión de los dispositivos, proporcionando una visión más completa y organizada de la información.
 
+[Volver a la lista de Release Notes](./)
