@@ -7,7 +7,7 @@ Cuando el producto **Claro Monitor Empresarial** es habilitado para una empresa,
 
 Para acceder al Portal de Administración, siga los pasos descritos en esta sección.
 
-1. Accede a la dirección <mark style="color:orange;">\<EnderecoProduto></mark> para ver la pantalla de acceso del Portal. De preferencia, utilice el navegador Google Chrome, con la versión más actualizada.
+1. Accede a la dirección [https://ent-claroco.datamobpro.com/login](https://ent-claroco.datamobpro.com/login) para ver la pantalla de acceso del Portal. De preferencia, utilice el navegador Google Chrome, con la versión más actualizada.
 2. Ingrese los campos "Correo electrónico" y "Contraseña" con las credenciales de acceso recibidas en el correo electrónico de bienvenida.
 3. Haga clic en "Iniciar sesión" para confirmar la información y acceder al Portal.
 
@@ -17,7 +17,7 @@ En su primer acceso, después de hacer clic en "Iniciar sesión", el usuario deb
 
 ![](<../.gitbook/assets/1 (5).png>)
 
-4. Confirme el nombre de empresa y correo electrónico (se sugiere utilizar la misma cuenta de correo de administrador de la empresa usada para ingresar al portal);&#x20;
+4. Confirme el nombre de empresa y correo electrónico (se sugiere utilizar la misma cuenta de correo de administrador de la empresa usada para ingresar al portal);
 5. Cree una contraseña;
 6. Repita el ingreso de la contraseña para confirmarla;
 7. Marque las casillas: “Estoy de acuerdo con la política de privacidad” y “Estoy de acuerdo con los términos de uso del usuario”;
@@ -26,7 +26,7 @@ En su primer acceso, después de hacer clic en "Iniciar sesión", el usuario deb
 {% hint style="info" %}
 **NOTA**
 
-**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al  Portal **Claro Monitor Empresarial** y permanece siempre disponible en la pantalla de login. En la aplicación **Claro Monitor Empresarial** está presente en el momento de la activación del dispositivo.
+**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al Portal **Claro Monitor Empresarial** y permanece siempre disponible en la pantalla de login. En la aplicación **Claro Monitor Empresarial** está presente en el momento de la activación del dispositivo.
 
 **Términos de uso del usuario** - pueden ser leídos y deben ser aceptados en el primer acceso al portal y en el primer acceso a la aplicación.
 {% endhint %}
@@ -47,7 +47,7 @@ Si no ha recibido el token por correo electrónico, el usuario puede solicitar q
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-Después de esta confirmación, el sistema abrirá la pantalla de Google Play. Este es el paso final del primer acceso al Portal. En esta pantalla se llevará a cabo la configuración de una cuenta de Google Play para la empresa. Este paso es importante para que la empresa administre las aplicaciones que estarán disponibles en sus dispositivos.&#x20;
+Después de esta confirmación, el sistema abrirá la pantalla de Google Play. Este es el paso final del primer acceso al Portal. En esta pantalla se llevará a cabo la configuración de una cuenta de Google Play para la empresa. Este paso es importante para que la empresa administre las aplicaciones que estarán disponibles en sus dispositivos.
 
 Para la creación de esta cuenta, se puede utilizar un correo electrónico ya existente (por ejemplo, @gmail.com, @hotmail o @outlook) o crear un nuevo correo electrónico. Por restricción de Google, el correo electrónico utilizado no puede estar integrado a G Suite/Google Workspace.
 
