@@ -27,7 +27,7 @@ En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acce
 * Estado Aplicado - si el dispositivo está completamente registrado, el estado será "Activo";
 * Fecha de registro - fecha de registro de los dispositivos.
 * Modo de gestión - muestra el modo de gestión utilizado.
-* Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
+* Versión de la aplicación - versión de la aplicación **Claro Monitor Empresarial** instalado en el dispositivo.
 * Nombre de la Política en el Dispositivo: nombre de la política asignada en el dispositivo;&#x20;
 * Versión de la Política Aplicada: versión de la política;&#x20;
 * Fecha de Sincronización de la Política: mostrará la fecha de sincronización de la política;&#x20;
@@ -156,7 +156,7 @@ Además de poder editar los datos, se muestran más abajo en la pantalla dos lis
 ### **Información de Software**
 
 * Modo de gestión - muestra el modo de gestión utilizado.
-* Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
+* Versión de la aplicación - versión de la aplicación **Claro Monitor Empresarial** instalado en el dispositivo.
 * Fecha de la última actualización - fecha y hora en que la información del dispositivo se sincronizó con el portal. Esta fecha proviene de AMAPI (API de Google), es decir, es la información recopilada por la API de Google en el dispositivo.
 * Nombre de la Política en el Portal - nombre de la política asignada al dispositivo.
 

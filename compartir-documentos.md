@@ -1,6 +1,6 @@
 # COMPARTIR DOCUMENTOS
 
-Esta pantalla del sistema tiene como objetivo permitir al usuario compartir documentos con todos los dispositivos de la empresa, de uno o más grupos o de uno o más usuarios de dispositivos específicos. Para que esto sea posible, el archivo debe estar en un servidor con acceso público a una URL y en un entorno HTTPS. Si el archivo no está en estas condiciones, la descarga no será realizada por la aplicación **\<NomeProduto>**. La aplicación recibirá la URL del documento en forma de notificación.
+Esta pantalla del sistema tiene como objetivo permitir al usuario compartir documentos con todos los dispositivos de la empresa, de uno o más grupos o de uno o más usuarios de dispositivos específicos. Para que esto sea posible, el archivo debe estar en un servidor con acceso público a una URL y en un entorno HTTPS. Si el archivo no está en estas condiciones, la descarga no será realizada por la aplicación **Claro Monitor Empresarial**. La aplicación recibirá la URL del documento en forma de notificación.
 
 Para saber cómo compartir documentos con los dispositivos, sigue los pasos descritos en esta sección.
 

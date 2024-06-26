@@ -1,6 +1,6 @@
 # ZERO TOUCH
 
-El registro Zero Touch es un proceso simplificado para los dispositivos Android que se aprovisionan para la gestión empresarial. El dispositivo inicia el método de aprovisionamiento de dispositivos totalmente administrado y descarga la aplicación **\<NomeProduto>** asociada, que completa la configuración del dispositivo.
+El registro Zero Touch es un proceso simplificado para los dispositivos Android que se aprovisionan para la gestión empresarial. El dispositivo inicia el método de aprovisionamiento de dispositivos totalmente administrado y descarga la aplicación **Claro Monitor Empresarial** asociada, que completa la configuración del dispositivo.
 
 Este método de implementación es perfecto para dispositivos Android corporativos, por lo que las implementaciones a gran escala son rápidas, fáciles y seguras. Zero Touch simplifica la configuración de dispositivos en línea y el envío con una administración mejorada para que los empleados puedan abrir la caja y comenzar.
 
@@ -16,7 +16,7 @@ Para comenzar a usar Zero Touch, sigue estos pasos:
 
 1. Póngase en contacto con el operador para adquirir los dispositivos (si es necesario) y solicitar la creación de la cuenta de cliente Zero Touch.
 2. Espera a que el operador haya creado su cuenta Zero Touch.
-3. Una vez creada la cuenta Zero-Touch, acceda al **\<NomeProduto>**, menú "Zero Touch" y enlace la cuenta con el **\<NomeProduto>** siguiendo el proceso después de seleccionar el botón "Siguiente" (ver pantalla abajo).
+3. Una vez creada la cuenta Zero-Touch, acceda al **Claro Monitor Empresarial**, menú "Zero Touch" y enlace la cuenta con el **Claro Monitor Empresarial** siguiendo el proceso después de seleccionar el botón "Siguiente" (ver pantalla abajo).
 
 ![](<.gitbook/assets/0 (24).png>)
 
@@ -44,9 +44,9 @@ Es necesario rellenar los siguientes campos que serán de identificación para e
 
 ![](<.gitbook/assets/2 (24).png>)
 
-3. En el portal **\<NomeProduto>**, defina qué política se aplicará a Zero-Touch, que puede ser una nueva política o ya existente para configurar manualmente la política en la configuración Zero-Touch siguiendo los pasos siguientes:
+3. En el portal **Claro Monitor Empresarial**, defina qué política se aplicará a Zero-Touch, que puede ser una nueva política o ya existente para configurar manualmente la política en la configuración Zero-Touch siguiendo los pasos siguientes:
 
-* Acceda al menú "Configuraciones" de **\<NomeProduto>**;
+* Acceda al menú "Configuraciones" de **Claro Monitor Empresarial**;
 * Seleccione la opción "Administrar políticas";
 * Seleccione la política deseada;
 * En el menú agrupado seleccione "Token de Registro";
@@ -60,7 +60,7 @@ Es necesario rellenar los siguientes campos que serán de identificación para e
 
 5. Identifique el IMEI correspondiente al dispositivo que desea registrar en la configuración cread:
 
-* Acceda al **\<NomeProduto>**;
+* Acceda al **Claro Monitor Empresarial**;
 * Seleccione el menú "Dispositivos";
 * Seleccione el submenú "Lista de dispositivos";
 * Localice el dispositivo y copie la información del IMEI

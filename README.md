@@ -1,13 +1,13 @@
 # INFORMACIÓN GENERAL
 
-**El propósito de este manual es ayudar al usuario administrador en el uso y configuración del \<NomeProduto>.**
+**El propósito de este manual es ayudar al usuario administrador en el uso y configuración del Claro Monitor Empresarial.**
 
 ## **Visión general de la solución**
 
-**\<NomeProduto>** es una solución de gestión de movilidad empresarial que consta de:
+**Claro Monitor Empresarial** es una solución de gestión de movilidad empresarial que consta de:
 
-* **Portal de Administración** **\<NomeProduto>** - sistema web que realiza toda la gestión de los dispositivos móviles de la empresa.
-* **Aplicación \<NomeProduto>** - aplicación Android que recopila toda la información de uso y consumo del dispositivo móvil.  Esta aplicación se instala por defecto estando presente en todos los dispositivos que se registran en el sistema.
+* **Portal de Administración** **Claro Monitor Empresarial** - sistema web que realiza toda la gestión de los dispositivos móviles de la empresa.
+* **Aplicación Claro Monitor Empresarial** - aplicación Android que recopila toda la información de uso y consumo del dispositivo móvil.  Esta aplicación se instala por defecto estando presente en todos los dispositivos que se registran en el sistema.
 * **Aplicación Security Browser** - Aplicación Android de navegación web responsable de realizar los bloqueos de sitios web, así como monitorear la navegación del usuario del dispositivo.
 
 {% hint style="warning" %}
@@ -16,11 +16,11 @@ IMPORTANTE
 La aplicación Security Browser está disponible en Play Store y debe incluirse en la política de registro de los dispositivos. La sección [Bloqueo de Sitios Web](bloqueo-de-sitios-web-security-browser.md) presenta paso a paso la inclusión y configuración de la aplicación Security Browser.&#x20;
 {% endhint %}
 
-Desde el Portal **\<NomeProduto>** es posible acceder a la información sobre el consumo y uso de los dispositivos asignados a los empleados de la empresa. También es posible definir políticas de bloqueos para restringir el uso indebido de los dispositivos, permitiendo al administrador evaluar y aumentar la productividad de los empleados, a través del análisis y la gestión de los recursos de telecomunicaciones de la empresa.
+Desde el Portal **Claro Monitor Empresarial** es posible acceder a la información sobre el consumo y uso de los dispositivos asignados a los empleados de la empresa. También es posible definir políticas de bloqueos para restringir el uso indebido de los dispositivos, permitiendo al administrador evaluar y aumentar la productividad de los empleados, a través del análisis y la gestión de los recursos de telecomunicaciones de la empresa.
 
 ## **Flujo de Datos**&#x20;
 
-Toda la información recopilada por la aplicación **\<NomeProduto>** se envía periódicamente a los servidores del sistema.  Los datos de consumo recopilados por la aplicación se envían de acuerdo con el tiempo configurado en el portal, en la opción "Sincronizar cada", que varía de 60 minutos a 24 horas.
+Toda la información recopilada por la aplicación **Claro Monitor Empresarial** se envía periódicamente a los servidores del sistema.  Los datos de consumo recopilados por la aplicación se envían de acuerdo con el tiempo configurado en el portal, en la opción "Sincronizar cada", que varía de 60 minutos a 24 horas.
 
 Los datos de localización se recogen cada 3 minutos en la aplicación y se envía al portal de acuerdo con la opción de sincronización elegida.&#x20;
 
