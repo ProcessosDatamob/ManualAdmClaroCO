@@ -11,7 +11,7 @@
 7. [Filtros Avanzados en la Pantalla de Dispositivos](filtros-avanzados-en-la-pantalla-de-dispositivos.md)
 8. Config
 9. [Información de la Fecha de la Última Comunicación](informacion-de-la-fecha-de-la-ultima-comunicacion.md)
-10. [Configuración del Layout de la Imagen del Fondo de Pantalla en Modo Quiosco](configuracion-del-layout-de-la-imagen-del-fondo-de-pantalla-en-modo-quiosco.md)
+10. [Configuración del Layout de la Imagen del Fondo de Pantalla en Modo Quiosco](configuracion-del-fondo-de-pantalla-en-modo-quiosco.md)
 11. [Creación de Grupos de Dispositivos en Lote](creacion-de-grupos-de-dispositivos-en-lote.md)
 12. [Configuración de Wi-Fi en Modo Quiosco](configuracion-de-wi-fi-en-modo-quiosco.md)
 13. [Acceso al Manual del Administrador Online](acceso-al-manual-del-administrador-online.md)

@@ -99,7 +99,7 @@
   * [Configuración del Color de las Fuentes de los Iconos en el Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-version-6.0.0/configuracion-del-color-de-las-fuentes-de-los-iconos-en-el-modo-quiosco.md)
   * [Filtros Avanzados en la Pantalla de Dispositivos](release-notes/release-notes-less-than-nomeproduto-greater-than-version-6.0.0/filtros-avanzados-en-la-pantalla-de-dispositivos.md)
   * [Información de la Fecha de la Última Comunicación](release-notes/release-notes-less-than-nomeproduto-greater-than-version-6.0.0/informacion-de-la-fecha-de-la-ultima-comunicacion.md)
-  * [Configuración del Layout de la Imagen del Fondo de Pantalla en Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-version-6.0.0/configuracion-del-layout-de-la-imagen-del-fondo-de-pantalla-en-modo-quiosco.md)
+  * [Configuración del Fondo de Pantalla en Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-version-6.0.0/configuracion-del-fondo-de-pantalla-en-modo-quiosco.md)
   * [Creación de Grupos de Dispositivos en Lote](release-notes/release-notes-less-than-nomeproduto-greater-than-version-6.0.0/creacion-de-grupos-de-dispositivos-en-lote.md)
   * [Configuración de Wi-Fi en Modo Quiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-version-6.0.0/configuracion-de-wi-fi-en-modo-quiosco.md)
   * [Acceso al Manual del Administrador Online](release-notes/release-notes-less-than-nomeproduto-greater-than-version-6.0.0/acceso-al-manual-del-administrador-online.md)
