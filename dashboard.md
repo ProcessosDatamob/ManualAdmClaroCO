@@ -112,7 +112,7 @@ Este gráfico muestra las 5 aplicaciones que más han consumido datos móviles d
 
 El valor porcentual de cada una de las 5 aplicaciones se calcula en relación con la suma total de consumo de todas las aplicaciones durante el ciclo.
 
-Al hacer clic en el botón “Ver lista completa” el sistema exhibirá en pantalla todos los datos de las aplicaciones. Para saber cómo utilizar esa pantalla, lea la sección “[Aplicaciones](configuracion/editar-politica/aplicaciones.md)” en este manual.
+Al hacer clic en el botón “Ver lista completa” el sistema exhibirá en pantalla todos los datos de las aplicaciones. Para saber cómo utilizar esa pantalla, lea la sección “[Aplicaciones](configuracion/editar-politica/aplicaciones/)” en este manual.
 
 ![Uma imagem contendo Interface gráfica do usuário
 
@@ -136,7 +136,7 @@ Este gráfico muestra las 5 aplicaciones más utilizadas durante el ciclo. Este 
 
 El valor porcentual de cada una de las 5 aplicaciones se calcula en relación con la suma total del tiempo de uso de todas las aplicaciones durante el ciclo.
 
-Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla con la información de todas las aplicaciones. Para saber cómo utilizar esta pantalla, lea la sección "[Aplicaciones](configuracion/editar-politica/aplicaciones.md)" de este manual.
+Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla con la información de todas las aplicaciones. Para saber cómo utilizar esta pantalla, lea la sección "[Aplicaciones](configuracion/editar-politica/aplicaciones/)" de este manual.
 
 ![](<.gitbook/assets/6 (3).png>)
 
@@ -155,7 +155,7 @@ Este indicador muestra el porcentaje de los 5 sitios más visitados en los dispo
 {% hint style="warning" %}
 **ATENCIÓN**
 
-Los sitios web visitados son obtenidos por el navegador web predeterminado del sistema  **\<NomeProduto>**. Este navegador se llama Security Browser y necesita estar instalado y configurado en los dispositivos. Para obtener más información sobre la administración y configuración del navegador, visite la sección "[Security Browser"](bloqueo-de-sitios-web-security-browser.md).
+Los sitios web visitados son obtenidos por el navegador web predeterminado del sistema  **\<NomeProduto>**. Este navegador se llama Security Browser y necesita estar instalado y configurado en los dispositivos. Para obtener más información sobre la administración y configuración del navegador, visite la sección "[Security Browser"](configuracion/editar-politica/aplicaciones/bloqueo-de-sitios-web-security-browser.md).
 {% endhint %}
 
 ![Gráfico, Gráfico de barras

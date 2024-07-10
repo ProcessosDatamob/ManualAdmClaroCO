@@ -49,7 +49,14 @@ Otra opción, para no tener que dejar el acceso a las configuraciones liberado, 
 
 <figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
-* **Acceso Temporal al Dispositivo** - Configuración para permitir que el usuario acceda al dispositivo durante un tiempo determinado. Para activar el permiso, deslice el interruptor hacia la derecha desde la pantalla principal. Además, es posible definir la duración del acceso del usuario al dispositivo, que puede ser de 5, 10, 15, 30 minutos ó 1 hora. Al habilitar el acceso temporal, se generará una contraseña para que el usuario pueda acceder al dispositivo. En la sección "Opciones de Gestión de Dispositivos" detallaremos mejor cómo funcionará.\
-  Después de finalizar el tiempo definido, el Modo Kiosco se activará nuevamente de forma automática.
+* **Acceso Temporal al Dispositivo** - Configuración para permitir que el usuario acceda al dispositivo durante un tiempo determinado. Para activar el permiso, deslice el interruptor hacia la derecha desde la pantalla principal. Además, es posible definir la duración del acceso del usuario al dispositivo, que puede ser de 5, 10, 15, 30 minutos ó 1 hora. Al habilitar el acceso temporal, se generará una contraseña para que el usuario pueda acceder al dispositivo. En la sección "Opciones de Gestión de Dispositivos" detallaremos mejor cómo funcionará.
+
+<mark style="color:red;">A continuación, listamos los accesos que el usuario tendrá en el dispositivo al ingresar la contraseña de acceso temporal:</mark>&#x20;
+
+* <mark style="color:red;">Liberará acceso a todas las aplicaciones instaladas que estén en la política, incluso si no están visibles en el Modo Kiosco (Google Play y Remotos); -</mark>
+* <mark style="color:red;">Liberará acceso a todas las aplicaciones de sistema que existen en la política (independientemente de si están visibles);</mark> &#x20;
+* <mark style="color:red;">Liberará acceso a todas las configuraciones del dispositivo, pero para esto, es necesario que la aplicación de sistema "Configuraciones" esté incluida en la política y que el permiso Acceso a Configuraciones esté como Liberado en el Modo Kiosco.</mark>
+
+<mark style="color:red;">Después de finalizar el tiempo definido, el Modo Kiosco se activará nuevamente de forma automática.</mark>
 
 <figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ La pestaña de configuración de aplicaciones le permite administrar configuraci
 
 La pantalla "Editar política" situada en la pestaña "Aplicaciones" se muestra a continuación.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-03-14 153400.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-03-14 153400.png" alt=""><figcaption></figcaption></figure>
 
 La pantalla tiene las siguientes partes, según la numeración en la figura:
 
@@ -44,19 +44,19 @@ Para acceder a la configuración administrada de una aplicación, debe estar en 
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
 2. Haga clic en "Configuración administrada".
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2023-11-06 174309.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2023-11-06 174309.png" alt=""><figcaption></figcaption></figure>
 
 La pantalla siguiente será mostrada:
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-05-16 145644.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-05-16 145644.png" alt=""><figcaption></figcaption></figure>
 
 En esta pantalla es posible ver la identificación de la aplicación seleccionada y la pantalla de configuración que fue elegida ("Configuraciones Gestionadas");
 
-2. Haga clic en el menú “Permisos Opcionales" para acceder a la lista de configuraciones gestionadas disponibles para la aplicación seleccionada. En este menú es posible activar y desactivar cada una de las configuraciones.
+{% hint style="info" %}
+<mark style="color:red;">**NOTA**</mark>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-3. Al hacer clic en "Guardar", el sistema enviará las configuraciones seleccionadas a los dispositivos.
+<mark style="color:red;">Las configuraciones disponibles se mostrarán según lo que esté disponible para cada aplicación, es decir, las configuraciones disponibles variarán dependiendo de la aplicación seleccionada. En algunos casos, por ejemplo, se mostrará el mensaje: No existen configuraciones disponibles para esta aplicación.</mark>
+{% endhint %}
 
 ## **Permisos**
 
@@ -65,11 +65,11 @@ Para acceder a la configuración de permisos de una aplicación, debe estar en l
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
 2. Haga clic en "Permisos".
 
-![](<../../.gitbook/assets/4 (14).png>)
+![](<../../../.gitbook/assets/4 (14).png>)
 
 Después del paso 2 se mostrará la siguiente pantalla. La lista blanca, que se puede configurar en la aplicación seleccionada, se muestra en esta pantalla.
 
-![](<../../.gitbook/assets/5 (13).png>)
+![](<../../../.gitbook/assets/5 (13).png>)
 
 Los permisos se pueden configurar como: Solicitar al usuario, Activada o Denegada.
 
@@ -85,14 +85,14 @@ Para acceder a la configuración avanzada de una aplicación, debe estar en la p
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
 2. Haga clic en "Configuración avanzada".
 
-![](<../../.gitbook/assets/6 (13).png>)
+![](<../../../.gitbook/assets/6 (13).png>)
 
 Después del paso 2 se mostrará la siguiente pantalla. En esta pantalla tenemos los siguientes elementos:
 
 * **Prioridad de actualización -** Establezca la prioridad de actualización de la aplicación como predefinida, retrasada o prioritaria.
 * **Versión mínima -** permite definir una versión mínima de la aplicación.
 
-![](<../../.gitbook/assets/7 (12).png>)
+![](<../../../.gitbook/assets/7 (12).png>)
 
 ## **Eliminar Aplicación**
 
@@ -101,11 +101,11 @@ Para eliminar una aplicación de la directiva, debe estar en la pantalla "Editar
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
 2. Haga clic en "Eliminar aplicación".
 
-![](<../../.gitbook/assets/8 (12).png>)
+![](<../../../.gitbook/assets/8 (12).png>)
 
 Después del paso 2 se mostrará la siguiente pantalla para confirmar la eliminación. Haga clic en el botón "Eliminar" para eliminar la aplicación de la lista.
 
-![](<../../.gitbook/assets/9 (12).png>)
+![](<../../../.gitbook/assets/9 (12).png>)
 
 {% hint style="info" %}
 **NOTA**
@@ -119,11 +119,11 @@ La opción Agregar aplicaciones tendrá diferentes comportamientos cuando el Mod
 
 * **Modo Kiosco Desactivado:** Al hacer clic en el botón "Agregar Aplicaciones", si se trata de una política con modo kiosco desactivado, se mostrarán dos opciones: Play Store, que incluye la lista de aplicaciones que fueron añadidas usando Google Play Administrado, y la opción Manual, que permite agregar aplicaciones de forma manual.
 
-<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 * Modo Quiosco Habilitado: Si la política que se está editando es una política con el Modo Quiosco Habilitado, al hacer clic en el botón Agregar aplicaciones, se mostrarán las 3 opciones para agregar las aplicaciones.
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 * **Sistema**
 
@@ -162,19 +162,19 @@ Para definir restricciones de funcionamiento de aplicaciones por días y horario
 
 1. Ícono para acceder a la opción 'Restricciones de Funcionamiento'"
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Botón selector para activar restricciones.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-La opción de "Restricciones de Funcionamiento" está disponible para todas las aplicaciones, excepto la aplicación del sistema **\<NombreProduto>** Cuando una aplicación ya tiene restricciones de funcionamiento, su ícono de restricción cambiará y mostrará un pequeño punto rojo<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">.
+La opción de "Restricciones de Funcionamiento" está disponible para todas las aplicaciones, excepto la aplicación del sistema **\<NombreProduto>** Cuando una aplicación ya tiene restricciones de funcionamiento, su ícono de restricción cambiará y mostrará un pequeño punto rojo<img src="../../../.gitbook/assets/image (7) (1).png" alt="" data-size="line">.
 
 Para activar las restricciones:
 
 1. Seleccione el campo “Permitir restricciones".
 2. Indique la hora de uso para cada día, movendo el punto inicial(hora inicial) e punto final (hora final) con el mouse, o seleccione el campo "Restringir" para bloquear el funcionamiento durante todo el día.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Haga clic en "Confirmar" para guardar los cambios. La política enviará la información de las restricciones de la aplicación a los dispositivos vinculados.

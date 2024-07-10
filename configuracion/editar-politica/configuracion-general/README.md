@@ -8,6 +8,7 @@ Los "Ajustes" se agrupan en los tipos:
 * Restricciones de contraseña
 * Seguridad
 * Sistema operativo
+* Pantalla
 * Trabajo
 * Ubicación
 * Usuario
@@ -16,7 +17,7 @@ Los "Ajustes" se agrupan en los tipos:
 
 Cada grupo de configuración presenta varias opciones posibles para la política. Haga clic para verlas. La imagen abajo muestra la pantalla con los grupos de configuraciones de "Ajustes".
 
-<figure><img src="../../../.gitbook/assets/image (120).png" alt="" width="223"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

@@ -13,7 +13,7 @@
 {% hint style="warning" %}
 IMPORTANTE
 
-La aplicación Security Browser está disponible en Play Store y debe incluirse en la política de registro de los dispositivos. La sección [Bloqueo de Sitios Web](bloqueo-de-sitios-web-security-browser.md) presenta paso a paso la inclusión y configuración de la aplicación Security Browser.&#x20;
+La aplicación Security Browser está disponible en Play Store y debe incluirse en la política de registro de los dispositivos. La sección [Bloqueo de Sitios Web](configuracion/editar-politica/aplicaciones/bloqueo-de-sitios-web-security-browser.md) presenta paso a paso la inclusión y configuración de la aplicación Security Browser.&#x20;
 {% endhint %}
 
 Desde el Portal **\<NomeProduto>** es posible acceder a la información sobre el consumo y uso de los dispositivos asignados a los empleados de la empresa. También es posible definir políticas de bloqueos para restringir el uso indebido de los dispositivos, permitiendo al administrador evaluar y aumentar la productividad de los empleados, a través del análisis y la gestión de los recursos de telecomunicaciones de la empresa.
