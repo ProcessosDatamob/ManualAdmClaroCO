@@ -47,27 +47,27 @@ Si no ha recibido el token por correo electrónico, el usuario puede solicitar q
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Después de esta confirmación, el sistema abrirá la pantalla para "Crear cuenta de administrador".</mark>&#x20;
+Después de esta confirmación, el sistema abrirá la pantalla para "Crear cuenta de administrador".&#x20;
 
-<mark style="color:red;">En esta etapa es posible agregar un correo electrónico con dominio corporativo, es decir, será posible realizar la gestión a partir de un dominio corporativo. En el dominio corporativo, una compañía podrá crear varias empresas, la principal diferencia es la gestión de cuentas y la autenticación de dominio.</mark>
+En esta etapa es posible agregar un correo electrónico con dominio corporativo, es decir, será posible realizar la gestión a partir de un dominio corporativo. <mark style="color:red;">En el dominio corporativo, una compañía podrá crear varias empresas, la principal diferencia es la gestión de cuentas y la autenticación de dominio.</mark>
 
-<mark style="color:red;">En caso de no tener un correo electrónico con dominio de trabajo, al proporcionar otro correo electrónico y hacer clic en Siguiente, se mostrarán las siguientes opciones:</mark>
+En caso de no tener un correo electrónico con dominio de trabajo, al proporcionar otro correo electrónico y hacer clic en "Siguiente", se mostrarán las siguientes opciones:
 
 <figure><img src="../.gitbook/assets/Tela 2_Espanhol.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**Inscríbase con un correo electrónico de trabajo -**</mark> <mark style="color:red;"></mark><mark style="color:red;">el sistema detecta que la dirección de correo electrónico utilizada es personal (ej: @gmail.com) y no es adecuada para la inscripción en Android Enterprise. Es necesario utilizar un correo electrónico corporativo (ej: nombre@empresa.com). Haga clic en "Intentar de nuevo con un correo electrónico de trabajo" para regresar e ingresar una dirección de correo electrónico corporativa válida.</mark>
+**Inscríbase con un correo electrónico de trabajo -** el sistema detecta que la dirección de correo electrónico utilizada es personal (ej.: @gmail.com) y no es adecuada para la inscripción en Android Enterprise. Es necesario utilizar un correo electrónico corporativo (ej.: nombre@empresa.com). Haga clic en "Intentar de nuevo con un correo electrónico de trabajo" para regresar e ingresar una dirección de correo electrónico corporativa válida.
 
-<mark style="color:red;">**Comprar dominio de la empresa -**</mark> <mark style="color:red;"></mark><mark style="color:red;">en caso de que su empresa aún no posea un dominio propio (ej: empresa.com) y un correo electrónico corporativo correspondiente, puede adquirir un nuevo dominio. Haga clic en "Comprar un dominio" para ser dirigido a un servicio de registro de dominios, donde puede comprar un dominio para su empresa y, luego, utilizar un correo electrónico asociado a ese dominio para la inscripción.</mark>
+**Comprar dominio de la empresa -** en caso de que su empresa aún no posea un dominio propio (ej.: empresa.com) y un correo electrónico corporativo correspondiente, puede adquirir un nuevo dominio. Haga clic en "Comprar un dominio" para ser dirigido a un servicio de registro de dominios, donde puede comprar un dominio para su empresa y, luego, utilizar un correo electrónico asociado a ese dominio para la inscripción.
 
-<mark style="color:red;">**Inscribirse solo para Android -**</mark> <mark style="color:red;"></mark><mark style="color:red;">si está planeando gestionar solo dispositivos Android, puede crear un paquete de cuentas de Google Play gestionado, incluso utilizando un correo electrónico personal. Haga clic en "Inscribirse" para proceder con la inscripción utilizando un correo electrónico personal, limitando la gestión solo a dispositivos Android.</mark>
+**Inscribirse solo para Android -** si está planeando gestionar solo dispositivos Android, puede crear un paquete de cuentas de Google Play gestionado, incluso utilizando un correo electrónico personal. Haga clic en "Inscribirse" para proceder con la inscripción utilizando un correo electrónico personal, limitando la gestión solo a dispositivos Android.
 
-<mark style="color:red;">**Eligiendo la Mejor Opción**</mark>
+**Eligiendo la Mejor Opción**
 
-* <mark style="color:red;">**Para Empresas Con Dominio -**</mark> <mark style="color:red;"></mark><mark style="color:red;">Utilice un correo electrónico corporativo para una gestión más completa.</mark>&#x20;
-* <mark style="color:red;">**Para Empresas Sin Dominio -**</mark> <mark style="color:red;"></mark><mark style="color:red;">Considere comprar un dominio corporativo para una gestión más integrada.</mark>&#x20;
-* <mark style="color:red;">**Para Gestión Solo Android -**</mark> <mark style="color:red;"></mark><mark style="color:red;">Utilice un correo electrónico personal si la gestión se limitará a dispositivos Android, pero tenga en cuenta las limitaciones.</mark>&#x20;
+* <mark style="color:red;">**Para Empresas Con Dominio**</mark>** -** Utilice un correo electrónico corporativo para una gestión más completa.&#x20;
+* <mark style="color:red;">**Para Empresas Sin Dominio**</mark>** -** Considere comprar un dominio corporativo para una gestión más integrada.&#x20;
+* <mark style="color:red;">**Para Gestión Solo Android**</mark>** -** Utilice un correo electrónico personal si la gestión se limitará a dispositivos Android, pero tenga en cuenta las limitaciones.&#x20;
 
-<mark style="color:red;">Para continuar en las siguientes pantallas, elija la opción "Inscribirse solo para Android" y realice el registro en Android Enterprise.</mark>
+Para continuar en las siguientes pantallas, elija la opción <mark style="color:red;">"Inscribirse solo para Android"</mark> y realice el registro en Android Enterprise.
 
 En esta pantalla se llevará a cabo la configuración de una cuenta de Google Play para la empresa. Este paso es importante para que la empresa administre las aplicaciones que estarán disponibles en sus dispositivos.&#x20;
 
