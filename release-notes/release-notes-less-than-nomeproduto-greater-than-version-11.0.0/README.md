@@ -7,11 +7,9 @@
 3. Configuración del Fondo de Pantalla Fuera del Modo Kiosco
 4. Pantalla de Bloqueo Personalizada en el Security Browser
 5. Gestión de Sitios Favoritos del Security Browser
-6. Envío de Cambio de Contraseña del Bloqueo de Pantalla en Block SIM
-7. Envío de Eliminación del Bloqueo de Chip en Block SIM
-8. Datos de Conectividad del Dispositivo
-9. Configuraciones de Bluetooth en Mob Settings
-10. Configuraciones de Pantalla en Mob Settings
-11. Configuraciones de Wi-Fi en Mob Settings
-12. Dashboard de Consumo Total de Datos y SMS en Companion
-13. Dashboard de Consumo de Datos y Tiempo de Uso de las Aplicaciones en Companion
+6. Datos de Conectividad del Dispositivo
+7. Configuraciones de Bluetooth en Mob Settings
+8. Configuraciones de Pantalla en Mob Settings
+9. Configuraciones de Wi-Fi en Mob Settings
+10. Dashboard de Consumo Total de Datos y SMS en Companion
+11. Dashboard de Consumo de Datos y Tiempo de Uso de las Aplicaciones en Companion

@@ -10,3 +10,7 @@
 * <mark style="color:red;">Disminuir y aumentar el brillo de la pantalla.</mark>
 * <mark style="color:red;">Activar y desactivar la fijación de la orientación actual de la pantalla.</mark>
 * <mark style="color:red;">Seleccionar el tiempo de espera hasta el apagado automático de la pantalla del dispositivo, entre una de las siguientes opciones: 15 segundos, 30 segundos, 1 minuto, 2 minutos, 5 minutos, 10 minutos, 30 minutos.</mark>
+
+
+
+[Volver a la lista de Release Notes](./)

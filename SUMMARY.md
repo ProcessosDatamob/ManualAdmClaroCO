@@ -72,8 +72,6 @@
   * [Configuración del Fondo de Pantalla Fuera del Modo Kiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/configuracion-del-fondo-de-pantalla-fuera-del-modo-kiosco.md)
   * [Pantalla de Bloqueo Personalizada en el Security Browser](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/pantalla-de-bloqueo-personalizada-en-el-security-browser.md)
   * [Gestión de Sitios Favoritos del Security Browser](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/gestion-de-sitios-favoritos-del-security-browser.md)
-  * [Envío de Cambio de Contraseña del Bloqueo de Pantalla en Block SIM](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/envio-de-cambio-de-contrasena-del-bloqueo-de-pantalla-en-block-sim.md)
-  * [Envío de Eliminación del Bloqueo de Chip en Block SIM](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/envio-de-eliminacion-del-bloqueo-de-chip-en-block-sim.md)
   * [Datos de Conectividad del Dispositivo](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/datos-de-conectividad-del-dispositivo.md)
   * [Configuraciones de Bluetooth en Mob Settings](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/configuraciones-de-bluetooth-en-mob-settings.md)
   * [Configuraciones de Pantalla en Mob Settings](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/configuraciones-de-pantalla-en-mob-settings.md)

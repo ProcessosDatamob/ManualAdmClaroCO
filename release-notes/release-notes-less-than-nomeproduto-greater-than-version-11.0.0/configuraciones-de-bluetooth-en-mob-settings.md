@@ -10,3 +10,7 @@
 * <mark style="color:red;">Activar la visibilidad del dispositivo vía Bluetooth para otros dispositivos, con la visibilidad siendo desactivada automáticamente al finalizar el tiempo de visibilidad.</mark>
 * <mark style="color:red;">Mostrar una lista de todos los dispositivos Bluetooth disponibles para conectar, con la lista actualizándose cada 10 segundos mientras la pantalla esté accesada.</mark>
 * <mark style="color:red;">Emparejar el dispositivo con un dispositivo Bluetooth disponible.</mark>
+
+
+
+[Volver a la lista de Release Notes](./)

@@ -57,17 +57,17 @@ Después de incluir la aplicación en la directiva, se pueden establecer configu
 
 Al hacer clic en Configuraciones Gestionadas, se mostrará la siguiente pantalla:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">Las Configuraciones Gestionadas para el Security Browser son:</mark>&#x20;
 
 * <mark style="color:red;">Bloquear Todos los Sitios - como administrador, es posible activar el bloqueo total de acceso a todos los sitios. Cuando el bloqueo total está activado, ningún sitio puede ser accedido desde el dispositivo. Esto significa que cualquier intento de navegación será bloqueado, garantizando que los usuarios no puedan visitar ninguna página web.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:red;">Sitios Favoritos - como administrador, es posible configurar sitios favoritos en el Security Browser para ponerlos a disposición de los usuarios. Agregue los sitios favoritos con Nombre y URL, y al guardar la política, las configuraciones se enviarán a los dispositivos. En el dispositivo, al abrir el menú Favoritos de la aplicación Security Browser, se mostrarán las URLs registradas en la lista de sitios favoritos de la configuración gestionada.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:red;">Página de Bloqueo - es posible personalizar el bloqueo de sitios redirigiendo a una página definida como predeterminada. Es decir, si el usuario intenta acceder a un sitio que tiene bloqueo por URL, palabra clave o categoría, cuando la aplicación bloquee el sitio, redirigirá a la URL de bloqueo recibida en la configuración gestionada y no registrará la URL como sitio accedido.</mark>
 

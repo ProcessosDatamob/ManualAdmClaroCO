@@ -4,3 +4,6 @@
 
 <mark style="color:red;">En la aplicación Security Browser, al acceder a Favoritos, se mostrará la lista de sitios que han sido configurados en el portal.</mark>
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+[Volver a la lista de Release Notes](./)
