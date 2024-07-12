@@ -79,7 +79,7 @@ La pantalla de Google Play se muestra a continuación.
 
 ![](<../.gitbook/assets/4 (5).png>)
 
-Durante la creación de esta cuenta de Google se le pedirá más información en la pantalla "Detalles de contacto".&#x20;
+Si necesitas crear una cuenta de Google, se te pedirá más información en la pantalla "Detalles de contacto".
 
 Lea la información de orientación de Google Play Gestionado y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información se puede administrar posteriormente en en el menú "Empresas", submenú "Información de la Empresa".&#x20;
 
