@@ -81,14 +81,13 @@ Esta falta de comunicación puede ocurrir cuando el dispositivo se encuentra en 
 * Sin conexión a Internet.
 * Aplicación desinstalada.
 
-El cálculo de tiempo para considerar el dispositivo sin comunicación se basa en dos datos enviados por el dispositivo:
+El cálculo de tiempo para considerar el dispositivo sin comunicación es el tiempo de sincronización configurado en la empresa + 10 minutos.
 
-* Envío de consumos generales/información del dispositivo.
-* Envío periódico de estado "Activo".
+Si el dispositivo no envía consumos generales/información del dispositivo durante un tiempo superior al tiempo de sincronización establecido + 10 minutos, cambia el estado a Sin comunicación.
 
-En caso de que pase más de 10 minutos y el Portal no reciba un de estos datos, el dispositivo es considerado como "Sin comunicación" y envía un comando al dispositivo para intentar restablecer la comunicación. Dependiendo de la situación del dispositivo, el restablecimiento de la comunicación puede ocurrir o no.
+Para que el dispositivo vuelva a comunicarse, el administrador puede enviar un mensaje con el comando START\_SERVICES a través del menú Mensajes del portal.
 
-Al hacer clic en este indicador, el sistema mostrará una pantalla que contiene el reporte con la información de los dispositivos que no se comunican.
+Al hacer clic en el indicador Sin comunicación ,el sistema mostrará una pantalla que contiene el informe con la información de los dispositivos que están sin comunicación.
 
 ## **Consumo de Datos**
 
