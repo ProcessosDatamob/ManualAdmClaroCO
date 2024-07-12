@@ -49,47 +49,43 @@ Si no ha recibido el token por correo electrónico, el usuario puede solicitar q
 
 Después de esta confirmación, el sistema abrirá la pantalla para "Crear cuenta de administrador".&#x20;
 
-<mark style="color:blue;">En este paso, se te pedirá una cuenta de dominio propia , para realizar el vínculo en Android Enterprise. Al utilizar un dominio propio, la empresa tendrá acceso a funcionalidades avanzadas en futuras versiones del programa Better Togheter de Google. Para ello es necesario informar a una cuenta de dominio propia, que posee el Cloud Identity de Google configurado.</mark>
+En este paso, se te pedirá una cuenta de dominio propia , para realizar el vínculo en Android Enterprise. Al utilizar un dominio propio, la empresa tendrá acceso a funcionalidades avanzadas en futuras versiones del programa Better Togheter de Google. Para ello es necesario informar a una cuenta de dominio propia, que posee el Cloud Identity de Google configurado.
 
-<mark style="color:blue;">**Ejemplo:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">@empresa.com</mark>
+**Ejemplo:** @empresa.com
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-En caso de no tener un correo electrónico con dominio de trabajo, al proporcionar otro correo electrónico y hacer clic en "Siguiente", se mostrarán las siguientes opciones:
+Si se informa a esta cuenta de correo coorporativo que contiene Cloud Identity, el sistema seguirá el proceso normal del flujo. Si el usuario no posee la cuenta o informa de una cuenta que no tiene la Cloud Identity configurada, se mostrará la siguiente pantalla:
 
 <figure><img src="../.gitbook/assets/Tela 2_Espanhol.png" alt=""><figcaption></figcaption></figure>
 
-**Inscríbase con un correo electrónico de trabajo -** el sistema detecta que la dirección de correo electrónico utilizada es personal (ej.: @gmail.com) y no es adecuada para la inscripción en Android Enterprise. Es necesario utilizar un correo electrónico corporativo (ej.: nombre@empresa.com). Haga clic en "Intentar de nuevo con un correo electrónico de trabajo" para regresar e ingresar una dirección de correo electrónico corporativa válida.
+**Regístrese con un correo electrónico de trabajo:** En esta opción, puede realizar un nuevo intento de informar a un correo electrónico corporativo (por ejemplo, nombre@empresa.com) que tenga configurado Cloud Identity de Google. Luego haz clic en "Inténtalo de nuevo con un correo electrónico de trabajo para regresar e ingresar una dirección de correo electrónico corporativa válida.
 
-**Comprar dominio de la empresa -** en caso de que su empresa aún no posea un dominio propio (ej.: empresa.com) y un correo electrónico corporativo correspondiente, puede adquirir un nuevo dominio. Haga clic en "Comprar un dominio" para ser dirigido a un servicio de registro de dominios, donde puede comprar un dominio para su empresa y, luego, utilizar un correo electrónico asociado a ese dominio para la inscripción.
+**Comprar dominio de la empresa:** En esta opción, si su empresa aún no tiene un dominio propio (por ejemplo, empresa.com) y un correo electrónico corporativo correspondiente, puede adquirir un nuevo dominio. Haga clic en "Comprar un dominio" para dirigirse a un servicio de registro de dominios, donde puede comprar un dominio para su empresa y luego usar un correo electrónico asociado a ese dominio para registrarse.
 
-**Inscribirse solo para Android -** si está planeando gestionar solo dispositivos Android, puede crear un paquete de cuentas de Google Play gestionado, incluso utilizando un correo electrónico personal. Haga clic en "Inscribirse" para proceder con la inscripción utilizando un correo electrónico personal, limitando la gestión solo a dispositivos Android.
+**Regístrate solo para Android:** Ahora, si estás planeando administrar solo dispositivos Android, puedes crear un paquete de cuentas de Google Play administrado, incluso con un correo electrónico personal. Haga clic en "Regístrese" para continuar con la suscripción utilizando un correo electrónico personal, limitando la administración solo a dispositivos Android.
 
-**Eligiendo la Mejor Opción**
 
-* <mark style="color:red;">**Para Empresas Con Dominio**</mark>** -** Utilice un correo electrónico corporativo para una gestión más completa.&#x20;
-* <mark style="color:red;">**Para Empresas Sin Dominio**</mark>** -** Considere comprar un dominio corporativo para una gestión más integrada.&#x20;
-* <mark style="color:red;">**Para Gestión Solo Android**</mark>** -** Utilice un correo electrónico personal si la gestión se limitará a dispositivos Android, pero tenga en cuenta las limitaciones.&#x20;
 
-Para continuar en las siguientes pantallas, elija la opción <mark style="color:red;">"Inscribirse solo para Android"</mark> y realice el registro en Android Enterprise.
+{% hint style="warning" %}
+**NOTA:** Es importante destacar que Google no acepta cuentas GSuite y se recomienda crear una cuenta común para la empresa (por ejemplo, nombre@google.com).
+{% endhint %}
 
-En esta pantalla se llevará a cabo la configuración de una cuenta de Google Play para la empresa. Este paso es importante para que la empresa administre las aplicaciones que estarán disponibles en sus dispositivos.&#x20;
+Después de elegir una de las tres opciones anteriores, sigue los siguientes pasos para finalizar el proceso de vinculación en Android Enterprise.&#x20;
 
-Para la creación de esta cuenta, se puede utilizar un correo electrónico ya existente (por ejemplo, @gmail.com, @hotmail o @outlook) o crear un nuevo correo electrónico. Por restricción de Google, el correo electrónico utilizado no puede estar integrado a G Suite/Google Workspace.
+En la pantalla Google Play, utiliza el botón "Iniciar sesión" para iniciar sesión en la cuenta o, si no tienes la cuenta, puedes crear una nueva cuenta.
 
 La pantalla de Google Play se muestra a continuación.
 
 ![](<../.gitbook/assets/4 (5).png>)
 
-En la pantalla de Google Play, use el botón "Iniciar sesión" para elegir una cuenta o registrar una nueva. Es importante destacar que Google no acepta cuentas GSuite/Google Workspace y se recomienda crear una cuenta común para la empresa.
+Durante la creación de esta cuenta de Google se le pedirá más información en la pantalla "Detalles de contacto".&#x20;
 
-Durante la creación de esta cuenta de Google se le pedirá más información en la pantalla "Detalles de contacto". La información solicitada podrá ser utilizada por Google para ponerse en contacto en caso de preguntas o notificaciones relacionadas con la privacidad o seguridad de los datos en sus servidores.
+Lea la información de orientación de Google Play Gestionado y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información se puede administrar posteriormente en en el menú "Empresas", submenú "Información de la Empresa".&#x20;
 
 La pantalla de "Detalles de contacto" se muestra a continuación.
 
 ![](<../.gitbook/assets/5 (5).png>)
-
-Lea la información de orientación de Google Play Administrada y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información puede omitirse en esta etapa y administrarse posteriormente en el Portal del Administrador de **\<NomeProduto>** en el menú "Empresas", submenú "Información de la Empresa".
 
 Después de confirmar los datos, se mostrará la pantalla del Portal de administración **\<NomeProduto>** con el mensaje "¡Felicidades! Su empresa se ha registrado correctamente en Android Enterprise."
 
