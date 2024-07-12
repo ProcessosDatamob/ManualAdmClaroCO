@@ -49,13 +49,13 @@ Si no ha recibido el token por correo electrónico, el usuario puede solicitar q
 
 Después de esta confirmación, el sistema abrirá la pantalla para "Crear cuenta de administrador".&#x20;
 
-En este paso, se te pedirá una cuenta de dominio propia , para realizar el vínculo en Android Enterprise. Al utilizar un dominio propio, la empresa tendrá acceso a funcionalidades avanzadas en futuras versiones del programa Better Togheter de Google. Para ello es necesario informar a una cuenta de dominio propia, que posee el Cloud Identity de Google configurado.
+En este paso, se solicitará una cuenta de dominio propia de la empresa , para realizar el vínculo en Android Enterprise. Al utilizar un dominio propio, la empresa podrá tener acceso a funcionalidades avanzadas del programa Better Togheter de Google en versiones futuras. Para ello es necesario informar a una cuenta de dominio propia, que posee el Cloud Identity de Google configurado.
 
 **Ejemplo:** @empresa.com
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Si se informa a esta cuenta de correo coorporativo que contiene Cloud Identity, el sistema seguirá el proceso normal del flujo. Si el usuario no posee la cuenta o informa de una cuenta que no tiene la Cloud Identity configurada, se mostrará la siguiente pantalla:
+Si el usuario informa a esta cuenta de correo coorporativo conteniendo el Cloud Identity el sistema seguirá el proceso normal del flujo. Si el usuario indica una cuenta que no tiene configurado Cloud Identity, aparecerá la siguiente pantalla:
 
 <figure><img src="../.gitbook/assets/Tela 2_Espanhol.png" alt=""><figcaption></figcaption></figure>
 
