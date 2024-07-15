@@ -53,9 +53,9 @@ La pantalla siguiente será mostrada:
 En esta pantalla es posible ver la identificación de la aplicación seleccionada y la pantalla de configuración que fue elegida ("Configuraciones Gestionadas");
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTA**</mark>
+**NOTA**
 
-<mark style="color:red;">Las configuraciones disponibles se mostrarán según lo que esté disponible para cada aplicación, es decir, las configuraciones disponibles variarán dependiendo de la aplicación seleccionada. En algunos casos, por ejemplo, se mostrará el mensaje: No existen configuraciones disponibles para esta aplicación.</mark>
+Las configuraciones disponibles se mostrarán según lo que esté disponible para cada aplicación, es decir, las configuraciones disponibles variarán dependiendo de la aplicación seleccionada. En algunos casos, por ejemplo, se mostrará el mensaje: No existen configuraciones disponibles para esta aplicación. Estas configuraciones de trabajo dependen de la empresa que creó la aplicación.
 {% endhint %}
 
 ## **Permisos**

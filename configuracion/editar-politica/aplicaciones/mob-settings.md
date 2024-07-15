@@ -1,19 +1,19 @@
 # Mob Settings
 
-<mark style="color:red;">El Mob Settings es una aplicación diseñada para facilitar la administración de configuraciones esenciales de dispositivos móviles sin la necesidad de acceder directamente al menú de configuraciones del dispositivo. Permite a los administradores gestionar configuraciones de Bluetooth, Pantalla y Wi-Fi de manera centralizada y eficiente. A continuación, detallaremos cómo cada una de estas funcionalidades puede ser configurada y utilizada dentro de Mob Settings.</mark>
+Mob Settings es una aplicación diseñada para facilitar la administración de configuraciones esenciales de dispositivos móviles sin la necesidad de acceder directamente al menú de configuraciones del dispositivo. Permite a los administradores gestionar configuraciones de Bluetooth, Pantalla y Wi-Fi de manera centralizada y eficiente. A continuación, detallaremos cómo cada una de estas funcionalidades puede ser configurada y utilizada dentro de Mob Settings.
 
-#### <mark style="color:red;">Configuraciones de Bluetooth</mark>
+#### Configuraciones de Bluetooth
 
-<mark style="color:red;">Mob Settings permite a los administradores configurar y gestionar el Bluetooth de los dispositivos de manera simplificada. Esto incluye activar o desactivar el Bluetooth, hacer que el dispositivo sea visible para otros dispositivos y emparejarlo con dispositivos Bluetooth disponibles.</mark>
+Mob Settings permite a los administradores configurar y gestionar el Bluetooth de los dispositivos de manera simplificada. Esto incluye activar o desactivar el Bluetooth, hacer que el dispositivo sea visible para otros dispositivos y vincular dispositivos Bluetooth disponibles.
 
-<mark style="color:red;">Cuando un dispositivo es provisionado en una política con Mob Settings, la configuración gestionada de Bluetooth se envía automáticamente al portal de administración.</mark>&#x20;
+Cuando un dispositivo es provisionado en una política con Mob Settings, la configuración gestionada de Bluetooth se envía automáticamente al portal de administración.&#x20;
 
-<mark style="color:red;">Por defecto, la configuración de Bluetooth está activada (valor "true"), permitiendo que los administradores puedan activar o desactivar esta funcionalidad según sea necesario.</mark>
+Por defecto, la configuración de Bluetooth está activada (valor "true"), permitiendo que los administradores puedan activar o desactivar esta funcionalidad según sea necesario.
 
-1. <mark style="color:red;">Después de instalar la aplicación Mob Settings en el dispositivo, verifique si la configuración de Bluetooth está activa.</mark>
-2. <mark style="color:red;">Abra Mob Settings y haga clic en el botón de configuraciones de Bluetooth para acceder a la pantalla específica.</mark>
-3. <mark style="color:red;">La aplicación solicitará los permisos necesarios para gestionar el Bluetooth.</mark>
-4. <mark style="color:red;">En la pantalla de configuración, es posible activar/desactivar el Bluetooth, activar la visibilidad del dispositivo, visualizar dispositivos disponibles, actualizar la lista de dispositivos cada 10 segundos y emparejar con dispositivos Bluetooth.</mark>
+1. Después de instalar la aplicación Mob Settings en el dispositivo, verifique si la configuración de Bluetooth está activa.
+2. Abra Mob Settings y haga clic en el botón de configuraciones de Bluetooth para acceder a la pantalla específica.
+3. La aplicación solicitará los permisos necesarios para gestionar el Bluetooth.
+4. En la pantalla de configuración, es posible activar/desactivar el Bluetooth, activar la visibilidad del dispositivo, visualizar dispositivos disponibles, actualizar la lista de dispositivos cada 10 segundos y vincular dispositivos Bluetooth.
 
 #### <mark style="color:red;">Configuraciones de Pantalla</mark>
 

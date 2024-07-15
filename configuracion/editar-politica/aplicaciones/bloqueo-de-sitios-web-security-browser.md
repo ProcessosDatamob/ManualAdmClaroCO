@@ -59,25 +59,25 @@ Al hacer clic en Configuraciones Gestionadas, se mostrará la siguiente pantalla
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Las Configuraciones Gestionadas para el Security Browser son:</mark>&#x20;
+Las Configuraciones Gestionadas para el Security Browser son:&#x20;
 
-* <mark style="color:red;">Bloquear Todos los Sitios - como administrador, es posible activar el bloqueo total de acceso a todos los sitios. Cuando el bloqueo total está activado, ningún sitio puede ser accedido desde el dispositivo. Esto significa que cualquier intento de navegación será bloqueado, garantizando que los usuarios no puedan visitar ninguna página web.</mark>
+* Bloquear Todos los Sitios - como administrador, es posible activar el bloqueo total de acceso a todos los sitios. Cuando el bloqueo total está activado, ningún sitio puede ser accedido desde el dispositivo. Esto significa que cualquier intento de navegación será bloqueado, garantizando que los usuarios no puedan visitar ninguna página web.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">Sitios Favoritos - como administrador, es posible configurar sitios favoritos en el Security Browser para ponerlos a disposición de los usuarios. Agregue los sitios favoritos con Nombre y URL, y al guardar la política, las configuraciones se enviarán a los dispositivos. En el dispositivo, al abrir el menú Favoritos de la aplicación Security Browser, se mostrarán las URLs registradas en la lista de sitios favoritos de la configuración gestionada.</mark>
+* Sitios favoritos - como administrador, es posible configurar sitios favoritos en el Security Browser para ponerlos a disposición de los usuarios. Agregue los sitios favoritos con Nombre y URL, y al guardar la política, las configuraciones se enviarán a los dispositivos. En el dispositivo, al abrir el menú Favoritos de la aplicación Security Browser, se mostrarán las URLs registradas en la lista de sitios favoritos de la configuración gestionada.
 
 <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">Página de Bloqueo - es posible personalizar el bloqueo de sitios redirigiendo a una página definida como predeterminada. Es decir, si el usuario intenta acceder a un sitio que tiene bloqueo por URL, palabra clave o categoría, cuando la aplicación bloquee el sitio, redirigirá a la URL de bloqueo recibida en la configuración gestionada y no registrará la URL como sitio accedido.</mark>
+* Bloquear página - es posible personalizar el bloqueo de sitios redirigiendo a una página definida como predeterminada. Es decir, si el usuario intenta acceder a un sitio que tiene bloqueo por URL, palabra clave o categoría, cuando la aplicación bloquee el sitio, redirigirá a la URL de bloqueo recibida en la configuración gestionada y no registrará la URL como sitio accedido.
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">URLs y Palabras Clave Bloqueadas y Liberadas - el administrador puede especificar URLs y palabras clave para bloquear o liberar el acceso en la aplicación. Esto permite un control granular sobre el contenido accesado por los usuarios, garantizando que los sitios no deseados sean bloqueados mientras que los sitios aprobados permanezcan accesibles.</mark>
+* URLs y palabras clave bloqueadas y permitidas - el administrador puede especificar URLs y palabras clave para bloquear o liberar el acceso en la aplicación. Esto permite un control granular sobre el contenido accesado por los usuarios, garantizando que los sitios no deseados sean bloqueados mientras que los sitios aprobados permanezcan accesibles.
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">Bloqueo de Sitios por Categoría - se puede bloquear el acceso a sitios web basándose en categorías específicas. El administrador puede seleccionar diferentes categorías de sitios que desea bloquear. Cuando el bloqueo por categoría está activado, cualquier sitio que pertenezca a una de esas categorías seleccionadas será automáticamente bloqueado.</mark>
+* Bloqueo de sitios web por categoría - se puede bloquear el acceso a sitios web basándose en categorías específicas. El administrador puede seleccionar diferentes categorías de sitios que desea bloquear. Cuando el bloqueo por categoría está activado, cualquier sitio que pertenezca a una de esas categorías seleccionadas será automáticamente bloqueado.
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
