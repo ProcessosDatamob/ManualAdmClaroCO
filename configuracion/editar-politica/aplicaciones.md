@@ -10,7 +10,7 @@ La pantalla tiene las siguientes partes, según la numeración en la figura:
 
 1. Modo de selección de aplicaciones en Play Store - permite controlar cómo se mostrarán las aplicaciones en los dispositivos registrados en esta política. En el modo "Restricta", los usuarios solo pueden ver e instalar desde Google Play Store las aplicaciones elegidas por el administrador. Las otras aplicaciones se eliminarán y no estarán disponibles en los dispositivos.
 
-El modo “Abierta” permite la instalación de aplicaciones que no están en la Google Play Administrada, o sea el usuario podrá consultar e instalar cualquier aplicación disponible en la tienda Play Store.&#x20;
+El modo “Abierta” permite la instalación de aplicaciones que no están en la Google Play Administrada, o sea el usuario podrá consultar e instalar cualquier aplicación disponible en la tienda Play Store.
 
 {% hint style="info" %}
 **NOTA**
@@ -33,7 +33,7 @@ Al seleccionar la opción “Abierta”, las aplicaciones agregadas a la políti
 Si el usuario elige la opción “Pre instalada” deberá considerar que las aplicaciones se instalaran en ese momento ignorando si el dispositivo está en WIFI o si está usando la red de datos lo que podría traducirse en un alto consumo de datos. Es necesario asegurarse que el dispositivo esté conectado a WIFI si se utilizarán aplicaciones “Pre instaladas”.
 {% endhint %}
 
-5. Otras acciones "...":  permite acceder a las opciones de acciones disponibles para la aplicación: "Configuraciones Administradas", "Permisos", "Configuraciones Avanzadas" y "Eliminar Aplicación".
+5. Otras acciones "...": permite acceder a las opciones de acciones disponibles para la aplicación: "Configuraciones Administradas", "Permisos", "Configuraciones Avanzadas" y "Eliminar Aplicación".
 6. Agregar Aplicaciones: Permite añadir aplicaciones para su gestión. Para obtener más información, acceda al contenido "Agregar Aplicaciones" en esta página.
 7. Restricciones de Funcionamiento: Permite crear restricciones de acceso a las aplicaciones por horario, para definir los momentos en los que las aplicaciones no podrán ser accedidas. Para más información, acceda al contenido "Restricciones de Funcionamiento" en esta página.
 
@@ -54,7 +54,7 @@ En esta pantalla es posible ver la identificación de la aplicación seleccionad
 
 2. Haga clic en el menú “Permisos Opcionales" para acceder a la lista de configuraciones gestionadas disponibles para la aplicación seleccionada. En este menú es posible activar y desactivar cada una de las configuraciones.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Al hacer clic en "Guardar", el sistema enviará las configuraciones seleccionadas a los dispositivos.
 
@@ -141,13 +141,13 @@ Las aplicaciones deben agregarse primero con Google Play Administrado.
 
 * **Manual**
 
-1. Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente"&#x20;
+1. Haga clic en la opción "Manual", y abrirá la pantalla "Agregar aplicaciones manualmente"
 2. Rellenar los campos: Nombre de la aplicación (opcional), Nombre del paquete y haga clic en "Agregar".
 
 El tipo de instalación será "Disponible" y permitirá cambiar el tipo de instalación de la aplicación a las opciones: Disponible, Preinstalado, Instalación forzada o Bloqueado, y enviará al dispositivo la aplicación con el tipo de instalación definido al guardar la política.
 
 {% hint style="info" %}
-**NOTA**&#x20;
+**NOTA**
 
 Si la aplicación no está en Google Play, las opciones "Preinstalado" e "Instalación forzada" tendrán el mismo efecto que la opción "Disponible". Es decir, la aplicación estará disponible para instalación y el usuario tendrá la opción de instalarla según su conveniencia. No se instala automáticamente en el dispositivo.
 {% endhint %}
