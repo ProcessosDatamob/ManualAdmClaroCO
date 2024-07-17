@@ -8,16 +8,16 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-07-10 162845.png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="color:red;">En la parte superior de la pantalla, el sistema muestra la distribución de los dispositivos, separados por fabricantes.</mark>
-3. <mark style="color:red;">Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar.</mark>
-4. <mark style="color:red;">Utilice los Filtros Avanzados para buscar Modo de Administración y Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.</mark>
-5. <mark style="color:red;">Para localizar un dispositivo específico, ingrese el número de teléfono, nombre del usuario, IMEI, ICCID, departamento o teléfono del usuario del dispositivo en el campo "Buscar".</mark>
-6. <mark style="color:red;">Para exportar el informe de los dispositivos, haga clic en el botón "Excel". El sistema mostrará en el informe solo la información de las columnas visibles en la pantalla.</mark>
-7. <mark style="color:red;">Para copiar la información de los dispositivos, haga clic en el botón "Copiar". El sistema copiará al portapapeles solo la información de las columnas visibles en la pantalla.</mark>
-8. <mark style="color:red;">Haga clic en la opción de "Acciones en lote" para aplicar una acción a varios dispositivos a la vez. Para más información, acceda al contenido Acciones en lote en esta página.</mark>
-9. <mark style="color:red;">La lista de dispositivos se muestra en la parte inferior de la pantalla. Al desplazar la barra horizontalmente, es posible visualizar toda la información de las columnas mostradas.</mark>
-10. <mark style="color:red;">Ordene las columnas: Usuario, Identificación, Licencia, IMEI, Modelo, Fecha de Registro y Fecha de la última comunicación con las flechas "↑↓".</mark>&#x20;
-11. <mark style="color:red;">Haga clic en el ícono de configuraciones para seleccionar las columnas que quedarán visibles, y luego haga clic en "Guardar" para definir la configuración como predeterminada de la pantalla para el usuario conectado.</mark>\
+2. En la parte superior de la pantalla, el sistema muestra la distribución de los dispositivos, separados por fabricantes.
+3. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar.
+4. Utilice los Filtros Avanzados para buscar Modo de Administración, Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.
+5. Para localizar un dispositivo específico, ingrese el número de teléfono, nombre del usuario, IMEI, ICCID, departamento o teléfono del usuario del dispositivo en el campo "Buscar".
+6. Para exportar el informe de los dispositivos, haga clic en el botón "Excel". El sistema mostrará en el informe sólo la información de las columnas visibles en la pantalla.
+7. Para copiar la información de los dispositivos, haga clic en el botón "Copiar". El sistema copiará al portapapeles sólo la información de las columnas visibles en la pantalla.
+8. Haga clic en la opción de "Acciones en lote" para aplicar una acción a varios dispositivos a la vez. Para más información, acceda al contenido Acciones en lote en esta página.
+9. La lista de dispositivos se muestra en la parte inferior de la pantalla. Al desplazar la barra horizontalmente, es posible visualizar toda la información de las columnas mostradas.
+10. Ordene las columnas: Usuario, Identificación, Licencia, IMEI, Modelo, Fecha de Registro y Fecha de la última comunicación, utilizando las flechas "↑↓" al lado de cada columna.
+11. Haga clic en el ícono de configuraciones para seleccionar las columnas que quedarán visibles, y luego haga clic en "Guardar" para definir la configuración como predeterminada de la pantalla del usuario conectado.\
 
 
     <figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
