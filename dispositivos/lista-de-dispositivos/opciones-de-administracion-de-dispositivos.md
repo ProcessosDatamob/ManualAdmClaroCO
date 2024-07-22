@@ -74,21 +74,21 @@ Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos,
 * **Roaming de Datos Móviles** - indica si el dispositivo está en roaming de datos móviles.
 * **IP (Red móvil)** - dirección IP asignada al dispositivo en la red móvil, con protocolo IPv4.
 * **IPv6 (Red móvil)** - dirección IP asignada al dispositivo en la red móvil, con protocolo IPv6.
-* <mark style="color:red;">**SIM Conectado**</mark> - indica cuál tarjeta SIM está activa y conectada.
-* <mark style="color:red;">**Operadora del SIM 1**</mark> - nombre de la operadora de la primera tarjeta SIM.
+* <mark style="color:red;">**SIM Conectada**</mark> - indica cuál tarjeta SIM está activa y conectada.
+* <mark style="color:red;">**Operadora SIM 1**</mark> - nombre de la operadora de la primera tarjeta SIM.
 * **Número de Teléfono SIM 1** - número de teléfono asociado a la primera tarjeta SIM.
 * **ICCID SIM 1** - identificador exclusivo de la tarjeta SIM 1.
 * **IMEI SIM 1** - IMEI de la entrada de la tarjeta SIM 1 del dispositivo. IMEI es el número de identificación internacional de equipo móvil, acrónimo en inglés para _International Mobile Equipment Identity_.
-* <mark style="color:red;">**Número del Suscriptor SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número del suscriptor asociado al SIM 1. MSIN?</mark>
-* <mark style="color:red;">**MCC del SIM 1**</mark> - código del país de la tarjeta SIM 1.
-* <mark style="color:red;">**MNC del SIM 1**</mark> - código de la red móvil de la tarjeta SIM 1.
-* <mark style="color:red;">**Operadora del SIM 2**</mark> - nombre de la operadora de la tarjeta SIM 2.
+* <mark style="color:red;">**Número de abonado SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número del suscriptor asociado al SIM 1. MSIN?</mark>
+* <mark style="color:red;">**MCC do SIM 1**</mark> - código del país de la tarjeta SIM 1.
+* <mark style="color:red;">**MNC do SIM 1**</mark> - código de la red móvil de la tarjeta SIM 1.
+* <mark style="color:red;">**Operador SIM 2**</mark> - nombre de la operadora de la tarjeta SIM 2.
 * **Número de Teléfono SIM 2** - número de teléfono asociado a la tarjeta SIM 2.
 * **ICCID SIM 2** - identificador exclusivo de la tarjeta SIM 2.
 * **IMEI SIM 2** - IMEI de la entrada de la tarjeta SIM 2 del dispositivo. IMEI es el número de identificación internacional de equipo móvil, acrónimo en inglés para _International Mobile Equipment Identity_.
-* <mark style="color:red;">**Número del Suscriptor SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número del suscriptor asociado al SIM 2. MSIN?</mark>
-* <mark style="color:red;">**MCC del SIM 2**</mark> - código del país de la tarjeta SIM 2.
-* <mark style="color:red;">**MNC del SIM 2**</mark> - código de la red móvil de la tarjeta SIM 2.
+* <mark style="color:red;">**Número de abonado SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número del suscriptor asociado al SIM 2. MSIN?</mark>
+* <mark style="color:red;">**MCC do SIM 2**</mark> - código del país de la tarjeta SIM 2.
+* <mark style="color:red;">**MNC do SIM 2**</mark> - código de la red móvil de la tarjeta SIM 2.
 * **DBM (RSRP - Potencia de la Antena)** - medida de la potencia de la señal con la antena conectada.
 * <mark style="color:red;">**Cell ID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificación de la celda a la que el dispositivo está conectado.</mark>
 * **LAC** - _Location Area Code**,**_ código de área de localización de la red conectada.
