@@ -24,7 +24,7 @@ El sistema mostrará una lista con las aplicaciones instaladas en los dispositiv
 
 Para instalar una aplicación remotamente, siga los pasos a continuación:
 
-1. Seleccione la política y los usuarios de dispositivos vinculados a políticas de los siguientes modos de gestión: Android, Android - Block SIM y Android - Work Profile.
+1. Seleccione la política y los usuarios de dispositivos.
 2. Complete los campos obligatorios: Nombre, Nombre del paquete y URL para descarga.
 3. Haga clic en "Enviar".
 
