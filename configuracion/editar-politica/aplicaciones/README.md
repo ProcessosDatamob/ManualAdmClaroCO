@@ -121,7 +121,7 @@ La opción Agregar aplicaciones tendrá diferentes comportamientos cuando el Mod
 
 <figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
-* Modo Quiosco Habilitado: Si la política que se está editando es una política con el Modo Quiosco Habilitado, al hacer clic en el botón Agregar aplicaciones, se mostrarán las 3 opciones para agregar las aplicaciones.
+* **Modo Quiosco Habilitado:** Si la política que se está editando es una política con el Modo Quiosco Habilitado, al hacer clic en el botón Agregar aplicaciones, se mostrarán las 3 opciones para agregar las aplicaciones.
 
 <figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
@@ -152,7 +152,7 @@ El tipo de instalación será "Disponible" y permitirá cambiar el tipo de insta
 Si la aplicación no está en Google Play, las opciones "Preinstalado" e "Instalación forzada" tendrán el mismo efecto que la opción "Disponible". Es decir, la aplicación estará disponible para instalación y el usuario tendrá la opción de instalarla según su conveniencia. No se instala automáticamente en el dispositivo.
 {% endhint %}
 
-* Remota
+* **Remota**
 
 Los aplicativos enviados mediante instalación remota, a través del menú "Instalación Remota de Aplicaciones", se mostrarán en la lista de aplicativos con el ORIGEN = "Remota" y con el tipo de instalación 'Disponible' con la edición bloqueada.
 

@@ -12,38 +12,38 @@ Después de hacer clic en el ícono mencionado, se mostrará la siguiente pantal
 
 ### Detalles&#x20;
 
-* Usuario - nombre del usuario registrado en el portal
-* Identificación - Identificación registrada para el dispositivo.&#x20;
-* Grupo - grupo registrado para el dispositivo;
-*   Departamento - es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica la unidad o departamento de la organización al que está asignado el dispositivo.
+* **Usuario -** nombre del usuario registrado en el portal
+* **Identificación -** Identificación registrada para el dispositivo.&#x20;
+* **Grupo -** grupo registrado para el dispositivo;
+*   **Departamento -** es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica la unidad o departamento de la organización al que está asignado el dispositivo.
 
     Teléfono del Usuario - es un campo de texto libre, es decir, el administrador puede escribir lo que desee. Indica el número de teléfono asociado al usuario del dispositivo.
-* IMEI - número interno y único en cada dispositivo.&#x20;
-* ICCID - número de chip SIM.&#x20;
-* Licencia - número de la Licencia.
-* Teléfono - número de teléfono.
-* Modelo - modelo de dispositivo.&#x20;
-* Fabricante - nombre del fabricante del dispositivo.
-* Sistema Operativo - sistema operativo del dispositivo.&#x20;
-* Versión de Android - versión de Android del dispositivo.&#x20;
-* Contraseña de Acesso Temporal - esta contraseña temporal es generada al activar la Configuración "Acceso Temporal al Dispositivo" en el Modo Kiosco. La contraseña debe ser proporcionada al usuario del dispositivo y se actualizará en el portal cada 5 minutos, con opción de copiar y mostrar el tiempo restante hasta que la contraseña expire. Por lo tanto, si se ha definido un tiempo de 10 minutos para que los usuarios accedan al dispositivo, si exceden esos 10 minutos, no podrán usar la misma contraseña, ya que habrá sido actualizada. En el dispositivo, con la contraseña en mano, el usuario deberá acceder a las Configuraciones Iniciales, hacer clic en la opción Acceso Temporal y escribir la contraseña en el campo "Código".
+* **IMEI -** número interno y único en cada dispositivo.&#x20;
+* **ICCID -** número de chip SIM.&#x20;
+* **Licencia -** número de la Licencia.
+* **Teléfono -** número de teléfono.
+* **Modelo -** modelo de dispositivo.&#x20;
+* **Fabricante -** nombre del fabricante del dispositivo.
+* **Sistema Operativo -** sistema operativo del dispositivo.&#x20;
+* **Versión de Android -** versión de Android del dispositivo.&#x20;
+* **Contraseña de Acesso Temporal -** esta contraseña temporal es generada al activar la Configuración "Acceso Temporal al Dispositivo" en el Modo Kiosco. La contraseña debe ser proporcionada al usuario del dispositivo y se actualizará en el portal cada 5 minutos, con opción de copiar y mostrar el tiempo restante hasta que la contraseña expire. Por lo tanto, si se ha definido un tiempo de 10 minutos para que los usuarios accedan al dispositivo, si exceden esos 10 minutos, no podrán usar la misma contraseña, ya que habrá sido actualizada. En el dispositivo, con la contraseña en mano, el usuario deberá acceder a las Configuraciones Iniciales, hacer clic en la opción Acceso Temporal y escribir la contraseña en el campo "Código".
 
 ### Instalación&#x20;
 
-* Estado Aplicado - si el dispositivo está completamente registrado, el estado será "Activo";
-* Fecha de registro - fecha de registro de los dispositivos.
-* Modo de gestión - muestra el modo de gestión utilizado.
-* Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
-* Nombre de la Política en el Dispositivo: nombre de la política asignada en el dispositivo;&#x20;
-* Versión de la Política Aplicada: versión de la política;&#x20;
-* Fecha de Sincronización de la Política: mostrará la fecha de sincronización de la política;&#x20;
-* En Conformidad: es la adherencia del dispositivo a todas las configuraciones de políticas asignadas a él. Si alguna configuración no se ha aplicado, el valor de esta opción será "No";&#x20;
-* Fecha de la Última Comunicación: mostrará la fecha en que el dispositivo se comunicó por última vez con el portal.
+* **Estado Aplicado -** si el dispositivo está completamente registrado, el estado será "Activo";
+* **Fecha de registro -** fecha de registro de los dispositivos.
+* **Modo de gestión -** muestra el modo de gestión utilizado.
+* **Versión de la aplicación -** versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
+* **Nombre de la Política en el Dispositivo -** nombre de la política asignada en el dispositivo;&#x20;
+* **Versión de la Política Aplicada -** versión de la política;&#x20;
+* **Fecha de Sincronización de la Política -** mostrará la fecha de sincronización de la política;&#x20;
+* **En Conformidad -** es la adherencia del dispositivo a todas las configuraciones de políticas asignadas a él. Si alguna configuración no se ha aplicado, el valor de esta opción será "No";&#x20;
+* **Fecha de la Última Comunicación -** mostrará la fecha en que el dispositivo se comunicó por última vez con el portal.
 
 ### Hardware&#x20;
 
-* Almacenamiento Interno - cuánto de almacenamiento interno tiene.
-* Batería - Cuántos % de batería está actualmente.
+* **Almacenamiento Interno -** cuánto de almacenamiento interno tiene.
+* **Batería -** Cuántos % de batería está actualmente.
 
 Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuraciones del dispositivo, como se ilustra en la imagen a continuación.
 
@@ -180,12 +180,12 @@ Además de poder editar los datos, se muestran más abajo en la pantalla dos lis
 
 ### **Información de Software**
 
-* Modo de gestión - muestra el modo de gestión utilizado.
-* Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
-* Fecha de la última actualización - fecha y hora en que la información del dispositivo se sincronizó con el portal. Esta fecha proviene de AMAPI (API de Google), es decir, es la información recopilada por la API de Google en el dispositivo.
-* Nombre de la Política en el Portal - nombre de la política asignada al dispositivo.
+* **Modo de gestión -** muestra el modo de gestión utilizado.
+* **Versión de la aplicación -** versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
+* **Fecha de la última actualización -** fecha y hora en que la información del dispositivo se sincronizó con el portal. Esta fecha proviene de AMAPI (API de Google), es decir, es la información recopilada por la API de Google en el dispositivo.
+* **Nombre de la Política en el Portal -** nombre de la política asignada al dispositivo.
 
 ### Información sobre el hardware&#x20;
 
-* Almacenamiento Interno - cuánto de almacenamiento interno tiene.
-* Batería - Cuántos % de batería está actualmente.
+* **Almacenamiento Interno -** cuánto de almacenamiento interno tiene.
+* **Batería -** Cuántos % de batería está actualmente.
