@@ -1,10 +1,10 @@
-# Companion
+# \<NomeProduto>
 
-### Permisos Opcionales del Companion&#x20;
+### Permisos Opcionales del \<NomeProduto>&#x20;
 
-Para el Companion, se han creado dentro de las Configuraciones Administradas los Permisos Opcionales, para posibilitar activar el companion en dispositivos que no poseen los permisos solicitados en la activación.
+Para el **\<NomeProduto>**, se han creado dentro de las Configuraciones Administradas los Permisos Opcionales, para posibilitar activar el **\<NomeProduto>** en dispositivos que no poseen los permisos solicitados en la activación.
 
-Por lo tanto, para acceder a los “Permisos Opcionales", haga clic en los tres puntos "...", ubicados al final de la línea y haga clic en la opción "Configuraciones Administradas" de la aplicación Companion.
+Por lo tanto, para acceder a los “Permisos Opcionales", haga clic en los tres puntos "...", ubicados al final de la línea y haga clic en la opción "Configuraciones Administradas" de la aplicación **\<NomeProduto>**.
 
 Al expandir las "Permisos Opcionales", se mostrarán varias opciones y será posible activar y desactivar cada una de las configuraciones.
 

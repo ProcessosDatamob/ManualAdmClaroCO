@@ -59,7 +59,7 @@ Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos,
 * **Tipo de red conectada (Wi-Fi/Móvil)** - indica si el dispositivo está conectado vía Wi-Fi o red móvil.
 * **Ancho de Banda (Móvil)** - el ancho de banda disponible para la red móvil.
 * **Ancho de Banda (Wi-Fi)** - el ancho de banda disponible para la red Wi-Fi.
-* <mark style="color:red;">**Latencia**</mark> <mark style="color:red;"></mark><mark style="color:red;">- el tiempo que tarda un paquete de datos en viajar desde su origen hasta su destino y regresar.</mark>
+* **Latencia** - el tiempo que tarda un paquete de datos en viajar desde su origen hasta su destino y regresar.
 * **Configuración de Banda** - configuración específica de la banda de frecuencia utilizada.
 * **Red Wi-Fi conectada** - nombre de la red Wi-Fi a la que el dispositivo está conectado.
 * **Fuerza de señal** - la intensidad de la señal de la red conectada.
@@ -69,28 +69,28 @@ Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos,
 * **Dirección MAC Wi-Fi** - dirección MAC del adaptador Wi-Fi del dispositivo.
 * **IP (Red Wi-Fi)** - dirección IP asignada al dispositivo en la red Wi-Fi, con protocolo IPv4.
 * **IPv6 (Red Wi-Fi)** - dirección IP asignada al dispositivo en la red Wi-Fi, con protocolo IPv6.
-* <mark style="color:red;">**Red BSSID**</mark> - identificador único de la red Wi-Fi, endereço MAC do ponto de acesso.
+* **Red BSSID** - identificador único de la red Wi-Fi, endereço MAC do ponto de acesso.
 * **Operadora de la Red Conectada** - nombre de la operadora de la red móvil conectada.
 * **Roaming de Datos Móviles** - indica si el dispositivo está en roaming de datos móviles.
 * **IP (Red móvil)** - dirección IP asignada al dispositivo en la red móvil, con protocolo IPv4.
 * **IPv6 (Red móvil)** - dirección IP asignada al dispositivo en la red móvil, con protocolo IPv6.
-* <mark style="color:red;">**SIM Conectada**</mark> - indica cuál tarjeta SIM está activa y conectada.
-* <mark style="color:red;">**Operadora SIM 1**</mark> - nombre de la operadora de la primera tarjeta SIM.
+* **SIM Conectada** - indica cuál tarjeta SIM está activa y conectada.
+* **Operadora SIM 1** - nombre de la operadora de la primera tarjeta SIM.
 * **Número de Teléfono SIM 1** - número de teléfono asociado a la primera tarjeta SIM.
 * **ICCID SIM 1** - identificador exclusivo de la tarjeta SIM 1.
 * **IMEI SIM 1** - IMEI de la entrada de la tarjeta SIM 1 del dispositivo. IMEI es el número de identificación internacional de equipo móvil, acrónimo en inglés para _International Mobile Equipment Identity_.
-* <mark style="color:red;">**Número de abonado SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número del suscriptor asociado al SIM 1. MSIN?</mark>
-* <mark style="color:red;">**MCC do SIM 1**</mark> - código del país de la tarjeta SIM 1.
-* <mark style="color:red;">**MNC do SIM 1**</mark> - código de la red móvil de la tarjeta SIM 1.
-* <mark style="color:red;">**Operador SIM 2**</mark> - nombre de la operadora de la tarjeta SIM 2.
+* **Número de abonado SIM 1** - número del suscriptor asociado al SIM 1. MSIN?
+* **MCC do SIM 1** - código del país de la tarjeta SIM 1.
+* **MNC do SIM 1** - código de la red móvil de la tarjeta SIM 1.
+* **Operador SIM 2** - nombre de la operadora de la tarjeta SIM 2.
 * **Número de Teléfono SIM 2** - número de teléfono asociado a la tarjeta SIM 2.
 * **ICCID SIM 2** - identificador exclusivo de la tarjeta SIM 2.
 * **IMEI SIM 2** - IMEI de la entrada de la tarjeta SIM 2 del dispositivo. IMEI es el número de identificación internacional de equipo móvil, acrónimo en inglés para _International Mobile Equipment Identity_.
-* <mark style="color:red;">**Número de abonado SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número del suscriptor asociado al SIM 2. MSIN?</mark>
-* <mark style="color:red;">**MCC do SIM 2**</mark> - código del país de la tarjeta SIM 2.
-* <mark style="color:red;">**MNC do SIM 2**</mark> - código de la red móvil de la tarjeta SIM 2.
+* **Número de abonado SIM 2** - número del suscriptor asociado al SIM 2. MSIN?
+* **MCC do SIM 2** - código del país de la tarjeta SIM 2.
+* **MNC do SIM 2** - código de la red móvil de la tarjeta SIM 2.
 * **DBM (RSRP - Potencia de la Antena)** - medida de la potencia de la señal con la antena conectada.
-* <mark style="color:red;">**Cell ID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificación de la celda a la que el dispositivo está conectado.</mark>
+* **Cell ID** - identificación de la celda a la que el dispositivo está conectado.
 * **LAC** - _Location Area Code**,**_ código de área de localización de la red conectada.
 * **Tecnología de la Antena** - tipo de tecnología de antena utilizada.
 

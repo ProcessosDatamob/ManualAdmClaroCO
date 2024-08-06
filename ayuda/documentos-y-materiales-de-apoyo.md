@@ -10,7 +10,6 @@ En esta pantalla es posible acceder a varios documentos:
 
 **Manual del Administrador:** guía para ayudar a los administradores a gestionar dispositivos y configuraciones.\
 **Manual del Usuario:** instrucciones para los usuarios sobre cómo instalar y activar la solución en dispositivos móviles.\
-**Manual del Block SIM:** información para que el usuario realice la instalación y activación de la funcionalidad de Bloqueo de Chip en los dispositivos.\
-**Release Notes:** detalles de las actualizaciones y nuevas funcionalidades añadidas al sistema en cada versión.
+**Manual del Block SIM:** información para que el usuario realice la instalación y activación de la funcionalidad de Bloqueo de Chip en los dispositivos.
 
-<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>

@@ -81,13 +81,13 @@ Esta falta de comunicación puede ocurrir cuando el dispositivo se encuentra en 
 * Sin conexión a Internet.
 * Aplicación desinstalada.
 
-<mark style="color:blue;">El cálculo de tiempo para considerar el dispositivo sin comunicación es el tiempo de sincronización configurado en la empresa + 10 minutos.</mark>
+El cálculo de tiempo para considerar el dispositivo sin comunicación es el tiempo de sincronización configurado en la empresa + 10 minutos.
 
-<mark style="color:blue;">Si el dispositivo no envía consumos generales/información del dispositivo durante un tiempo superior al tiempo de sincronización establecido + 10 minutos, cambia el estado a Sin comunicación.</mark>
+Si el dispositivo no envía consumos generales/información del dispositivo durante un tiempo superior al tiempo de sincronización establecido + 10 minutos, cambia el estado a Sin comunicación.
 
-<mark style="color:blue;">Para que el dispositivo vuelva a comunicarse, el administrador puede enviar un mensaje con el comando START\_SERVICES a través del menú Mensajes del portal.</mark>
+Para que el dispositivo vuelva a comunicarse, el administrador puede enviar un mensaje con el comando START\_SERVICES a través del menú Mensajes del portal.
 
-<mark style="color:blue;">Al hacer clic en el indicador Sin comunicación ,el sistema mostrará una pantalla que contiene el informe con la información de los dispositivos que están sin comunicación.</mark>
+Al hacer clic en el indicador Sin comunicación ,el sistema mostrará una pantalla que contiene el informe con la información de los dispositivos que están sin comunicación.
 
 ## **Consumo de Datos**
 
