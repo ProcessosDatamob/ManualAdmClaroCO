@@ -26,7 +26,7 @@
     * [Token de Registro](configuracion/administrar-politicas/token-de-registro.md)
   * [Registrar Nueva Política](configuracion/registrar-nueva-politica.md)
   * [Editar Política](configuracion/editar-politica/README.md)
-    * [Ajustes](configuracion/editar-politica/configuracion-general/README.md)
+    * [Ajustes general - Android totalmente administrado](configuracion/editar-politica/configuracion-general/README.md)
       * [Hardware](configuracion/editar-politica/configuracion-general/configuraciones-de-hardware.md)
       * [Pantalla](configuracion/editar-politica/configuracion-general/pantalla.md)
       * [Pantalla de Bloqueo](configuracion/editar-politica/configuracion-general/pantalla-de-bloqueo.md)

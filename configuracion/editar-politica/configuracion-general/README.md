@@ -1,14 +1,28 @@
-# Ajustes
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Los "Ajustes" se agrupan en los tipos:
+# Ajustes general - Android totalmente administrado
+
+Los "**Ajustes**" se agrupan en los tipos:
 
 * Hardware
+* Pantalla
 * Pantalla de Bloqueo
 * Red
 * Restricciones de contraseña
 * Seguridad
 * Sistema operativo
-* Pantalla
 * Trabajo
 * Ubicación
 * Usuario

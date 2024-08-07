@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # CONFIGURACIONES
 
 El menú de configuración permite acceder a la configuración de los perfiles de consumo y de las políticas de administración de dispositivos.
@@ -15,4 +29,4 @@ Las opciones del menú de configuración son:
 
 ![](<../.gitbook/assets/0 (23).png>)
 
-Las cuatro opciones del menú "Configuración" se detallan en las siguientes subsecciones.
+Las cuatro opciones del menú "**Configuraciones**" se detallan en las siguientes subsecciones.

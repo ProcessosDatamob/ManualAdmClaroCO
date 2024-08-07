@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Pantalla
 
 Seleccionando la pestaña de "Configuraciones" de la pantalla de "Edición de Políticas", haga clic en la opción "Pantalla" para visualizar las opciones de configuración de fondo de pantalla y rotación de pantalla. En la siguiente tabla, se describen las configuraciones:
