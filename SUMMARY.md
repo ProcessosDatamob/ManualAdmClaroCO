@@ -70,6 +70,7 @@
   * [Personalización de columnas para Visualización de Información](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/personalizacion-de-columnas-para-visualizacion-de-informacion.md)
   * [Nuevo Diseño de la Opción Gestionar Dispositivo](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/nuevo-diseno-de-la-opcion-gestionar-dispositivo.md)
   * [Configuración del Fondo de Pantalla Fuera del Modo Kiosco](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/configuracion-del-fondo-de-pantalla-fuera-del-modo-kiosco.md)
+  * [Actualización de las opciones de contraseña en el perfil Work Profile](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/actualizacion-de-las-opciones-de-contrasena-en-el-perfil-work-profile.md)
   * [Pantalla de Bloqueo Personalizada en el Security Browser](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/pantalla-de-bloqueo-personalizada-en-el-security-browser.md)
   * [Gestión de Sitios Favoritos del Security Browser](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/gestion-de-sitios-favoritos-del-security-browser.md)
   * [Datos de Conectividad del Dispositivo](release-notes/release-notes-less-than-nomeproduto-greater-than-version-11.0.0/datos-de-conectividad-del-dispositivo.md)
