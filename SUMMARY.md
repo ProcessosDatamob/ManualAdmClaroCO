@@ -38,6 +38,7 @@
       * [Ubicación](configuracion/editar-politica/configuracion-general/ubicacion.md)
       * [Usuario](configuracion/editar-politica/configuracion-general/usuario.md)
       * [VPN](configuracion/editar-politica/configuracion-general/configuracion-de-vpn.md)
+    * [Ajustes generales - Android - Work Profile](configuracion/editar-politica/ajustes-generales-android-work-profile.md)
     * [Modo Quiosco](configuracion/editar-politica/modo-quiosco.md)
     * [Aplicaciones](configuracion/editar-politica/aplicaciones/README.md)
       * [Bloqueo de Sitios de Web - Security Browser](configuracion/editar-politica/aplicaciones/bloqueo-de-sitios-web-security-browser.md)

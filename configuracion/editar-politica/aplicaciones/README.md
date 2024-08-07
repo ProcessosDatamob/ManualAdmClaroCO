@@ -162,7 +162,7 @@ Para definir restricciones de funcionamiento de aplicaciones por días y horario
 
 1. Ícono para acceder a la opción 'Restricciones de Funcionamiento'"
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Botón selector para activar restricciones.
 
