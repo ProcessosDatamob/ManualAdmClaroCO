@@ -2,20 +2,20 @@
 
 La pestaña de configuración de aplicaciones le permite administrar configuraciones, permisos, establecer el modo de instalación, así como, incluir y eliminar aplicaciones.
 
-La pantalla "Editar política" situada en la pestaña "Aplicaciones" se muestra a continuación.
+La pantalla "**Editar política**" situada en la pestaña "**Aplicaciones**" se muestra a continuación.
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-03-14 153400.png" alt=""><figcaption></figcaption></figure>
 
 La pantalla tiene las siguientes partes, según la numeración en la figura:
 
-1. Modo de selección de aplicaciones en Play Store - permite controlar cómo se mostrarán las aplicaciones en los dispositivos registrados en esta política. En el modo "Restricta", los usuarios solo pueden ver e instalar desde Google Play Store las aplicaciones elegidas por el administrador. Las otras aplicaciones se eliminarán y no estarán disponibles en los dispositivos.
+1. **Modo de selección de aplicaciones en Play Store -** permite controlar cómo se mostrarán las aplicaciones en los dispositivos registrados en esta política. En el modo "Restricta", los usuarios solo pueden ver e instalar desde Google Play Store las aplicaciones elegidas por el administrador. Las otras aplicaciones se eliminarán y no estarán disponibles en los dispositivos.
 
 El modo “Abierta” permite la instalación de aplicaciones que no están en la Google Play Administrada, o sea el usuario podrá consultar e instalar cualquier aplicación disponible en la tienda Play Store.&#x20;
 
 {% hint style="info" %}
 **NOTA**
 
-Al seleccionar la opción “Abierta”, las aplicaciones agregadas a la política mostrarán el tipo de instalación: Instalación Forzada, al entender que todas las aplicaciones ya están disponibles.
+Al seleccionar la opción “Abierta”, las aplicaciones agregadas a la política mostrarán el tipo de instalación: **Instalación Forzada**, al entender que todas las aplicaciones ya están disponibles.
 {% endhint %}
 
 2. Utilice el cuadro de búsqueda para buscar aplicaciones dentro de la lista que aparece.
@@ -31,18 +31,26 @@ Al seleccionar la opción “Abierta”, las aplicaciones agregadas a la políti
 **NOTA**
 
 Si el usuario elige la opción “Pre instalada” deberá considerar que las aplicaciones se instalaran en ese momento ignorando si el dispositivo está en WIFI o si está usando la red de datos lo que podría traducirse en un alto consumo de datos. Es necesario asegurarse que el dispositivo esté conectado a WIFI si se utilizarán aplicaciones “Pre instaladas”.
+
+
+
+Es importante destacar que el tipo de instalación "Preinstalado" de una aplicación, ocurre solo una vez en el dispositivo. Es decir: cuando una aplicación es preinstalada es eliminada por el usuario, al cambiar la política que tiene la misma aplicación con el tipo de instalación "preinstalado" la aplicación no se mostrará en el dispositivo ya que fue removida anteriormente.
+
+Para que la aplicación se presente en el dispositivo con el tipo de instalación "preinstalado" es necesario realizar el comando "Remover Dispositivo (WIPE)" en el portal o factory reset a través del dispositivo".
 {% endhint %}
 
-5. Otras acciones "...":  permite acceder a las opciones de acciones disponibles para la aplicación: "Configuraciones Administradas", "Permisos", "Configuraciones Avanzadas" y "Eliminar Aplicación".
-6. Agregar Aplicaciones: Permite añadir aplicaciones para su gestión. Para obtener más información, acceda al contenido "Agregar Aplicaciones" en esta página.
-7. Restricciones de Funcionamiento: Permite crear restricciones de acceso a las aplicaciones por horario, para definir los momentos en los que las aplicaciones no podrán ser accedidas. Para más información, acceda al contenido "Restricciones de Funcionamiento" en esta página.
+
+
+5. Otras acciones "...":  permite acceder a las opciones de acciones disponibles para la aplicación: "[Configuraciones Administradas](./#configuraciones-administradas)", "[Permisos](./#permisos)", "[Configuraciones Avanzadas](./#configuraciones-avanzadas)" y "[Eliminar Aplicación](./#eliminar-aplicacion)".
+6. **Agregar Aplicaciones:** Permite añadir aplicaciones para su gestión. Para obtener más información, acceda al contenido "[Agregar Aplicaciones](./#agregar-aplicaciones)" en esta página.
+7. **Restricciones de Funcionamiento:** Permite crear restricciones de acceso a las aplicaciones por horario, para definir los momentos en los que las aplicaciones no podrán ser accedidas. Para más información, acceda al contenido "[Restricciones de Funcionamiento](./#restricciones-de-funcionamiento)" en esta página.
 
 ## **Configuraciones Administradas**
 
-Para acceder a la configuración administrada de una aplicación, debe estar en la pantalla "Editar política" con la pestaña "Aplicaciones" seleccionada. Siga los siguientes pasos:
+Para acceder a la configuración administrada de una aplicación, debe estar en la pantalla "**Editar política**" con la pestaña "**Aplicaciones**" seleccionada. Siga los siguientes pasos:
 
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
-2. Haga clic en "Configuración administrada".
+2. Haga clic en "**Configuraciones Administradas**".
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2023-11-06 174309.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +58,7 @@ La pantalla siguiente será mostrada:
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-05-16 145644.png" alt=""><figcaption></figcaption></figure>
 
-En esta pantalla es posible ver la identificación de la aplicación seleccionada y la pantalla de configuración que fue elegida ("Configuraciones Gestionadas");
+En esta pantalla es posible ver la identificación de la aplicación seleccionada y la pantalla de configuración que fue elegida ("**Configuraciones Administradas**");
 
 {% hint style="info" %}
 **NOTA**
@@ -60,10 +68,10 @@ Las configuraciones disponibles se mostrarán según lo que esté disponible par
 
 ## **Permisos**
 
-Para acceder a la configuración de permisos de una aplicación, debe estar en la pantalla "Editar política" con la pestaña "Aplicaciones" seleccionada. Siga los siguientes pasos:
+Para acceder a la configuración de permisos de una aplicación, debe estar en la pantalla "Editar política" con la pestaña "**Aplicaciones**" seleccionada. Siga los siguientes pasos:
 
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
-2. Haga clic en "Permisos".
+2. Haga clic en "**Permisos**".
 
 ![](<../../../.gitbook/assets/4 (14).png>)
 
@@ -80,10 +88,10 @@ Si la opción “Permisos" aparece deshabilitada en el sistema, es para evitar q
 
 ## **Configuraciones Avanzadas**
 
-Para acceder a la configuración avanzada de una aplicación, debe estar en la pantalla "Editar política" con la pestaña "Aplicaciones" seleccionada. Siga los siguientes pasos:
+Para acceder a la configuración avanzada de una aplicación, debe estar en la pantalla "**Editar política**" con la pestaña "**Aplicaciones**" seleccionada. Siga los siguientes pasos:
 
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
-2. Haga clic en "Configuración avanzada".
+2. Haga clic en "**Configuraciones Avanzadas**".
 
 ![](<../../../.gitbook/assets/6 (13).png>)
 
@@ -96,10 +104,10 @@ Después del paso 2 se mostrará la siguiente pantalla. En esta pantalla tenemos
 
 ## **Eliminar Aplicación**
 
-Para eliminar una aplicación de la directiva, debe estar en la pantalla "Editar política" con la pestaña "Aplicaciones" seleccionada. Siga los siguientes pasos:
+Para eliminar una aplicación de la directiva, debe estar en la pantalla "**Editar política**" con la pestaña "**Aplicaciones**" seleccionada. Siga los siguientes pasos:
 
 1. Localice la aplicación deseada y haga clic en los tres puntos al final de la línea para mostrar el menú con más opciones;
-2. Haga clic en "Eliminar aplicación".
+2. Haga clic en "**Eliminar aplicación**".
 
 ![](<../../../.gitbook/assets/8 (12).png>)
 
@@ -117,26 +125,35 @@ La aplicación se eliminará de la lista de aplicaciones de la política que se 
 
 La opción Agregar aplicaciones tendrá diferentes comportamientos cuando el Modo Quiosco está activado o desactivado.
 
-* **Modo Kiosco Desactivado:** Al hacer clic en el botón "Agregar Aplicaciones", si se trata de una política con modo kiosco desactivado, se mostrarán dos opciones: Play Store, que incluye la lista de aplicaciones que fueron añadidas usando Google Play Administrado, y la opción Manual, que permite agregar aplicaciones de forma manual.
+* **Modo Kiosco Desactivado:** Al hacer clic en el botón "**Agregar Aplicaciones**", si se trata de una política con modo kiosco desactivado, se mostrarán dos opciones: Play Store, que incluye la lista de aplicaciones que fueron añadidas usando [**Google Play Administrado**](../../../gestion-de-aplicaciones/google-play-administrada.md), y la opción Manual, que permite agregar aplicaciones de forma manual.
 
 <figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
-* **Modo Quiosco Habilitado:** Si la política que se está editando es una política con el Modo Quiosco Habilitado, al hacer clic en el botón Agregar aplicaciones, se mostrarán las 3 opciones para agregar las aplicaciones.
+* **Modo Quiosco Habilitado:** Si la política que se está editando es una política con el Modo Quiosco Habilitado, al hacer clic en el botón **Agregar aplicaciones**, se mostrarán las 3 opciones para agregar las aplicaciones.
 
 <figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 * **Sistema**
 
-Haga clic en la opción "Sistema", y abrirá la pantalla "Añadir del sistema" Seleccionar el fabricante y el dispositivo Seleccionar una o más aplicaciones haciendo clic en la casilla Haga clic en el botón "Añadir seleccionados"
+1. Haga clic en la opción "**Sistema**", y se abrirá la pantalla "**Aplicaciones del sistema**"
+2. Seleccione el fabricante y el dispositivo
+3. Seleccione una o más aplicaciones haciendo clic en la casilla
+4. Haga clic en el botón "**Añadir seleccionados**"
+
+<figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 * **Playstore**
 
-Haga clic en la opción "Playstore", y abrirá la pantalla "Agregar aplicaciones" Seleccionar una o más aplicaciones haciendo clic en la casilla Haga clic en el botón "Añadir seleccionados"
+1. Haga clic en la opción "**Playstore**", y se abrirá la pantalla "**Agregar aplicaciones**"
+2. Seleccione una o más aplicaciones haciendo clic en la casilla
+3. Haga clic en el botón "**Añadir seleccionados**"
+
+<figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 IMPORTANTE
 
-Las aplicaciones deben agregarse primero con Google Play Administrado.
+Las aplicaciones deben agregarse primero con **Google Play Administrado.**
 {% endhint %}
 
 * **Manual**
@@ -152,9 +169,13 @@ El tipo de instalación será "Disponible" y permitirá cambiar el tipo de insta
 Si la aplicación no está en Google Play, las opciones "Preinstalado" e "Instalación forzada" tendrán el mismo efecto que la opción "Disponible". Es decir, la aplicación estará disponible para instalación y el usuario tendrá la opción de instalarla según su conveniencia. No se instala automáticamente en el dispositivo.
 {% endhint %}
 
+<figure><img src="../../../.gitbook/assets/image (161).png" alt="" width="447"><figcaption></figcaption></figure>
+
 * **Remota**
 
-Los aplicativos enviados mediante instalación remota, a través del menú "Instalación Remota de Aplicaciones", se mostrarán en la lista de aplicativos con el ORIGEN = "Remota" y con el tipo de instalación 'Disponible' con la edición bloqueada.
+Los aplicativos enviados mediante instalación remota, a través del menú "**Instalación Remota de Aplicaciones**", se mostrarán en la lista de aplicativos con el ORIGEN = "Remota" y con el tipo de instalación 'Disponible' con la edición bloqueada.
+
+
 
 ### Restricciones de Funcionamiento
 
