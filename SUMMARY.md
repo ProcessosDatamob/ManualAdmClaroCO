@@ -93,6 +93,7 @@
     * [Eliminación de Aplicaciones Gestionadas](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/eliminacion-de-aplicaciones-gestionadas.md)
     * [Nuevas Configuraciones en el QR Code](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/nuevas-configuraciones-en-el-qr-code.md)
     * [Eliminación de la Localización Automática en el Dashboard](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/eliminacion-de-la-localizacion-automatica-en-el-dashboard.md)
+    * [Modo de gestión de perfil de trabajo - Work Profile](release-notes/release-notes-less-than-nomeproduto-greater-than-version-9.0.0/modo-de-gestion-de-perfil-de-trabajo-work-profile.md)
   * [Release Notes \<NomeProduto> Versión 8.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-version-8.0.0/README.md)
     * [Configuraciones de Conectividad](release-notes/release-notes-less-than-nomeproduto-greater-than-version-8.0.0/configuraciones-de-conectividad.md)
   * [Release Notes \<NomeProduto> Versión 7.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-version-7.0.0/README.md)
