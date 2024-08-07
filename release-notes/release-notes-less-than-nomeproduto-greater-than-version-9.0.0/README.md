@@ -9,3 +9,4 @@
 5. [Start Service en el Companion](service-en-el-companion.md)
 6. [Eliminación de Aplicaciones Gestionadas en el QR Code](eliminacion-de-aplicaciones-gestionadas.md)
 7. [Eliminación de la Localización Automática en el Dashboard](eliminacion-de-la-localizacion-automatica-en-el-dashboard.md)
+8.
