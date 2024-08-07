@@ -1,12 +1,26 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # \<NomeProduto>
 
 ### Permisos Opcionales del \<NomeProduto>&#x20;
 
 Para el **\<NomeProduto>**, se han creado dentro de las Configuraciones Administradas los Permisos Opcionales, para posibilitar activar el **\<NomeProduto>** en dispositivos que no poseen los permisos solicitados en la activación.
 
-Por lo tanto, para acceder a los “Permisos Opcionales", haga clic en los tres puntos "...", ubicados al final de la línea y haga clic en la opción "Configuraciones Administradas" de la aplicación **\<NomeProduto>**.
+Por lo tanto, para acceder a los “**Permisos Opcionales**", haga clic en los tres puntos "...", ubicados al final de la línea y haga clic en la opción "**Configuraciones Administradas**" de la aplicación **\<NomeProduto>**.
 
-Al expandir las "Permisos Opcionales", se mostrarán varias opciones y será posible activar y desactivar cada una de las configuraciones.
+Al expandir las "**Permisos Opcionales**", se mostrarán varias opciones y será posible activar y desactivar cada una de las configuraciones.
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
