@@ -36,9 +36,7 @@ Para elegir una aplicación pública, vaya al menú "**Google Play Administrada*
 
 Al seleccionar una aplicación, el sistema solicitará confirmación antes de incluirla en la lista de aplicaciones. Haga clic en "**Confirmar**" para incluir la aplicación o seleccione "**Cancelar**" para no realizar la inclusión.
 
-![Interface gráfica do usuário, Aplicativo
-
-Descrição gerada automaticamente](<../../.gitbook/assets/9 (14).png>)
+![](<../../.gitbook/assets/9 (14).png>)
 
 Para ver la lista de las aplicaciones incluidas, vuelva a la pantalla "[Aplicaciones administradas](aplicaciones-administradas.md)".&#x20;
 

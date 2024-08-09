@@ -26,8 +26,7 @@ Los "**Ajustes**" se agrupan en los tipos:
 * Trabajo
 * Ubicación
 * Usuario
-* VPN\
-
+* VPN
 
 Cada grupo de configuración presenta varias opciones posibles para la política. Haga clic para verlas. La imagen abajo muestra la pantalla con los grupos de configuraciones de "Ajustes".
 
