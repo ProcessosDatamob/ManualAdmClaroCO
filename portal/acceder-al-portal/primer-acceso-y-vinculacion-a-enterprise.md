@@ -104,5 +104,3 @@ Después de confirmar los datos, se mostrará la pantalla del Portal de administ
 ![](<../../.gitbook/assets/6 (5).png>)
 
 Haga clic en "Ok" y podrá iniciar la configuración necesaria para administrar los dispositivos de su empresa.
-
-##

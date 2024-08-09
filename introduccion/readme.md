@@ -42,10 +42,6 @@ En caso de que los servidores de la solución no estén disponibles, la aplicaci
 
 Todos los datos enviados por el portal y recibidos por el dispositivo permanecen almacenados, lo que garantiza que las políticas de bloqueo permanezcan activas, incluso cuando no se tenga acceso a Internet e independientemente de la disponibilidad de los servidores. La conexión será necesaria solo para recibir nuevas políticas y mensajes o enviar los datos al Portal.
 
-##
-
-
-
 ## Compatibilidad de Dispositivos
 
 El producto **\<NomeProduto>** fue creado en asociación con Google en el programa Android Enterprise. Google mantiene una lista de dispositivos homologados y recomendados para su uso con Android Enterprise en su Directorio de Soluciones Enterprise.  Para tener acceso a los dispositivos recomendados dentro del programa Android Enterprise, es necesario dirigirse al Directorio de Soluciones de Google utilizando el enlace proporcionado: [https://androidenterprisepartners.withgoogle.com/devices/](https://androidenterprisepartners.withgoogle.com/devices/).
