@@ -46,6 +46,7 @@
       * [Aplicaciones](portal/configuracion/editar-politica/aplicaciones/README.md)
         * [Bloqueo de Sitios de Web - Security Browser](portal/configuracion/editar-politica/aplicaciones/bloqueo-de-sitios-web-security-browser.md)
         * [\<NomeProduto>](portal/configuracion/editar-politica/aplicaciones/less-than-nomeproduto-greater-than.md)
+        * [Mob Settings](portal/configuracion/editar-politica/aplicaciones/mob-settings.md)
     * [Perfil de Consumo](portal/configuracion/perfil-de-consumo.md)
     * [Administrar Redes Wifi](portal/configuracion/administrar-redes-wifi.md)
   * [Dispositivos](portal/dispositivos/README.md)
