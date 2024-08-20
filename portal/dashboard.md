@@ -43,13 +43,13 @@ La barra de estado de Dashboard muestra el estatus actual de todos los usuarios 
 
 ## **Total de Usuarios**
 
-Este indicador muestra el número total de usuarios de dispositivos que utilizan la aplicación **\<NomeProduto>.**
+Este indicador muestra el número total de usuarios de dispositivos que utilizan la aplicación **Claro Monitor Empresarial.**
 
 ![](<../.gitbook/assets/19 (4).png>)
 
 ## **Total de Licencias**
 
-Este indicador muestra el número total de licencias disponibles en el portal **\<NomeProduto>**.
+Este indicador muestra el número total de licencias disponibles en el portal **Claro Monitor Empresarial**.
 
 ![](<../.gitbook/assets/20 (4).png>)
 
@@ -67,7 +67,7 @@ Este indicador muestra el número total de dispositivos que están activos en el
 
 ![](<../.gitbook/assets/0 (3).png>)
 
-* **Total -** Estos dispositivos se consideran "activos" al instalar y activar la aplicación **\<NomeProduto>**. Al hacer clic en "Total" el indicador mostrará la pantalla "Lista de dispositivos" que contiene el reporte con la información clave de los dispositivos activos
+* **Total -** Estos dispositivos se consideran "activos" al instalar y activar la aplicación **Claro Monitor Empresarial**. Al hacer clic en "Total" el indicador mostrará la pantalla "Lista de dispositivos" que contiene el reporte con la información clave de los dispositivos activos
 
 Al hacer clic en "Total" el indicador mostrará la pantalla "Lista de dispositivos" que contiene el informe con la información clave de los dispositivos activos.
 
@@ -154,7 +154,7 @@ Este indicador muestra el porcentaje de los 5 sitios más visitados en los dispo
 {% hint style="warning" %}
 **ATENCIÓN**
 
-Los sitios web visitados son obtenidos por el navegador web predeterminado del sistema  **\<NomeProduto>**. Este navegador se llama Security Browser y necesita estar instalado y configurado en los dispositivos. Para obtener más información sobre la administración y configuración del navegador, visite la sección "[Security Browser"](configuracion/editar-politica/aplicaciones/bloqueo-de-sitios-web-security-browser.md).
+Los sitios web visitados son obtenidos por el navegador web predeterminado del sistema  **Claro Monitor Empresarial**. Este navegador se llama Security Browser y necesita estar instalado y configurado en los dispositivos. Para obtener más información sobre la administración y configuración del navegador, visite la sección "[Security Browser"](configuracion/editar-politica/aplicaciones/bloqueo-de-sitios-web-security-browser.md).
 {% endhint %}
 
 ![Gráfico, Gráfico de barras
