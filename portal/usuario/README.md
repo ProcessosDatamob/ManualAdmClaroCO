@@ -1,6 +1,6 @@
-# USUARIO
+# Usuario
 
-Todos los usuarios del sistema se pueden clasificar en tres tipos: administrador de empresa, administrador de grupo y usuario de dispositivo. Para saber cómo administrar cada uno de ellos solo tiene que acceder a las sesiones "[Gestionar usuarios administradores](gestionar-usuarios-administradores.md)", "[Registrar nuevo administrador](registrar-nuevo-usuario-administrador.md)" y "[Lista de dispositivos](../dispositivos/lista-de-dispositivos/)" en este manual.
+Todos los usuarios del sistema se pueden clasificar en tres tipos: administrador de empresa, administrador de grupo y usuario de dispositivo. Para saber cómo administrar cada uno de ellos solo tiene que acceder a las sesiones "[Gestionar usuarios administradores](broken-reference)", "[Registrar nuevo administrador](broken-reference)" y "[Lista de dispositivos](broken-reference)" en este manual.
 
 Las características de los diferentes tipos de usuarios del sistema se describen en las siguientes subsecciones.
 
