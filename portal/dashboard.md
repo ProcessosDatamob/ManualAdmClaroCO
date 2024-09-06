@@ -6,9 +6,7 @@ Para saber cómo acceder y analizar los datos mostrados en el Dashboard, siga lo
 
 La pantalla de Dashboard puede ser considerada la "Pantalla de Inicio" del sistema, pues se muestra inmediatamente después de que el usuario acceda al Portal, pero también se puede acceder haciendo clic en el menú "Dashboard". En un primer acceso, los indicadores de usuarios, dispositivos y consumos no tendrán aún información, por lo que estarán en cero.
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
-
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 Al acceder a la pantalla, toda la información se mostrará separada por secciones. Cada sección corresponde a un dato diferente, obtenido del dispositivo y toda la información se muestra de acuerdo con las opciones seleccionadas en el filtro (Empresa, Grupo o Usuario).
 
@@ -41,9 +39,7 @@ En la esquina superior derecha de la pantalla, tenemos algunos iconos que tienen
 
 La barra de estado de Dashboard muestra el estatus actual de todos los usuarios y licencias de la empresa.
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
-
-![](<../.gitbook/assets/18 (4).png>)
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 ## **Total de Usuarios**
 
@@ -55,7 +51,7 @@ Este indicador muestra el número total de usuarios de dispositivos que utilizan
 
 Este indicador muestra el número total de licencias disponibles en el portal **\<NomeProduto>**.
 
-![](<../.gitbook/assets/20 (4).png>)
+<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 ## **Licencias sin uso**
 
@@ -97,19 +93,13 @@ Al hacer clic en el indicador Sin comunicación ,el sistema mostrará una pantal
 
 Este indicador muestra el porcentaje de consumo de datos móviles de los dispositivos durante el ciclo con respecto al límite total configurado en el perfil de consumo. Si no se establece un límite en el perfil de consumo, el gráfico no muestra el porcentaje y el sistema solo muestra el valor total de datos en MB utilizado.
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
-
-![Diagrama
-
-Descrição gerada automaticamente](<../.gitbook/assets/2 (3).png>)
+<figure><img src="../.gitbook/assets/Captura de tela 2024-09-06 144221.png" alt=""><figcaption></figcaption></figure>
 
 ## **Consumo de SMS**
 
 Este indicador muestra el porcentaje de consumo de SMS enviados por los dispositivos durante el ciclo con respecto al límite total configurado en el perfil de consumo. Si no se establece un límite en el perfil de consumo, el gráfico no muestra el porcentaje y solo muestra el valor total de SMS utilizado.
 
-![Uma imagem contendo Diagrama
-
-Descrição gerada automaticamente](<../.gitbook/assets/3 (3).png>)
+<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -122,7 +112,7 @@ Descrição gerada automaticamente](<../.gitbook/assets/3 (3).png>)
 * <mark style="color:red;">Porcentaje del consumo de datos móviles locales en relación con el total de datos (móviles + Wi-Fi).</mark>
 * <mark style="color:red;">Porcentaje del consumo de datos vía Wi-Fi en relación con el total de datos (móviles + Wi-Fi).</mark>
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
+<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**Leyenda Mostrada:**</mark>
 
@@ -138,7 +128,7 @@ Descrição gerada automaticamente](<../.gitbook/assets/3 (3).png>)
 * <mark style="color:red;">Porcentaje de datos móviles en roaming (móviles + roaming + Wi-Fi).</mark>
 * <mark style="color:red;">Porcentaje de Wi-Fi (móviles + roaming + Wi-Fi).</mark>
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
+<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**Leyenda Mostrada:**</mark>
 
@@ -165,11 +155,7 @@ Al hacer clic en el botón “Ver lista completa” el sistema exhibirá en pant
 
 <mark style="color:red;">Esto ofrece a los usuarios una visión más detallada y específica del consumo de datos, permitiendo un análisis más preciso y segmentado, tanto en redes móviles como en WiFi.</mark>
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
-
-![Uma imagem contendo Interface gráfica do usuário
-
-Descrição gerada automaticamente](<../.gitbook/assets/4 (3).png>)
+<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 ## **Consumo de Datos por Usuario**
 
@@ -179,11 +165,7 @@ El valor porcentual de cada uno de los 5 usuarios se calcula en relación con la
 
 Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla con la información de consumo de la empresa. Para saber cómo utilizar esta pantalla, lea la sección "[Consumo de la empresa](empresa/consumo-de-la-empresa.md)" de este manual.
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
-
-![Gráfico
-
-Descrição gerada automaticamente](<../.gitbook/assets/5 (3).png>)
+<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 ## **Tiempo de uso por aplicación**
 
@@ -199,9 +181,7 @@ Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla
 
 Este indicador muestra el porcentaje de los 5 fabricantes de dispositivos activos. El valor porcentual de cada uno de los 5 fabricantes se calcula en relación con la suma total de todos los dispositivos activos.
 
-![Gráfico, Gráfico de explosão solar
-
-Descrição gerada automaticamente](<../.gitbook/assets/7 (2).png>)
+<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
 ## **Sitios más visitados**
 
@@ -265,9 +245,7 @@ Utilice los recursos del mapa para optimizar la visualización de las ubicacione
 
 En esta pantalla tendremos acceso a los manuales descargables. Al hacer clic en "Más información", se mostrará la pantalla con Documentos y Materiales de Apoyo.
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
-
-![](<../.gitbook/assets/13 (2).png>)
+<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 ## **Alguna Duda**
 
@@ -275,12 +253,8 @@ A través de la sesión “_Alguna duda?_" tendremos acceso a la pantalla donde 
 
 <mark style="color:red;background-color:orange;">ATUALIZAR IMAGENS</mark>
 
-<figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 170641.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 Al hacer clic en "Más información", nos dirigiremos a la siguiente pantalla, donde es posible realizar una búsqueda a través del campo de escritura libre o bien filtrar por categoría.
 
 <figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
-
-Al desplazar la pantalla más abajo, tendremos acceso a la lista de preguntas frecuentes y, al final de la página, tendremos acceso también a los manuales de descarga, así como tenemos en el Dashboard.
-
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
