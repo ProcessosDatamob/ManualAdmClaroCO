@@ -2,26 +2,27 @@
 
 Para saber cómo administrar los dispositivos activos de la empresa, siga los pasos descritos a continuación.
 
-1. Haga clic en el menú "Dispositivos" opción "Lista de dispositivos" para acceder a la pantalla.
+Haga clic en el menú "Dispositivos" opción "Lista de dispositivos" para acceder a la pantalla.
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2023-11-03 103939.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-07-10 162845.png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">Se mostrará la siguiente pantalla:</mark>
 
-2. En la parte superior de la pantalla, el sistema muestra la distribución de los dispositivos, separados por fabricantes.
-3. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar.
-4. Utilice los Filtros Avanzados para buscar Modo de Administración, Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.
-5. Para localizar un dispositivo específico, ingrese el número de teléfono, nombre del usuario, IMEI, ICCID, departamento o teléfono del usuario del dispositivo en el campo "Buscar".
-6. Para exportar el informe de los dispositivos, haga clic en el botón "Excel". El sistema mostrará en el informe sólo la información de las columnas visibles en la pantalla.
-7. Para copiar la información de los dispositivos, haga clic en el botón "Copiar". El sistema copiará al portapapeles sólo la información de las columnas visibles en la pantalla.
-8. Haga clic en la opción de "Acciones en lote" para aplicar una acción a varios dispositivos a la vez. Para más información, acceda al contenido Acciones en lote en esta página.
-9. La lista de dispositivos se muestra en la parte inferior de la pantalla. Al desplazar la barra horizontalmente, es posible visualizar toda la información de las columnas mostradas.
-10. Ordene las columnas: Usuario, Identificación, Licencia, IMEI, Modelo, Fecha de Registro y Fecha de la última comunicación, utilizando las flechas "↑↓" al lado de cada columna.
-11. Haga clic en el ícono de configuraciones para seleccionar las columnas que quedarán visibles, y luego haga clic en "Guardar" para definir la configuración como predeterminada de la pantalla del usuario conectado.\
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-09-06 152358.png" alt=""><figcaption></figcaption></figure>
 
+1. En la parte superior de la pantalla, el sistema muestra la distribución de los dispositivos, separados por fabricantes.
+2. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar.
+3. Utilice los Filtros Avanzados para buscar Modo de Administración, Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.
+4. Para localizar un dispositivo específico, ingrese el número de teléfono, nombre del usuario, IMEI, ICCID, departamento o teléfono del usuario del dispositivo en el campo "Buscar".
+5. Para exportar el informe de los dispositivos, haga clic en el botón "Excel". El sistema mostrará en el informe sólo la información de las columnas visibles en la pantalla.
+6. Para copiar la información de los dispositivos, haga clic en el botón "Copiar". El sistema copiará al portapapeles sólo la información de las columnas visibles en la pantalla.
+7. Haga clic en la opción de "Acciones en lote" para aplicar una acción a varios dispositivos a la vez. Para más información, acceda al contenido Acciones en lote en esta página.
+8. La lista de dispositivos se muestra en la parte inferior de la pantalla.&#x20;
+9. Ordene las columnas: Usuario, Identificación, Licencia, IMEI, Modelo, Fecha de Registro y Fecha de la última comunicación, utilizando las flechas "↑↓" al lado de cada columna.
+10. Use los tres puntos "..." para mostrar el menú de acciones y aplicar la acción deseada al dispositivo.
+11. <mark style="color:red;">Haga clic en el ícono de filtro para seleccionar las columnas que serán visibles, use el campo de búsqueda para buscar las columnas por texto y realizar el filtro, luego haga clic en "Guardar" para definir la configuración como predeterminada para la pantalla del usuario que ha iniciado sesión. Si el usuario no realiza la personalización, se mostrarán las siguientes columnas como predeterminadas: Usuario, Identificación, Licencia, IMEI, Modelo y Política.</mark>
 
-    <figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
-12. Use los tres puntos "..." para mostrar el menú de acciones y aplicar la acción deseada al dispositivo.
+<figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
 ### Acciones por lotes
 

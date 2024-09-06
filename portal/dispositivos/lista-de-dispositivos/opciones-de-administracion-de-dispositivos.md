@@ -1,14 +1,26 @@
-# Opciones de administración de dispositivos
+# Información del Dispositivo
 
 En la pantalla de "Dispositivos" dentro de "Lista de Dispositivos" se puede acceder a la información del dispositivo haciendo clic en el botón de información.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-07-10 163356.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
 Después de hacer clic en el ícono mencionado, se mostrará la siguiente pantalla, donde tendremos acceso a la Información del dispositivo:
 
-<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+<mark style="color:red;">La fecha que aparece en</mark> <mark style="color:red;"></mark><mark style="color:red;">**Última Actualización**</mark> <mark style="color:red;"></mark><mark style="color:red;">en la esquina superior derecha de la pantalla de Información del dispositivo, es la fecha de actualización del dispositivo en Google, es decir, se refiere a la comunicación de AMAPI con el portal. Los datos que se actualizan son:</mark>
+
+* <mark style="color:red;">Detalles</mark>
+* <mark style="color:red;">Instalación</mark>
+* <mark style="color:red;">Informe de No conformidad</mark>
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">A continuación, detallaremos la información contenida en cada uno de los campos de las imágenes anteriores:</mark>
 
 ### Detalles&#x20;
 
@@ -38,14 +50,26 @@ Después de hacer clic en el ícono mencionado, se mostrará la siguiente pantal
 * **Versión de la Política Aplicada -** versión de la política;&#x20;
 * **Fecha de Sincronización de la Política -** mostrará la fecha de sincronización de la política;&#x20;
 * **En Conformidad -** es la adherencia del dispositivo a todas las configuraciones de políticas asignadas a él. Si alguna configuración no se ha aplicado, el valor de esta opción será "No";&#x20;
-* **Fecha de la Última Comunicación -** mostrará la fecha en que el dispositivo se comunicó por última vez con el portal.
+*   **Fecha de la Última Comunicación -** mostrará la fecha en que el dispositivo se comunicó por última vez con el portal.\
+    <mark style="color:red;">Los datos que se actualizan en el portal cuando la</mark> <mark style="color:red;"></mark><mark style="color:red;">**Fecha de Última Comunicación**</mark> <mark style="color:red;"></mark><mark style="color:red;">se actualiza son:</mark>
+
+    <mark style="color:red;">**Pantalla de Información del Dispositivo:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Los datos que se actualizan en el portal serán exactamente los que estén en el dispositivo en el momento de la última comunicación.</mark>
+
+    * <mark style="color:red;">**Hardware:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Batería y almacenamiento</mark>
+    * <mark style="color:red;">**Permisos:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Todos</mark>
+    * <mark style="color:red;">**Conectividad:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Todos los datos listados en Conectividad</mark>
 
 ### Hardware&#x20;
 
-* **Almacenamiento Interno -** cuánto de almacenamiento interno tiene.
-* **Batería -** Cuántos % de batería está actualmente.
-
-Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuraciones del dispositivo, como se ilustra en la imagen a continuación.
+* <mark style="color:red;">**Memoria Total:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad total de memoria RAM disponible en el dispositivo.</mark>
+* <mark style="color:red;">**Memoria Disponible:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad de memoria RAM actualmente libre y disponible para uso en el dispositivo.</mark>
+* <mark style="color:red;">**Almacenamiento Interno Total:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad total de almacenamiento interno que posee el dispositivo.</mark>
+* <mark style="color:red;">**Almacenamiento Interno Disponible:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad de almacenamiento interno actualmente libre y disponible para uso en el dispositivo.</mark>
+* <mark style="color:red;">**Almacenamiento Total en la Tarjeta SD:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad total de almacenamiento disponible en la tarjeta SD insertada en el dispositivo.</mark>
+* <mark style="color:red;">**Almacenamiento Disponible en la Tarjeta SD:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad de almacenamiento actualmente libre y disponible en la tarjeta SD insertada en el dispositivo.</mark>
+* <mark style="color:red;">**Procesador:**</mark> <mark style="color:red;"></mark><mark style="color:red;">información sobre el procesador del dispositivo, incluyendo el modelo y la velocidad.</mark>
+* <mark style="color:red;">**Salud de la Batería:**</mark> <mark style="color:red;"></mark><mark style="color:red;">estado general de la batería del dispositivo, indicando su capacidad y condición.</mark>
+* <mark style="color:red;">**Ciclo de Carga de la Batería:**</mark> <mark style="color:red;"></mark><mark style="color:red;">número de ciclos completos de carga y descarga que ha experimentado la batería del dispositivo.</mark>
 
 ### **Permisos**
 
@@ -53,6 +77,9 @@ Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos,
 * **Ignorar Optimización de Batería:** estado sí o no, si el usuario no activa este permiso, la aplicación podrá verse afectada por las configuraciones de optimización de batería, dejará de capturar las ubicaciones de los dispositivos y dejará de enviar la información al portal.&#x20;
 * **Cambio de Configuraciones del Sistema:** estado sí o no, si el usuario no activa este permiso, la aplicación Kiosk Launcher Manager no permitirá que el usuario altere algunas configuraciones del sistema cuando esté en el modo Kiosco.&#x20;
 * **Lectura de SMS:** estado sí o no, si el usuario no activa este permiso, la aplicación no capturará la información de los SMS enviados.
+* <mark style="color:red;">**Programar Alarmas**</mark><mark style="color:red;">:  Los estados pueden ser "sí" o "no". Si el usuario no activa este permiso, la aplicación no ejecutará las siguientes funciones: notificación de mensajes y documentos recibidos, instalación remota de aplicaciones, registro de geolocalización del dispositivo, eliminación del bloqueo de SIM.</mark>
+* <mark style="color:red;">**Instalación de Apps de Fuentes Desconocidas**</mark><mark style="color:red;">: Este permiso es opcional y puede activarse durante la configuración inicial. Si el usuario decide no activarlo, la aplicación no podrá realizar la instalación de aplicaciones de forma remota.</mark>
+* <mark style="color:red;">**Superposición de Pantalla**</mark><mark style="color:red;">:  Este permiso también es opcional durante la activación. Si no se activa, la aplicación no podrá mostrar mensajes de confirmación al realizar la instalación de aplicaciones de forma remota.</mark>
 
 ### Conectividad
 
@@ -65,7 +92,7 @@ Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos,
 * **Fuerza de señal** - la intensidad de la señal de la red conectada.
 * **WiFi Roaming** - la capacidad del dispositivo de conectarse automáticamente a diferentes puntos de acceso Wi-Fi dentro de la misma red sin perder la conexión.
 * **Frecuencia de la banda WiFi** - frecuencia utilizada por la red Wi-Fi (por ejemplo, 2.4 GHz ó 5 GHz).
-* **Velocidad del Enlace Wi-Fi** - velocidad de conexión con la red Wi-Fi.
+* **Velocidad del link Wi-Fi** - velocidad de conexión con la red Wi-Fi.
 * **Dirección MAC Wi-Fi** - dirección MAC del adaptador Wi-Fi del dispositivo.
 * **IP (Red Wi-Fi)** - dirección IP asignada al dispositivo en la red Wi-Fi, con protocolo IPv4.
 * **IPv6 (Red Wi-Fi)** - dirección IP asignada al dispositivo en la red Wi-Fi, con protocolo IPv6.
@@ -74,6 +101,13 @@ Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos,
 * **Roaming de Datos Móviles** - indica si el dispositivo está en roaming de datos móviles.
 * **IP (Red móvil)** - dirección IP asignada al dispositivo en la red móvil, con protocolo IPv4.
 * **IPv6 (Red móvil)** - dirección IP asignada al dispositivo en la red móvil, con protocolo IPv6.
+* **DBM (RSRP - Potencia de la Antena)** - medida de la potencia de la señal con la antena conectada.
+* **Cell ID** - identificación de la celda a la que el dispositivo está conectado.
+* **LAC** - _Location Area Code**,**_ código de área de localización de la red conectada.
+* **Tecnología de la Antena** - tipo de tecnología de antena utilizada
+
+### SIM
+
 * **SIM Conectada** - indica cuál tarjeta SIM está activa y conectada.
 * **Operadora SIM 1** - nombre de la operadora de la primera tarjeta SIM.
 * **Número de Teléfono SIM 1** - número de teléfono asociado a la primera tarjeta SIM.
@@ -89,103 +123,7 @@ Haciendo clic en los tres puntos "..." a la derecha en la lista de dispositivos,
 * **Número de abonado SIM 2** - número del suscriptor asociado al SIM 2. MSIN?
 * **MCC do SIM 2** - código del país de la tarjeta SIM 2.
 * **MNC do SIM 2** - código de la red móvil de la tarjeta SIM 2.
-* **DBM (RSRP - Potencia de la Antena)** - medida de la potencia de la señal con la antena conectada.
-* **Cell ID** - identificación de la celda a la que el dispositivo está conectado.
-* **LAC** - _Location Area Code**,**_ código de área de localización de la red conectada.
-* **Tecnología de la Antena** - tipo de tecnología de antena utilizada.
-
-E clicando nos tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuración del dispositivo, como se ilustra en la imagen a continuación:
-
-<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
-
-Las opciones disponibles se muestran en la tabla siguiente y se detallan a continuación.
-
-<table><thead><tr><th width="233">Modo de Gestión</th><th>Opciones disponibles</th></tr></thead><tbody><tr><td>Android</td><td><p>Reporte de no Conformidad </p><p>Alterar Politica </p><p>Habilitar/ Deshabilitar el dispositivo</p><p>Apagar Pantalla </p><p>Reiniciar Dispositivo </p><p>Generar nueva contraseña de dispositivo </p><p>Remover dispositivo (WIPE)</p><p>Administrar Información</p></td></tr></tbody></table>
-
-### **Reporte de no conformidad**
-
-Para ver las inconsistencias en la configuración asignada al dispositivo, utilice la opción "reporte de no conformidad".
-
-<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
-
-### **Alterar Política**
-
-Al elegir Alterar política, aparecerá en el centro de la pantalla un cuadro de diálogo para elegir la política que se asignará al dispositivo. Elija la política entre las políticas enumeradas y haga clic en actualizar para cambiar la política del dispositivo.
-
-La política define las preferencias, incluidos los criterios de hardware, software, sistema operativo, seguridad, etc. Para obtener más información sobre Políticas, lea la sección de configuración de este manual.
-
-<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
-
-### **Deshabilitar Dispositivo**
-
-Cuando se envía el comando 'Desactivar Dispositivos', se desactivan (o quedan bloqueadas) todas las aplicaciones que no son de Google, se permiten llamadas telefónicas y el estado del dispositivo cambian a "desactivado". Para desactivar un dispositivo, utilice la opción "Deshabilitar Dispositivo" en el menú de opciones del dispositivo. Esta opción solo está disponible para dispositivos que tienen el estado "Activo".
-
-Para confirmar la operación, en la pantalla de confirmación haga clic en el botón "Deshabilitar".
-
-<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
-
-### **Activar dispositivo**
-
-Esta opción solo aparece para dispositivos que están en el estado "Deshabilitado". Para activar un dispositivo deshabilitado, haga clic en "Activar dispositivo" en las opciones de administración del dispositivo.
-
-Confirme la actualización haciendo clic en "Activar dispositivo" en el cuadro de diálogo.
-
-### **Desconectar la pantalla del dispositivo**
-
-La opción "Apagar pantalla" envía un comando para apagar la pantalla del dispositivo. Al hacer clic en la opción "Apagar pantalla" el comando se ejecuta directamente y un mensaje aparecerá en la pantalla para informar que el comando ha sido enviado al dispositivo.
-
-### **Reiniciar el dispositivo**
-
-Esta operación envía una orden para reiniciar el dispositivo. Seleccione la opción "Reiniciar dispositivo". Se muestra un mensaje en la pantalla del portal para confirmar el envío de la orden. El mensaje mostrado se muestra a continuación.
-
-<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
-
-### **Generar nueva contraseña del dispositivo**
-
-El sistema permite generar una nueva contraseña para el dispositivo. Para realizar esta operación, elija la opción "Generar nueva contraseña del dispositivo".
-
-Rellene los campos "Nueva contraseña" y "Confirmar nueva contraseña" con valores iguales para que el botón "Confirmar" esté habilitado. Al clicar en confirmar, la contraseña cambiará automáticamente. Opcionalmente, y según la necesidad, podrán ser marcadas las opciones:
-
-* No permitir que otros administradores cambien la contraseña de nuevo hasta que el usuario la ingrese en el dispositivo;
-* No pedir credenciales de usuario al iniciar el dispositivo;
-* Bloquear el dispositivo después de restablecer la contraseña.
-
-La pantalla para generar nueva contraseña del dispositivo se muestra a continuación.
-
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-**OBSERVACIÓN**\
-Al seleccionar la opción "No pedir credenciales de usuario en la inicialización del dispositivo", la contraseña no será solicitada durante el proceso de inicialización. La contraseña será necesaria solo para desbloquear la pantalla del dispositivo.\
-**Inicialización Segura (Secure Boot):** la contraseña solicitada en la inicialización es una medida de seguridad implementada por el Secure Boot. Esta funcionalidad protege el proceso de inicialización contra ataques de seguridad provenientes de códigos malintencionados, como malware y ransomware.
-{% endhint %}
-
-### **Remover dispositivo (WIPE)**
-
-Esta operación le permite eliminar un dispositivo. Limpia los datos y configuraciones del dispositivo. Los dispositivos eliminados no aparecen en la lista de dispositivos de la empresa. La opción "Eliminar dispositivo" aparece en la lista de opciones del dispositivo en la pantalla de lista de dispositivos (menú "Dispositivos", opción "Listar dispositivos").
-
-Como se puede ver en la siguiente imagen, se muestra un mensaje en la pantalla para información y advertencia. La operación no se puede deshacer, por lo tanto, confirme solo cuando esté seguro de que desea eliminar el dispositivo.
-
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
-
-### **Administrar**
-
-Esta opción permite acceder a la pantalla para editar datos del dispositivo, como: Usuario, identificación y Grupo.
-
-<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
-
-Además de poder editar los datos, se muestran más abajo en la pantalla dos listas con la información de Software y Hardware relacionados con el dispositivo administrado:
-
-<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
-
-### **Información de Software**
-
-* **Modo de gestión -** muestra el modo de gestión utilizado.
-* **Versión de la aplicación -** versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
-* **Fecha de la última actualización -** fecha y hora en que la información del dispositivo se sincronizó con el portal. Esta fecha proviene de AMAPI (API de Google), es decir, es la información recopilada por la API de Google en el dispositivo.
-* **Nombre de la Política en el Portal -** nombre de la política asignada al dispositivo.
-
-### Información sobre el hardware&#x20;
-
-* **Almacenamiento Interno -** cuánto de almacenamiento interno tiene.
-* **Batería -** Cuántos % de batería está actualmente.
+* <mark style="color:red;">**Operadora del eSIM**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nombre de la operadora asociada al eSIM.</mark>
+* <mark style="color:red;">**Número de teléfono del eSIM**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de teléfono asociado al eSIM.</mark>
+* <mark style="color:red;">**ICCID del eSIM**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador único del eSIM.</mark>
+* <mark style="color:red;">**ID de suscripción del eSIM**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador de la suscripción asociada al eSIM.</mark>
