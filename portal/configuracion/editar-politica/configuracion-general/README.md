@@ -16,6 +16,7 @@ layout:
 
 Los "**Ajustes**" se agrupan en los tipos:
 
+* Bloqueo Total
 * Hardware
 * Pantalla
 * Pantalla de Bloqueo
@@ -23,12 +24,13 @@ Los "**Ajustes**" se agrupan en los tipos:
 * Restricciones de contraseña
 * Seguridad
 * Sistema operativo
-* Trabajo
 * Ubicación
 * Usuario
 * VPN
 
-Cada grupo de configuración presenta varias opciones posibles para la política. Haga clic para verlas. La imagen abajo muestra la pantalla con los grupos de configuraciones de "Ajustes".
+Cada grupo de configuración presenta varias opciones posibles para la política. Haga clic para verlas. La imagen abajo muestra la pantalla con los grupos de configuraciones de "Ajustes".&#x20;
+
+<mark style="color:red;background-color:orange;">ALTERAR IMAGEM</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 

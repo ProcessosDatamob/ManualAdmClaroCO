@@ -8,9 +8,7 @@ Para ver los consumos, siga los pasos descritos a continuación.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2023-11-06 171133.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
-
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-09-06 145813.png" alt=""><figcaption></figcaption></figure>
 
 2. Haga clic en la pestaña Datos, SMS o WiFi para elegir el tipo de consumo que desea ver.
 3. Complete las fechas del intervalo en el que se consumieron los Datos, SMS o WiF que desea ver. Al hacer clic en "Buscar" se mostrarán los historiales de consumo, por usuario, en el período especificado.
@@ -19,4 +17,4 @@ Para ver los consumos, siga los pasos descritos a continuación.
 6. Para exportar la información de consumo, haga clic en el botón "Excel".
 7. Para copiar la información de consumo, haga clic en el botón "Copiar".
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-09-06 150147.png" alt=""><figcaption></figcaption></figure>

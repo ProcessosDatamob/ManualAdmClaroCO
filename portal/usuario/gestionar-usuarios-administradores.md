@@ -44,7 +44,7 @@ Al acceder a la pantalla, el sistema no permitirá cambiar la información del c
 
 <mark style="color:red;">Para que sea posible cambiar la contraseña, la contraseña registrada debe cumplir con todos los requisitos exigidos, garantizando así la seguridad necesaria para el acceso.</mark>
 
-<mark style="color:red;background-color:orange;">ADICIONAR IMAGEM</mark>
+![](<../../.gitbook/assets/image (1).png>)
 {% endhint %}
 
 7. Para crear un usuario administrador, haga clic en "Registrar nuevo".
