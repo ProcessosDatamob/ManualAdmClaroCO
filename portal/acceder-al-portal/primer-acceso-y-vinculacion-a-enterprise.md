@@ -19,33 +19,40 @@ Cuando el producto **\<NomeProduto>** es habilitado para una empresa, las siguie
 * Creación de las credenciales del Portal de Administración;
 * Envío de un correo electrónico de bienvenida que contiene las credenciales y un enlace para acceder al Portal de Administración.
 
-Para acceder al Portal de Administración, siga los pasos descritos en esta sección.
+<mark style="color:red;">Para acceder al Portal de Administración, siga los pasos descritos en esta sección:</mark>
 
-1. Accede a la dirección <mark style="color:orange;">\<EnderecoProduto></mark> para ver la pantalla de acceso del Portal. De preferencia, utilice el navegador Google Chrome, con la versión más actualizada.
-2. Ingrese los campos "Correo electrónico" y "Contraseña" con las credenciales de acceso recibidas en el correo electrónico de bienvenida.
-3. Haga clic en "Iniciar sesión" para confirmar la información y acceder al Portal.
+1. <mark style="color:red;">Acceda al enlace para la creación de la contraseña que será enviado en el correo electrónico de Bienvenida para visualizar la pantalla de acceso al Portal. De preferencia, utilice un navegador Google Chrome con la versión más actualizada.</mark>
+2. <mark style="color:red;">Al hacer clic en el enlace del correo, será dirigido a la pantalla de registro de la contraseña.</mark>
+3.  <mark style="color:red;">Escriba la nueva contraseña en el campo indicado.</mark>
 
-![](<../../.gitbook/assets/0 (5).png>)
+    <mark style="color:red;">Conforme escribe, la pantalla mostrará las reglas que la contraseña debe cumplir:</mark>
 
-En su primer acceso, después de hacer clic en "Iniciar sesión", el usuario deberá confirmar los datos de la empresa. La pantalla de confirmación de los datos de la empresa solo aparecerá en el primer acceso y se muestra en la siguiente figura.
+    * <mark style="color:red;">Al menos 1 letra mayúscula (A-Z)</mark>
+    * <mark style="color:red;">Al menos 1 letra minúscula (a-z)</mark>
+    * <mark style="color:red;">Al menos 1 número (0-9)</mark>
+    * <mark style="color:red;">Al menos 1 carácter especial (como !, @, #, $)</mark>
+    * <mark style="color:red;">Debe tener al menos 8 caracteres y un máximo de 30 caracteres.</mark>
 
-![](<../../.gitbook/assets/1 (5).png>)
-
-4. Confirme el nombre de empresa y correo electrónico (se sugiere utilizar la misma cuenta de correo de administrador de la empresa usada para ingresar al portal);&#x20;
-5. Cree una contraseña;
-6. Repita el ingreso de la contraseña para confirmarla;
-7. Marque las casillas: “Estoy de acuerdo con la política de privacidad” y “Estoy de acuerdo con los términos de uso del usuario”;
-8. Pulse el botón "Siguiente'.
+    <mark style="color:red;">Cada regla se mostrará en verde una vez que se cumpla.</mark>
+4. <mark style="color:red;">Haga clic en "Continuar" para confirmar la información y acceder al Portal.</mark>
+5. <mark style="color:red;">Después de hacer clic en "Continuar", será dirigido a una pantalla donde deberá ingresar el correo electrónico y la contraseña configurada en el paso anterior.</mark>
+6. <mark style="color:red;">En el siguiente paso, el usuario deberá confirmar los datos de la empresa. La pantalla de confirmación de los datos de la empresa aparecerá solo en el primer acceso.</mark>
+7. Confirme el nombre de empresa y correo electrónico (se sugiere utilizar la misma cuenta de correo de administrador de la empresa usada para ingresar al portal);&#x20;
+8. Cree una contraseña;
+9. Repita el ingreso de la contraseña para confirmarla;
+10. Marque las casillas: “Estoy de acuerdo con la política de privacidad” y “Estoy de acuerdo con los términos de uso del usuario”;
 
 {% hint style="info" %}
-**NOTA**
-
+**NOTA**\
 **La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al  Portal **\<NomeProduto>** y permanece siempre disponible en la pantalla de login. En la aplicación **\<NomeProduto>** está presente en el momento de la activación del dispositivo.
 
 **Términos de uso del usuario** - pueden ser leídos y deben ser aceptados en el primer acceso al portal y en el primer acceso a la aplicación.
 {% endhint %}
 
-Después del paso 5, aparecerá una nueva pantalla de confirmación de correo electrónico. Se envía un mensaje con un token de confirmación al correo electrónico de la empresa.
+11. Pulse el botón "Siguiente'.
+12. <mark style="color:red;">Se mostrará la pantalla para ingresar el Token que será enviado al correo electrónico informado.</mark>
+
+<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="308"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**
@@ -54,8 +61,6 @@ El correo electrónico de confirmación es un mensaje automático y se puede ide
 {% endhint %}
 
 El token de confirmación debe insertarse en la pantalla para confirmar el registro de la empresa. La pantalla de confirmación se muestra a continuación.
-
-<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="308"><figcaption></figcaption></figure>
 
 Si no ha recibido el token por correo electrónico, el usuario puede solicitar que se reenvíe haciendo clic en la opción "Reenviar código" que está disponible justo encima del botón "Confirmar".
 
@@ -80,7 +85,9 @@ Si el usuario informa a esta cuenta de correo coorporativo conteniendo el Cloud 
 **Regístrate solo para Android:** Ahora, si estás planeando administrar solo dispositivos Android, puedes crear un paquete de cuentas de Google Play administrado, incluso con un correo electrónico personal. Haga clic en "Regístrese" para continuar con la suscripción utilizando un correo electrónico personal, limitando la administración solo a dispositivos Android.
 
 {% hint style="warning" %}
-**NOTA:** Es importante destacar que Google no acepta cuentas GSuite y se recomienda crear una cuenta común para la empresa (por ejemplo, nombre@google.com).
+**NOTA**
+
+Es importante destacar que Google no acepta cuentas GSuite y se recomienda crear una cuenta común para la empresa (por ejemplo, nombre@google.com).
 {% endhint %}
 
 Después de elegir una de las tres opciones anteriores, sigue los siguientes pasos para finalizar el proceso de vinculación en Android Enterprise.&#x20;

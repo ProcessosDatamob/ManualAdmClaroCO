@@ -24,4 +24,16 @@ Si no recuerda la contraseña de acceso al portal, realice los siguientes pasos 
 
 ![](<../../.gitbook/assets/8 (4).png>)
 
-Al hacer clic en "Confirmar" el sistema enviará un mensaje a su dirección de correo electrónico con instrucciones de cambio de contraseña.
+3. Al hacer clic en "Confirmar" el sistema enviará un mensaje a su dirección de correo electrónico con instrucciones de cambio de contraseña.
+4. <mark style="color:red;">Haciendo clic en el enlace del correo, será dirigido para registrar una contraseña.</mark>
+5.  <mark style="color:red;">Escriba la nueva contraseña en el campo indicado.</mark>
+
+    <mark style="color:red;">Conforme escribe, la pantalla mostrará las reglas que la contraseña debe cumplir:</mark>
+
+    * <mark style="color:red;">Al menos 1 letra mayúscula (A-Z)</mark>
+    * <mark style="color:red;">Al menos 1 letra minúscula (a-z)</mark>
+    * <mark style="color:red;">Al menos 1 número (0-9)</mark>
+    * <mark style="color:red;">Al menos 1 carácter especial (como !, @, #, $)</mark>
+    * <mark style="color:red;">Debe tener al menos 8 caracteres y un máximo de 30 caracteres.</mark>
+
+    <mark style="color:red;">Cada regla se mostrará en verde una vez que se cumpla.</mark>

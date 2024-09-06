@@ -19,11 +19,13 @@ layout:
 * **Portal de Administración** **\<NomeProduto>** - sistema web que realiza toda la gestión de los dispositivos móviles de la empresa.
 * **Aplicación \<NomeProduto>** - aplicación Android que recopila toda la información de uso y consumo del dispositivo móvil.  Esta aplicación se instala por defecto estando presente en todos los dispositivos que se registran en el sistema.
 * **Aplicación Security Browser** - Aplicación Android de navegación web responsable de realizar los bloqueos de sitios web, así como monitorear la navegación del usuario del dispositivo.
+* <mark style="color:red;">**Aplicativo Mob Settings**</mark> <mark style="color:red;"></mark><mark style="color:red;">- es una aplicación diseñada para facilitar la administración de configuraciones esenciales de dispositivos móviles, como Bluetooth, Pantalla y Wi-Fi, sin la necesidad de acceder directamente al menú de configuraciones del dispositivo.</mark>
 
 {% hint style="warning" %}
-**IMPORTANTE**
+<mark style="color:red;">**IMPORTANTE**</mark>
 
-La aplicación Security Browser está disponible en Play Store y debe incluirse en la política de registro de los dispositivos. La sección [Bloqueo de Sitios Web](../portal/configuracion/editar-politica/aplicaciones/bloqueo-de-sitios-web-security-browser.md) presenta paso a paso la inclusión y configuración de la aplicación Security Browser.&#x20;
+* <mark style="color:red;">Las</mark> <mark style="color:red;"></mark><mark style="color:red;">**aplicaciones**</mark> <mark style="color:red;">**Security Browser**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**Mob Settings**</mark> <mark style="color:red;"></mark><mark style="color:red;">están disponibles en la Play Store y deben ser incluidas en la política de registro de los dispositivos. El paso a paso para la inclusión de las aplicaciones en la Lista de Aplicaciones Gestionadas está en las respectivas secciones de</mark> <mark style="color:red;"></mark><mark style="color:red;">**Security Browser**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**Mob Settings**</mark><mark style="color:red;">.</mark>
+* <mark style="color:red;">Para utilizar el bloqueo del chip, al crear una nueva política se deberá seleccionar el modo de gestión "Android - Block SIM". De este modo, el sistema añade automáticamente la aplicación Block SIM, restringiendo los cambios en la contraseña del dispositivo y garantizando la vinculación del chip al dispositivo. En el momento del registro del dispositivo, el usuario deberá seguir los pasos de instalación y otorgar los permisos solicitados. Para más detalles sobre el proceso de bloqueo del chip, utilice el "Manual de Instalación - Block SIM".</mark>
 {% endhint %}
 
 Desde el Portal **\<NomeProduto>** es posible acceder a la información sobre el consumo y uso de los dispositivos asignados a los empleados de la empresa. También es posible definir políticas de bloqueos para restringir el uso indebido de los dispositivos, permitiendo al administrador evaluar y aumentar la productividad de los empleados, a través del análisis y la gestión de los recursos de telecomunicaciones de la empresa.
@@ -32,7 +34,7 @@ Desde el Portal **\<NomeProduto>** es posible acceder a la información sobre el
 
 Toda la información recopilada por la aplicación **\<NomeProduto>** se envía periódicamente a los servidores del sistema.  Los datos de consumo recopilados por la aplicación se envían de acuerdo con el tiempo configurado en el portal, en la opción "Sincronizar cada", que varía de 60 minutos a 24 horas.
 
-Los datos de localización se recogen cada 3 minutos en la aplicación y se envía al portal de acuerdo con la opción de sincronización elegida.&#x20;
+<mark style="color:red;">Los datos de consumo recopilados por la aplicación se envían de acuerdo con el tiempo configurado en el portal, en la opción "Sincronizar cada", que varía de 1 a 24 horas.</mark>
 
 ## **Almacenamiento de datos**
 
@@ -50,4 +52,6 @@ El sello Android Enterprise Recommended identifica dispositivos Android que cump
 
 El que un dispositivo no se encuentre en la lista de recomendados de Google no significa que no funcionará. Actualmente, Android Enterprise es compatible con todas las versiones de Android desde Android 6.0. Sin embargo, algunas características pueden no estar disponibles en versiones anteriores del sistema operativo. Se recomienda utilizar las versiones más nuevas de Android para aprovechar todas las características y beneficios que ofrece la plataforma.
 
+{% hint style="info" %}
 Importante destacar que **\<NomeProduto>** fue desarrollado con  Google Android Enterprise y otras tecnologías adicionales, esto significa que algunas funciones, como por ejemplo, localización, consumo de batería y almacenamiento, pueden presentar comportamiento diferente del esperado dependiendo de las configuraciones del sistema operativo del dispositivo. &#x20;
+{% endhint %}

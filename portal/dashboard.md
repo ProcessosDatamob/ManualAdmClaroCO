@@ -6,11 +6,13 @@ Para saber cómo acceder y analizar los datos mostrados en el Dashboard, siga lo
 
 La pantalla de Dashboard puede ser considerada la "Pantalla de Inicio" del sistema, pues se muestra inmediatamente después de que el usuario acceda al Portal, pero también se puede acceder haciendo clic en el menú "Dashboard". En un primer acceso, los indicadores de usuarios, dispositivos y consumos no tendrán aún información, por lo que estarán en cero.
 
+<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
+
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Al acceder a la pantalla, toda la información se mostrará separada por secciones. Cada sección corresponde a un dato diferente, obtenido del dispositivo y toda la información se muestra de acuerdo con las opciones seleccionadas en el filtro (Empresa, Grupo o Usuario).
 
-Al habilitar la opción de filtro "Roaming internacional", el sistema solo mostrará la información del consumo total de datos móviles del dispositivo y el consumo de SMS registrada cuando el dispositivo esté usando una conexión de roaming, pero no será posible ver el consumo de datos por aplicación y sitios web accedidos. No se muestran consumos en Wi-Fi ni en otras redes.
+<mark style="color:red;">Al habilitar la opción del filtro “Roaming internacional”, en la esquina superior derecha de la pantalla, el sistema también mostrará la información recopilada cuando los dispositivos estén utilizando una conexión en Roaming.</mark>
 
 ![](<../.gitbook/assets/11 (4).png>)
 
@@ -18,26 +20,28 @@ Los filtros "Empresa", "Grupo" y "Usuario" permiten realizar un análisis de los
 
 Haga clic en el filtro "Empresa", escriba y seleccione el nombre de la empresa para mostrar la información recopilada de todos los dispositivos.
 
-![](<../.gitbook/assets/12 (4).png>)
+<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 Haga clic en el filtro "Grupo", escriba y seleccione el nombre del grupo para mostrar la información recopilada de todos los dispositivos que forman parte de un grupo.
 
-![](<../.gitbook/assets/13 (4).png>)
+<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 Haga clic en el filtro "Usuario" escriba y seleccione el usuario, para mostrar la información recopilada del dispositivo del usuario.
 
-![](<../.gitbook/assets/14 (4).png>)
+<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
 En la esquina superior derecha de la pantalla, tenemos algunos iconos que tienen las siguientes características:
 
 * Notificaciones - En el icono ![](https://lh7-us.googleusercontent.com/LIqOOPLli\_-KQv0gbnkeBAgAG1\_EOWziv1kRkMmMtO2dOIvA17vDOpWbmtTw5\_2RUg1D-mUt1PWNvciaKyYAHysUPk47UBQ8yIufI8DmrX523Zqn\_ntcDKa0ff0KqkWZeeaDLHoJF9MB762IkIm6vw)el administrador puede ver las notificaciones del portal, por ejemplo, al solicitar la generación de un reporte.
 * Admin - En el icono ![](https://lh7-us.googleusercontent.com/XnN5TtWJIzJYNZfcb\_18o7Mzx\_RrJYRxyodSpfkBQuPCce64vPyFVeN6g6umpqRYxKpCZ\_v8JGiU3iuMYa4vOmakPCagWJmIJFLK3dsOj3f7Ta1mH0KwNpxCTIGDJ5xs1IUicW1Ncuv2XJcBMyJvGg) despliega la opción para que el administrador pueda salir del portal y también muestra la versión actual de la solución el número de versión.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 ## **Barra de Estado**
 
 La barra de estado de Dashboard muestra el estatus actual de todos los usuarios y licencias de la empresa.
+
+<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
 
 ![](<../.gitbook/assets/18 (4).png>)
 
@@ -47,7 +51,7 @@ Este indicador muestra el número total de usuarios de dispositivos que utilizan
 
 ![](<../.gitbook/assets/19 (4).png>)
 
-## **Total de Licencias**
+## **Total de Licencias** Contratadas
 
 Este indicador muestra el número total de licencias disponibles en el portal **\<NomeProduto>**.
 
@@ -89,9 +93,11 @@ Para que el dispositivo vuelva a comunicarse, el administrador puede enviar un m
 
 Al hacer clic en el indicador Sin comunicación ,el sistema mostrará una pantalla que contiene el informe con la información de los dispositivos que están sin comunicación.
 
-## **Consumo de Datos**
+## **Consumo de Datos Móviles**
 
 Este indicador muestra el porcentaje de consumo de datos móviles de los dispositivos durante el ciclo con respecto al límite total configurado en el perfil de consumo. Si no se establece un límite en el perfil de consumo, el gráfico no muestra el porcentaje y el sistema solo muestra el valor total de datos en MB utilizado.
+
+<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
 
 ![Diagrama
 
@@ -105,13 +111,61 @@ Este indicador muestra el porcentaje de consumo de SMS enviados por los disposit
 
 Descrição gerada automaticamente](<../.gitbook/assets/3 (3).png>)
 
+
+
+## <mark style="color:red;">**Consumo total de datos**</mark>&#x20;
+
+<mark style="color:red;">Este gráfico permite visualizar el consumo de datos, incluyendo datos móviles, Wi-Fi y datos en roaming, en el Dashboard del portal. La funcionalidad permite un análisis detallado del uso de datos en los dispositivos.</mark>
+
+<mark style="color:red;">El gráfico mostrará:</mark>
+
+* <mark style="color:red;">Porcentaje del consumo de datos móviles locales en relación con el total de datos (móviles + Wi-Fi).</mark>
+* <mark style="color:red;">Porcentaje del consumo de datos vía Wi-Fi en relación con el total de datos (móviles + Wi-Fi).</mark>
+
+<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
+
+<mark style="color:red;">**Leyenda Mostrada:**</mark>
+
+* <mark style="color:red;">**Total:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Suma de datos móviles y Wi-Fi.</mark>
+* <mark style="color:red;">**Datos móviles locales:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Consumo de datos móviles en redes locales.</mark>
+* <mark style="color:red;">**Wi-Fi:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Consumo total de datos vía Wi-Fi.</mark>
+
+<mark style="color:red;">Al activar la opción de Roaming, el gráfico mostrado se actualizará para incluir el consumo de datos en roaming.</mark>
+
+<mark style="color:red;">El gráfico mostrará:</mark>
+
+* <mark style="color:red;">Porcentaje de datos móviles locales (móviles + roaming + Wi-Fi).</mark>
+* <mark style="color:red;">Porcentaje de datos móviles en roaming (móviles + roaming + Wi-Fi).</mark>
+* <mark style="color:red;">Porcentaje de Wi-Fi (móviles + roaming + Wi-Fi).</mark>
+
+<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
+
+<mark style="color:red;">**Leyenda Mostrada:**</mark>
+
+* <mark style="color:red;">**Total:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Suma de datos móviles, Wi-Fi y roaming.</mark>
+* <mark style="color:red;">**Datos móviles locales:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Consumo de datos móviles en redes locales.</mark>
+* <mark style="color:red;">**Datos móviles en roaming:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Consumo de datos móviles en roaming.</mark>
+* <mark style="color:red;">**Wi-Fi:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Consumo total de datos vía Wi-Fi.</mark>
+
+<mark style="color:red;">Al pasar el ratón sobre el gráfico o la leyenda en el Dashboard, el sistema mostrará una caja de texto.</mark>
+
+<mark style="color:red;">La caja de texto mostrará:</mark>
+
+* <mark style="color:red;">El tipo de dato (móvil, Wi-Fi o roaming).</mark>
+* <mark style="color:red;">El porcentaje en relación con el total de datos.</mark>
+* <mark style="color:red;">El valor exacto del consumo de datos.</mark>
+
 ## **Consumo de Datos por Aplicación**
 
-Este gráfico muestra las 5 aplicaciones que más han consumido datos móviles durante el ciclo. Los datos mostrados se ordenan en porcentaje.
+<mark style="color:red;">Este gráfico muestra el nombre y el valor del porcentaje de las 5 aplicaciones que más consumieron datos móviles y las 5 aplicaciones que más consumieron datos en WiFi durante el ciclo. Solo es necesario hacer clic en la opción de visualización deseada (Datos móviles o WiFi). Los datos mostrados están ordenados según el porcentaje.</mark>
 
 El valor porcentual de cada una de las 5 aplicaciones se calcula en relación con la suma total de consumo de todas las aplicaciones durante el ciclo.
 
 Al hacer clic en el botón “Ver lista completa” el sistema exhibirá en pantalla todos los datos de las aplicaciones. Para saber cómo utilizar esa pantalla, lea la sección “[Aplicaciones](configuracion/editar-politica/aplicaciones/)” en este manual.
+
+<mark style="color:red;">Esto ofrece a los usuarios una visión más detallada y específica del consumo de datos, permitiendo un análisis más preciso y segmentado, tanto en redes móviles como en WiFi.</mark>
+
+<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
 
 ![Uma imagem contendo Interface gráfica do usuário
 
@@ -119,11 +173,13 @@ Descrição gerada automaticamente](<../.gitbook/assets/4 (3).png>)
 
 ## **Consumo de Datos por Usuario**
 
-Esta gráfica muestra los 5 usuarios que más han consumido datos móviles durante el ciclo. Los datos mostrados se ordenan en porcentaje.
+<mark style="color:red;">Este gráfico muestra a los 5 usuarios que más consumieron datos móviles y a los que más consumieron datos en WiFi durante el ciclo. Solo es necesario hacer clic en la opción de visualización deseada (Datos móviles o WiFi). Los datos mostrados están ordenados por porcentaje.</mark>
 
 El valor porcentual de cada uno de los 5 usuarios se calcula en relación con la suma total de consumo de todos los usuarios durante el ciclo.
 
 Al hacer clic en el botón "Ver lista completa" el sistema mostrará la pantalla con la información de consumo de la empresa. Para saber cómo utilizar esta pantalla, lea la sección "[Consumo de la empresa](empresa/consumo-de-la-empresa.md)" de este manual.
+
+<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
 
 ![Gráfico
 
@@ -183,29 +239,41 @@ Descrição gerada automaticamente](<../.gitbook/assets/10 (2).png>)
 
 El mapa muestra la última ubicación de los dispositivos. Para que la ubicación se muestre y actualice, el dispositivo debe estar conectado a Internet, debe haber señal GPS y la configuración de "Modo de Localización" debe estar "Activa" en Ubicación en la política aplicada al dispositivo.
 
-Lea la sección "[Administrar políticas](configuracion/administrar-politicas/)" de este manual para saber cómo activar el "Modo de ubicación" de los dispositivos.
-
-La ubicación de los dispositivos se muestra con un marcador en el mapa, que puede estar en color verde o rojo, dependiendo del estado del dispositivo (verde = enviando datos y rojo = sin envío de datos). Para ver la información de la ubicación, haga clic en el marcador.
-
-Utilice los recursos del mapa para optimizar la visualización de las ubicaciones.
+<figure><img src="../.gitbook/assets/Captura de tela 2024-05-16 144307.png" alt=""><figcaption></figcaption></figure>
 
 Si el sistema no carga las ubicaciones en el mapa, haga clic en el botón "Ver ubicaciones" para mostrar las ubicaciones.
 
-<figure><img src="../.gitbook/assets/Captura de tela 2024-05-16 144307.png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">Si el sistema no carga las ubicaciones en el mapa, haga clic en el botón "Mostrar ubicaciones", entonces se mostrarán según la pantalla a continuación:</mark>
 
-En la sección “[GEOLOCALIZACIÓN](ubicacion/geolocalizacion.md)” se detalla esta y otras funcionalidades relacionadas a la ubicación.
+<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">La regla de agrupamiento de los dispositivos es la siguiente:</mark>
+
+* <mark style="color:red;">**Azul:**</mark> <mark style="color:red;"></mark><mark style="color:red;">mayor o igual a 5</mark>
+* <mark style="color:red;">**Amarillo:**</mark> <mark style="color:red;"></mark><mark style="color:red;">mayor o igual a 10</mark>
+* <mark style="color:red;">**Rojo:**</mark> <mark style="color:red;"></mark><mark style="color:red;">mayor o igual a 100</mark>
+
+<mark style="color:red;">Por debajo de 5, se muestran los pines normalmente.</mark>
+
+<mark style="color:red;">El símbolo de gota naranja con un número dentro indica los puntos por los que pasó el usuario en orden numérico durante el día.</mark>
+
+Lea la sección "[Administrar políticas](configuracion/administrar-politicas/)" de este manual para saber cómo activar el "Modo de ubicación" de los dispositivos.
+
+Utilice los recursos del mapa para optimizar la visualización de las ubicaciones.
 
 ## **Manuales para Descargar**
 
 En esta pantalla tendremos acceso a los manuales descargables. Al hacer clic en "Más información", se mostrará la pantalla con Documentos y Materiales de Apoyo.
 
-![](<../.gitbook/assets/13 (2).png>)
+<mark style="color:red;background-color:orange;">ATUALIZAR IMAGEM</mark>
 
-<figure><img src="../.gitbook/assets/Captura de tela 2023-11-07 085758.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/13 (2).png>)
 
 ## **Alguna Duda**
 
 A través de la sesión “_Alguna duda?_" tendremos acceso a la pantalla donde es posible visualizar las preguntas frecuentes realizadas por los usuarios:
+
+<mark style="color:red;background-color:orange;">ATUALIZAR IMAGENS</mark>
 
 <figure><img src="../.gitbook/assets/Captura de tela 2023-11-06 170641.png" alt=""><figcaption></figcaption></figure>
 
