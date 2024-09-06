@@ -153,27 +153,41 @@ Al hacer clic en la opción **Gestionar**, se mostrará la pantalla **Gestionar 
 
 <mark style="color:red;">Al abrir la pantalla de</mark> <mark style="color:red;"></mark><mark style="color:red;">**Gestionar Dispositivo**</mark><mark style="color:red;">, la primera pestaña,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Información**</mark><mark style="color:red;">, estará preseleccionada. En esta pestaña, es posible editar los siguientes datos del dispositivo: Usuario, Identificación, Grupo, Departamento y Teléfono del Usuario.</mark>
 
+<figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+
 <mark style="color:red;">Además de poder editar los datos, se muestran a continuación listas con</mark> <mark style="color:red;"></mark><mark style="color:red;">**Detalles**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Instalación**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Hardware**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Permisos**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Conectividad**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**SIM**</mark><mark style="color:red;">, relacionadas con el dispositivo gestionado.</mark>
+
+<figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">Las secciones están detalladas en la página de Información del Dispositivo: "Detalles", "Instalación", "Hardware", "Permisos", "Conectividad" y "SIM".</mark>
 
 {% hint style="info" %}
 <mark style="color:red;">**OBSERVACIÓN**</mark>\ <mark style="color:red;">Es posible acceder rápidamente a la pantalla de edición de una política en el dispositivo haciendo clic en el nombre de la política, que funciona como un enlace.</mark>
 
-
+<img src="../../../.gitbook/assets/Captura de tela 2024-09-06 161848.png" alt="" data-size="original">
 {% endhint %}
 
 #### <mark style="color:red;">**Aplicaciones**</mark>
 
 <mark style="color:red;">En la pestaña</mark> <mark style="color:red;"></mark><mark style="color:red;">**Aplicaciones**</mark><mark style="color:red;">, se puede acceder a la lista de todas las aplicaciones instaladas en el dispositivo, que contienen la siguiente información: ícono, nombre, consumo de datos móviles, consumo de datos en Wi-Fi y tiempo de uso. Los datos de consumo y tiempo de uso se registran dentro del ciclo. Es posible buscar una aplicación específica utilizando el campo de búsqueda, exportar informes completos o de la página, además de copiar la información de la lista. Al hacer clic en los tres puntos, es posible visualizar el gráfico del</mark> <mark style="color:red;"></mark><mark style="color:red;">**Historial de Consumo**</mark> <mark style="color:red;"></mark><mark style="color:red;">de la aplicación durante el ciclo.</mark>
 
+<figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+
 #### <mark style="color:red;">**Batería**</mark>
 
 <mark style="color:red;">En la pestaña</mark> <mark style="color:red;"></mark><mark style="color:red;">**Batería**</mark><mark style="color:red;">, es posible seleccionar una fecha para visualizar la información deseada. Al elegir la fecha, el sistema buscará y mostrará los datos de la batería en formato de gráfico.</mark>
 
+<figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+
 #### <mark style="color:red;">**Almacenamiento Libre**</mark>
 
 <mark style="color:red;">En la pestaña</mark> <mark style="color:red;"></mark><mark style="color:red;">**Almacenamiento Libre**</mark><mark style="color:red;">, es posible visualizar la memoria libre en el almacenamiento interno del dispositivo al seleccionar una fecha para visualizar la información deseada. Al elegir la fecha, el sistema buscará y mostrará los datos de almacenamiento en formato de gráfico.</mark>
+
+<figure><img src="../../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:red;">**Geolocalización**</mark>
 
@@ -181,20 +195,21 @@ Al hacer clic en la opción **Gestionar**, se mostrará la pantalla **Gestionar 
 
 <mark style="color:red;">Para visualizar las ubicaciones geográficas de un dispositivo, siga los siguientes pasos:</mark>
 
-* <mark style="color:red;">Seleccione la opción</mark> <mark style="color:red;"></mark><mark style="color:red;">**Localizar: Por Fecha o Ahora**</mark><mark style="color:red;">.</mark>\ <mark style="color:red;">Si elige "Localizar por Fecha", siga los pasos:</mark>
-
-1. <mark style="color:red;">Seleccione la fecha en la que se registraron las ubicaciones.</mark>
-2. <mark style="color:red;">Especifique la zona horaria deseada.</mark>
-3. <mark style="color:red;">Defina el límite de precisión de las ubicaciones.</mark>
-4. <mark style="color:red;">Haga clic en</mark> <mark style="color:red;"></mark><mark style="color:red;">**Buscar**</mark> <mark style="color:red;"></mark><mark style="color:red;">para mostrar las ubicaciones en el mapa, según el filtro especificado.</mark>
-
-<mark style="color:red;">El sistema mostrará las ubicaciones con marcadores que forman el recorrido realizado por el usuario del dispositivo. Los marcadores tienen diferentes colores, que indican el tipo de ubicación. Use la leyenda para identificar:</mark>
+1. <mark style="color:red;">Seleccione la opción</mark> <mark style="color:red;"></mark><mark style="color:red;">**Localizar: Por Fecha o Ahora**</mark><mark style="color:red;">.</mark>\ <mark style="color:red;">Si elige "Localizar por Fecha", siga los pasos:</mark>
+2. <mark style="color:red;">Seleccione la fecha en la que se registraron las ubicaciones.</mark>
+3. <mark style="color:red;">Especifique la zona horaria deseada.</mark>
+4. <mark style="color:red;">Defina el límite de precisión de las ubicaciones.</mark>
+5. <mark style="color:red;">Haga clic en</mark> <mark style="color:red;"></mark><mark style="color:red;">**Buscar**</mark> <mark style="color:red;"></mark><mark style="color:red;">para mostrar las ubicaciones en el mapa, según el filtro especificado.</mark>
+6. <mark style="color:red;">El sistema mostrará las ubicaciones con marcadores que forman el recorrido realizado por el usuario del dispositivo. Los marcadores tienen diferentes colores, que indican el tipo de ubicación. Use la leyenda para identificar:</mark>
 
 * <mark style="color:red;">**Posición inicial de la lectura del GPS**</mark> <mark style="color:red;"></mark><mark style="color:red;">– primera ubicación del dispositivo registrada en el día.</mark>
 * <mark style="color:red;">**Posición actual o última posición registrada**</mark> <mark style="color:red;"></mark><mark style="color:red;">– última ubicación del dispositivo registrada en el día.</mark>
 * <mark style="color:red;">**Lugar por donde pasó el usuario**</mark> <mark style="color:red;"></mark><mark style="color:red;">– ubicaciones registradas en el día entre la primera y la última.</mark>
 
-<mark style="color:red;">Haga clic en el marcador para visualizar la información de la ubicación. Use las funciones del mapa para optimizar la visualización.</mark>
+7. <mark style="color:red;">Haga clic en el marcador para visualizar la información de la ubicación.</mark>&#x20;
+8. <mark style="color:red;">Use las funciones del mapa para optimizar la visualización.</mark>
+
+<figure><img src="../../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:red;">**No Conformidades**</mark>
 
@@ -205,5 +220,7 @@ Al hacer clic en la opción **Gestionar**, se mostrará la pantalla **Gestionar 
 {% endhint %}
 
 <mark style="color:red;">Para cada elemento de no conformidad enumerado, se mostrarán: Nombre del Paquete, Ruta del Campo, Valor Actual, Motivo del Error en la Instalación, Contexto de Wi-Fi y Contexto de la Contraseña de la Política.</mark>
+
+<figure><img src="../../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">Es posible</mark> <mark style="color:red;"></mark><mark style="color:red;">**Exportar**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**Copiar**</mark><mark style="color:red;">, lo que permite exportar la información del informe a un archivo Excel o copiar la información al portapapeles.</mark>
