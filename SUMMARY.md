@@ -62,7 +62,6 @@
     * [Activación de Aplicaciones de Sistema a través de Comando](portal/mensajes-y-comandos/activacion-de-aplicaciones-de-sistema-a-traves-de-comando.md)
   * [Compartir Documentos](portal/compartir-documentos.md)
   * [Localización](portal/ubicacion/README.md)
-    * [Geolocalización](portal/ubicacion/geolocalizacion.md)
     * [Ubicación del Dispositivos](portal/ubicacion/ubicacion-de-los-dispositivos.md)
     * [Historial de Ubicación](portal/ubicacion/historial-de-ubicacion.md)
   * [Ayuda](portal/ayuda/README.md)

@@ -39,8 +39,6 @@ Es importante destacar que el tipo de instalación "Preinstalado" de una aplicac
 Para que la aplicación se presente en el dispositivo con el tipo de instalación "preinstalado" es necesario realizar el comando "Remover Dispositivo (WIPE)" en el portal o factory reset a través del dispositivo".
 {% endhint %}
 
-
-
 5. Otras acciones "...":  permite acceder a las opciones de acciones disponibles para la aplicación: "[Configuraciones Administradas](./#configuraciones-administradas)", "[Permisos](./#permisos)", "[Configuraciones Avanzadas](./#configuraciones-avanzadas)" y "[Eliminar Aplicación](./#eliminar-aplicacion)".
 6. **Agregar Aplicaciones:** Permite añadir aplicaciones para su gestión. Para obtener más información, acceda al contenido "[Agregar Aplicaciones](./#agregar-aplicaciones)" en esta página.
 7. **Restricciones de Funcionamiento:** Permite crear restricciones de acceso a las aplicaciones por horario, para definir los momentos en los que las aplicaciones no podrán ser accedidas. Para más información, acceda al contenido "[Restricciones de Funcionamiento](./#restricciones-de-funcionamiento)" en esta página.
@@ -183,7 +181,7 @@ Para definir restricciones de funcionamiento de aplicaciones por días y horario
 
 1. Ícono para acceder a la opción 'Restricciones de Funcionamiento'"
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Botón selector para activar restricciones.
 

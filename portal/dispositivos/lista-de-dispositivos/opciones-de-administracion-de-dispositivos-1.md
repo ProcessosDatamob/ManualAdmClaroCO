@@ -98,36 +98,6 @@ Como se puede ver en la siguiente imagen, se muestra un mensaje en la pantalla p
 
 <figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:red;">**Remover Dispositivo con SIM Bloqueado**</mark>
-
-<mark style="color:red;">Al enviar el comando de eliminación de un dispositivo que está activado en una política Android Block SIM y con el SIM bloqueado, el usuario administrador será alertado para que pueda enviar un comando para eliminar el bloqueo del SIM antes de remover el dispositivo del portal.</mark>
-
-<figure><img src="../../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
-
-<mark style="color:red;">Se mostrará el siguiente mensaje: "Este dispositivo puede tener el SIM bloqueado."</mark>
-
-<mark style="color:red;">¿Desea enviar un comando para eliminar el "Bloqueo del SIM"?</mark>
-
-<mark style="color:red;">Al hacer clic en la opción</mark> <mark style="color:red;"></mark><mark style="color:red;">**SÍ**</mark><mark style="color:red;">, se enviará el comando para eliminar el bloqueo del SIM, y se mostrará el mensaje: "¡Comando enviado con éxito! Espere para intentar eliminar el dispositivo nuevamente."</mark>
-
-<mark style="color:red;">El sistema esperará la confirmación antes de permitir la eliminación del dispositivo.</mark>
-
-{% hint style="info" %}
-<mark style="color:red;">El usuario del dispositivo debe hacer clic en la notificación push o abrir la aplicación Block SIM para ejecutar la eliminación del bloqueo.</mark>
-{% endhint %}
-
-<mark style="color:red;">Si el administrador decide no enviar el comando, se mostrará el siguiente mensaje: "¡Al eliminar este dispositivo, el uso de los datos móviles del SIM del usuario podría quedar bloqueado!"</mark>
-
-<mark style="color:red;">¿Está seguro de que desea eliminar este dispositivo? Esta acción no se puede deshacer.</mark>
-
-<mark style="color:red;">Después de optar por enviar el comando de desbloqueo del SIM, y una vez que el portal haya recibido la confirmación de la eliminación del bloqueo del SIM en el dispositivo, el sistema mostrará el siguiente mensaje:</mark>
-
-<mark style="color:red;">¿Está seguro de que desea eliminar este dispositivo? Esta acción no se puede deshacer.</mark>
-
-<mark style="color:red;">Y se mostrarán las opciones "Eliminar" y "Cancelar."</mark>
-
-<mark style="color:red;">De esta manera, esta funcionalidad ayuda a evitar problemas de bloqueo de SIM que puedan surgir al eliminar dispositivos de la gestión.</mark>
-
 ### **Administrar**
 
 Al hacer clic en la opción **Gestionar**, se mostrará la pantalla **Gestionar Dispositivo**.

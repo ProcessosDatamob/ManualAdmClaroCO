@@ -32,7 +32,7 @@ Cada grupo de configuración presenta varias opciones posibles para la política
 
 <mark style="color:red;background-color:orange;">ALTERAR IMAGEM</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**
