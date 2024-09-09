@@ -83,7 +83,7 @@ Las configuraciones generales se agrupan en tipos:
 
 ### Restricciones de contraseña - Dispositivo
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Restricciones de contraseña - Perfil Laboral
 

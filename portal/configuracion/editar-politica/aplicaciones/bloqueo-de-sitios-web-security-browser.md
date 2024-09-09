@@ -71,7 +71,7 @@ Después de incluir la aplicación en la directiva, se pueden establecer configu
 
 Al hacer clic en Configuraciones Gestionadas, se mostrará la siguiente pantalla:
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Las Configuraciones Gestionadas para el Security Browser son:&#x20;
 
