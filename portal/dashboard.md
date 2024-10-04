@@ -10,7 +10,7 @@ La pantalla de Dashboard puede ser considerada la "Pantalla de Inicio" del siste
 
 Al acceder a la pantalla, toda la información se mostrará separada por secciones. Cada sección corresponde a un dato diferente, obtenido del dispositivo y toda la información se muestra de acuerdo con las opciones seleccionadas en el filtro (Empresa, Grupo o Usuario).
 
-<mark style="color:red;">Al habilitar la opción del filtro “Roaming internacional”, en la esquina superior derecha de la pantalla, el sistema también mostrará la información recopilada cuando los dispositivos estén utilizando una conexión en Roaming.</mark>
+Al habilitar la opción del filtro “Roaming internacional”, en la esquina superior derecha de la pantalla, el sistema también mostrará la información recopilada cuando los dispositivos estén utilizando una conexión en Roaming.
 
 ![](<../.gitbook/assets/11 (4).png>)
 
@@ -103,63 +103,63 @@ Este indicador muestra el porcentaje de consumo de SMS enviados por los disposit
 
 
 
-## <mark style="color:red;">**Consumo total de datos**</mark>&#x20;
+## **Consumo total de datos**&#x20;
 
-<mark style="color:red;">Este gráfico permite visualizar el consumo de datos, incluyendo datos móviles, Wi-Fi y datos en roaming, en el Dashboard del portal. La funcionalidad permite un análisis detallado del uso de datos en los dispositivos.</mark>
+Este gráfico permite visualizar el consumo de datos, incluyendo datos móviles, Wi-Fi y datos en roaming, en el Dashboard del portal. La funcionalidad permite un análisis detallado del uso de datos en los dispositivos.
 
-<mark style="color:red;">El gráfico mostrará:</mark>
+El gráfico mostrará:
 
-* <mark style="color:red;">Porcentaje del consumo de datos móviles locales en relación con el total de datos (móviles + Wi-Fi).</mark>
-* <mark style="color:red;">Porcentaje del consumo de datos vía Wi-Fi en relación con el total de datos (móviles + Wi-Fi).</mark>
+* Porcentaje del consumo de datos móviles locales en relación con el total de datos (móviles + Wi-Fi).
+* Porcentaje del consumo de datos vía Wi-Fi en relación con el total de datos (móviles + Wi-Fi).
 
 <figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**Leyenda Mostrada:**</mark>
+**Leyenda Mostrada:**
 
-* <mark style="color:red;">**Total:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Suma de datos móviles y Wi-Fi.</mark>
-* <mark style="color:red;">**Datos móviles locales:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Consumo de datos móviles en redes locales.</mark>
-* <mark style="color:red;">**Wi-Fi:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Consumo total de datos vía Wi-Fi.</mark>
+* **Total:** Suma de datos móviles y Wi-Fi.
+* **Datos móviles locales:** Consumo de datos móviles en redes locales.
+* **Wi-Fi:** Consumo total de datos vía Wi-Fi.
 
-<mark style="color:red;">Al activar la opción de Roaming, el gráfico mostrado se actualizará para incluir el consumo de datos en roaming.</mark>
+Al activar la opción de Roaming, el gráfico mostrado se actualizará para incluir el consumo de datos en roaming.
 
-<mark style="color:red;">El gráfico mostrará:</mark>
+El gráfico mostrará:
 
-* <mark style="color:red;">Porcentaje de datos móviles locales (móviles + roaming + Wi-Fi).</mark>
-* <mark style="color:red;">Porcentaje de datos móviles en roaming (móviles + roaming + Wi-Fi).</mark>
-* <mark style="color:red;">Porcentaje de Wi-Fi (móviles + roaming + Wi-Fi).</mark>
+* Porcentaje de datos móviles locales (móviles + roaming + Wi-Fi).
+* Porcentaje de datos móviles en roaming (móviles + roaming + Wi-Fi).
+* Porcentaje de Wi-Fi (móviles + roaming + Wi-Fi).
 
 <figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**Leyenda Mostrada:**</mark>
+**Leyenda Mostrada:**
 
-* <mark style="color:red;">**Total:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Suma de datos móviles, Wi-Fi y roaming.</mark>
-* <mark style="color:red;">**Datos móviles locales:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Consumo de datos móviles en redes locales.</mark>
-* <mark style="color:red;">**Datos móviles en roaming:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Consumo de datos móviles en roaming.</mark>
-* <mark style="color:red;">**Wi-Fi:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Consumo total de datos vía Wi-Fi.</mark>
+* **Total:** Suma de datos móviles, Wi-Fi y roaming.
+* **Datos móviles locales:** Consumo de datos móviles en redes locales.
+* **Datos móviles en roaming:** Consumo de datos móviles en roaming.
+* **Wi-Fi:** Consumo total de datos vía Wi-Fi.
 
-<mark style="color:red;">Al pasar el ratón sobre el gráfico o la leyenda en el Dashboard, el sistema mostrará una caja de texto.</mark>
+Al pasar el ratón sobre el gráfico o la leyenda en el Dashboard, el sistema mostrará una caja de texto.
 
-<mark style="color:red;">La caja de texto mostrará:</mark>
+La caja de texto mostrará:
 
-* <mark style="color:red;">El tipo de dato (móvil, Wi-Fi o roaming).</mark>
-* <mark style="color:red;">El porcentaje en relación con el total de datos.</mark>
-* <mark style="color:red;">El valor exacto del consumo de datos.</mark>
+* El tipo de dato (móvil, Wi-Fi o roaming).
+* El porcentaje en relación con el total de datos.
+* El valor exacto del consumo de datos.
 
 ## **Consumo de Datos por Aplicación**
 
-<mark style="color:red;">Este gráfico muestra el nombre y el valor del porcentaje de las 5 aplicaciones que más consumieron datos móviles y las 5 aplicaciones que más consumieron datos en WiFi durante el ciclo. Solo es necesario hacer clic en la opción de visualización deseada (Datos móviles o WiFi). Los datos mostrados están ordenados según el porcentaje.</mark>
+Este gráfico muestra el nombre y el valor del porcentaje de las 5 aplicaciones que más consumieron datos móviles y las 5 aplicaciones que más consumieron datos en WiFi durante el ciclo. Solo es necesario hacer clic en la opción de visualización deseada (Datos móviles o WiFi). Los datos mostrados están ordenados según el porcentaje.
 
 El valor porcentual de cada una de las 5 aplicaciones se calcula en relación con la suma total de consumo de todas las aplicaciones durante el ciclo.
 
 Al hacer clic en el botón “Ver lista completa” el sistema exhibirá en pantalla todos los datos de las aplicaciones. Para saber cómo utilizar esa pantalla, lea la sección “[Aplicaciones](configuracion/editar-politica/aplicaciones/)” en este manual.
 
-<mark style="color:red;">Esto ofrece a los usuarios una visión más detallada y específica del consumo de datos, permitiendo un análisis más preciso y segmentado, tanto en redes móviles como en WiFi.</mark>
+Esto ofrece a los usuarios una visión más detallada y específica del consumo de datos, permitiendo un análisis más preciso y segmentado, tanto en redes móviles como en WiFi.
 
 <figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 ## **Consumo de Datos por Usuario**
 
-<mark style="color:red;">Este gráfico muestra a los 5 usuarios que más consumieron datos móviles y a los que más consumieron datos en WiFi durante el ciclo. Solo es necesario hacer clic en la opción de visualización deseada (Datos móviles o WiFi). Los datos mostrados están ordenados por porcentaje.</mark>
+Este gráfico muestra a los 5 usuarios que más consumieron datos móviles y a los que más consumieron datos en WiFi durante el ciclo. Solo es necesario hacer clic en la opción de visualización deseada (Datos móviles o WiFi). Los datos mostrados están ordenados por porcentaje.
 
 El valor porcentual de cada uno de los 5 usuarios se calcula en relación con la suma total de consumo de todos los usuarios durante el ciclo.
 
@@ -223,19 +223,21 @@ El mapa muestra la última ubicación de los dispositivos. Para que la ubicació
 
 Si el sistema no carga las ubicaciones en el mapa, haga clic en el botón "Ver ubicaciones" para mostrar las ubicaciones.
 
-<mark style="color:red;">Si el sistema no carga las ubicaciones en el mapa, haga clic en el botón "Mostrar ubicaciones", entonces se mostrarán según la pantalla a continuación:</mark>
+Si el sistema no carga las ubicaciones en el mapa, haga clic en el botón "Mostrar ubicaciones", entonces se mostrarán según la pantalla a continuación:
 
 <figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">La regla de agrupamiento de los dispositivos es la siguiente:</mark>
+La regla de agrupamiento de los dispositivos es la siguiente:
 
-* <mark style="color:red;">**Azul:**</mark> <mark style="color:red;"></mark><mark style="color:red;">mayor o igual a 5</mark>
-* <mark style="color:red;">**Amarillo:**</mark> <mark style="color:red;"></mark><mark style="color:red;">mayor o igual a 10</mark>
-* <mark style="color:red;">**Rojo:**</mark> <mark style="color:red;"></mark><mark style="color:red;">mayor o igual a 100</mark>
+* **Azul:** mayor o igual a 5
+* **Amarillo:** mayor o igual a 10
+* **Rojo:** mayor o igual a 100
+* Magenta: mayor o igual a 1.000
+* Violeta: mayor o igual a 10.000
 
-<mark style="color:red;">Por debajo de 5, se muestran los pines normalmente.</mark>
+Por debajo de 5 dispositivos, se muestran los pines normalmente.
 
-<mark style="color:red;">El símbolo de gota naranja con un número dentro indica los puntos por los que pasó el usuario en orden numérico durante el día.</mark>
+El símbolo de gota naranja con un número dentro indica los puntos por los que pasó el usuario en orden numérico durante el día.
 
 Lea la sección "[Administrar políticas](configuracion/administrar-politicas/)" de este manual para saber cómo activar el "Modo de ubicación" de los dispositivos.
 

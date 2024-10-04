@@ -19,24 +19,24 @@ Cuando el producto **\<NomeProduto>** es habilitado para una empresa, las siguie
 * Creación de las credenciales del Portal de Administración;
 * Envío de un correo electrónico de bienvenida que contiene las credenciales y un enlace para acceder al Portal de Administración.
 
-<mark style="color:red;">Para acceder al Portal de Administración, siga los pasos descritos en esta sección:</mark>
+Para acceder al Portal de Administración, siga los pasos descritos en esta sección:
 
-1. <mark style="color:red;">Acceda al enlace para la creación de la contraseña que será enviado en el correo electrónico de Bienvenida para visualizar la pantalla de acceso al Portal. De preferencia, utilice un navegador Google Chrome con la versión más actualizada.</mark>
-2. <mark style="color:red;">Al hacer clic en el enlace del correo, será dirigido a la pantalla de registro de la contraseña.</mark>
-3.  <mark style="color:red;">Escriba la nueva contraseña en el campo indicado.</mark>
+1. Acceda al enlace para la creación de la contraseña que será enviado en el correo electrónico de Bienvenida para visualizar la pantalla de acceso al Portal. De preferencia, utilice el navegador Google Chrome con la versión más actualizada.
+2. Al hacer clic en el enlace del correo, será dirigido a la pantalla de registro de la contraseña.
+3.  Escriba la nueva contraseña en el campo indicado.
 
-    <mark style="color:red;">Conforme escribe, la pantalla mostrará las reglas que la contraseña debe cumplir:</mark>
+    Conforme escribe, la pantalla mostrará las reglas que la contraseña debe cumplir:
 
-    * <mark style="color:red;">Al menos 1 letra mayúscula (A-Z)</mark>
-    * <mark style="color:red;">Al menos 1 letra minúscula (a-z)</mark>
-    * <mark style="color:red;">Al menos 1 número (0-9)</mark>
-    * <mark style="color:red;">Al menos 1 carácter especial (como !, @, #, $)</mark>
-    * <mark style="color:red;">Debe tener al menos 8 caracteres y un máximo de 30 caracteres.</mark>
+    * Al menos 1 letra mayúscula (A-Z)
+    * Al menos 1 letra minúscula (a-z)
+    * Al menos 1 número (0-9)
+    * Al menos 1 carácter especial (como !, @, #, $)
+    * Debe tener al menos 8 caracteres y un máximo de 30 caracteres.
 
-    <mark style="color:red;">Cada regla se mostrará en verde una vez que se cumpla.</mark>
-4. <mark style="color:red;">Haga clic en "Continuar" para confirmar la información y acceder al Portal.</mark>
-5. <mark style="color:red;">Después de hacer clic en "Continuar", será dirigido a una pantalla donde deberá ingresar el correo electrónico y la contraseña configurada en el paso anterior.</mark>
-6. <mark style="color:red;">En el siguiente paso, el usuario deberá confirmar los datos de la empresa. La pantalla de confirmación de los datos de la empresa aparecerá solo en el primer acceso.</mark>
+    Cada regla se mostrará en verde una vez que se cumpla.
+4. Haga clic en "Continuar" para confirmar la información y acceder al Portal.
+5. Después de hacer clic en "Continuar", será dirigido a una pantalla donde deberá ingresar el correo electrónico y la contraseña configurada en el paso anterior.
+6. En el siguiente paso, el usuario deberá confirmar los datos de la empresa. La pantalla de confirmación de los datos de la empresa aparecerá solo en el primer acceso.
 7. Confirme el nombre de empresa y correo electrónico (se sugiere utilizar la misma cuenta de correo de administrador de la empresa usada para ingresar al portal);&#x20;
 8. Cree una contraseña;
 9. Repita el ingreso de la contraseña para confirmarla;
@@ -50,7 +50,7 @@ Cuando el producto **\<NomeProduto>** es habilitado para una empresa, las siguie
 {% endhint %}
 
 11. Pulse el botón "Siguiente'.
-12. <mark style="color:red;">Se mostrará la pantalla para ingresar el Token que será enviado al correo electrónico informado.</mark>
+12. Se mostrará la pantalla para ingresar el Token que será enviado al correo electrónico informado.
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt="" width="308"><figcaption></figcaption></figure>
 
