@@ -39,22 +39,22 @@ Las configuraciones generales se agrupan en tipos:
 
 ### Bloqueo Total
 
-<mark style="color:red;">Esta funcionalidad permite al usuario administrador configurar un bloqueo total del dispositivo fuera de un período de tiempo específico o al alcanzar el límite de datos móviles. De esta manera, se puede bloquear el dispositivo cuando el usuario no esté en horario laboral o cuando se alcance el límite de datos móviles definido para el ciclo actual.</mark>
+Esta funcionalidad permite al usuario administrador configurar un bloqueo total del dispositivo fuera de un período de tiempo específico o al alcanzar el límite de datos móviles. De esta manera, se puede bloquear el dispositivo cuando el usuario no esté en horario laboral o cuando se alcance el límite de datos móviles definido para el ciclo actual.
 
-<mark style="color:red;">Estando en la pestaña "Configuraciones" de la pantalla "Editar Políticas", haga clic en "Bloqueo Total" para ver las opciones de configuración.</mark>
+Estando en la pestaña "Configuraciones" de la pantalla "Editar Políticas", haga clic en "Bloqueo Total" para ver las opciones de configuración.
 
 <mark style="color:red;background-color:orange;">ADICIONAR IMAGEM</mark>
 
 &#x20;Para realizar el bloqueo de dispositivos fuera del horario de trabajo, siga los siguientes pasos:<mark style="color:red;">:</mark>
 
 1. Ative la opción "Bloquear dispositivo fuera del horario de laboral".
-2. Complete el campo "Días laborales" con los días laborables de la semana, especificando el día de inicio y el día de finalización.<mark style="color:red;">.</mark>
+2. Complete el campo "Días laborales" con los días laborables de la semana, especificando el día de inicio y el día de finalización.
 3. Complete el campo "Horario de trabajo" con la hora de inicio y la hora de finalización del horario laboral.
 
 {% hint style="info" %}
-<mark style="color:red;">**OBSERVACIÓN**</mark>
+**OBSERVACIÓN**
 
-<mark style="color:red;">Al dejar los campos en blanco, el sistema considerará el período completo del día.</mark>
+Al dejar los campos en blanco, el sistema considerará el período completo del día, o sea, 24 horas.
 {% endhint %}
 
 <mark style="color:red;">Cuando el dispositivo esté fuera del horario de trabajo configurado, el ocultará todas las aplicaciones del dispositivo, excepto "Teléfono", "" y "Play Store".</mark>
