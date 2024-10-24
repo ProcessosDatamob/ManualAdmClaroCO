@@ -9,18 +9,18 @@ Después de hacer clic en el ícono mencionado, se mostrará la siguiente pantal
 <figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:red;">La fecha que aparece en</mark> <mark style="color:red;"></mark><mark style="color:red;">**Última Actualización**</mark> <mark style="color:red;"></mark><mark style="color:red;">en la esquina superior derecha de la pantalla de Información del dispositivo, es la fecha de actualización del dispositivo en Google, es decir, se refiere a la comunicación de AMAPI con el portal. Los datos que se actualizan son:</mark>
+La fecha que aparece en **Última Actualización** en la esquina superior derecha de la pantalla de Información del dispositivo, es la fecha de actualización del dispositivo en Google, es decir, se refiere a la comunicación de AMAPI con el portal. Los datos que se actualizan son:
 
-* <mark style="color:red;">Detalles</mark>
-* <mark style="color:red;">Instalación</mark>
-* <mark style="color:red;">Informe de No conformidad</mark>
+* Detalles
+* Instalación
+* Informe de No conformidad
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">A continuación, detallaremos la información contenida en cada uno de los campos de las imágenes anteriores:</mark>
+A continuación, detallaremos la información contenida en cada uno de los campos de las imágenes anteriores:
 
 ### Detalles&#x20;
 
@@ -51,25 +51,25 @@ Después de hacer clic en el ícono mencionado, se mostrará la siguiente pantal
 * **Fecha de Sincronización de la Política -** mostrará la fecha de sincronización de la política;&#x20;
 * **En Conformidad -** es la adherencia del dispositivo a todas las configuraciones de políticas asignadas a él. Si alguna configuración no se ha aplicado, el valor de esta opción será "No";&#x20;
 *   **Fecha de la Última Comunicación -** mostrará la fecha en que el dispositivo se comunicó por última vez con el portal.\
-    <mark style="color:red;">Los datos que se actualizan en el portal cuando la</mark> <mark style="color:red;"></mark><mark style="color:red;">**Fecha de Última Comunicación**</mark> <mark style="color:red;"></mark><mark style="color:red;">se actualiza son:</mark>
+    Los datos que se actualizan en el portal cuando la **Fecha de Última Comunicación** se actualiza son:
 
-    <mark style="color:red;">**Pantalla de Información del Dispositivo:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Los datos que se actualizan en el portal serán exactamente los que estén en el dispositivo en el momento de la última comunicación.</mark>
+    **Pantalla de Información del Dispositivo:** Los datos que se actualizan en el portal serán exactamente los que estén en el dispositivo en el momento de la última comunicación.
 
-    * <mark style="color:red;">**Hardware:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Batería y almacenamiento</mark>
-    * <mark style="color:red;">**Permisos:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Todos</mark>
-    * <mark style="color:red;">**Conectividad:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Todos los datos listados en Conectividad</mark>
+    * **Hardware:** Batería y almacenamiento
+    * **Permisos:** Todos
+    * **Conectividad:** Todos los datos listados en Conectivida<mark style="color:red;">d</mark>
 
 ### Hardware&#x20;
 
-* <mark style="color:red;">**Memoria Total:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad total de memoria RAM disponible en el dispositivo.</mark>
-* <mark style="color:red;">**Memoria Disponible:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad de memoria RAM actualmente libre y disponible para uso en el dispositivo.</mark>
-* <mark style="color:red;">**Almacenamiento Interno Total:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad total de almacenamiento interno que posee el dispositivo.</mark>
-* <mark style="color:red;">**Almacenamiento Interno Disponible:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad de almacenamiento interno actualmente libre y disponible para uso en el dispositivo.</mark>
-* <mark style="color:red;">**Almacenamiento Total en la Tarjeta SD:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad total de almacenamiento disponible en la tarjeta SD insertada en el dispositivo.</mark>
-* <mark style="color:red;">**Almacenamiento Disponible en la Tarjeta SD:**</mark> <mark style="color:red;"></mark><mark style="color:red;">cantidad de almacenamiento actualmente libre y disponible en la tarjeta SD insertada en el dispositivo.</mark>
-* <mark style="color:red;">**Procesador:**</mark> <mark style="color:red;"></mark><mark style="color:red;">información sobre el procesador del dispositivo, incluyendo el modelo y la velocidad.</mark>
-* <mark style="color:red;">**Salud de la Batería:**</mark> <mark style="color:red;"></mark><mark style="color:red;">estado general de la batería del dispositivo, indicando su capacidad y condición.</mark>
-* <mark style="color:red;">**Ciclo de Carga de la Batería:**</mark> <mark style="color:red;"></mark><mark style="color:red;">número de ciclos completos de carga y descarga que ha experimentado la batería del dispositivo.</mark>
+* **Memoria Total:** cantidad total de memoria RAM disponible en el dispositivo.
+* **Memoria Disponible:** cantidad de memoria RAM actualmente libre y disponible para uso en el dispositivo.
+* **Almacenamiento Interno Total:** cantidad total de almacenamiento interno que posee el dispositivo.
+* **Almacenamiento Interno Disponible:** cantidad de almacenamiento interno actualmente libre y disponible para uso en el dispositivo.
+* **Almacenamiento Total en la Tarjeta SD:** cantidad total de almacenamiento disponible en la tarjeta SD insertada en el dispositivo.
+* **Almacenamiento Disponible en la Tarjeta SD:** cantidad de almacenamiento actualmente libre y disponible en la tarjeta SD insertada en el dispositivo.
+* **Procesador:** información sobre el procesador del dispositivo, incluyendo el modelo y la velocidad.
+* **Salud de la Batería:** estado general de la batería del dispositivo, indicando su capacidad y condición.
+* **Ciclo de Carga de la Batería:** número de ciclos completos de carga y descarga que ha experimentado la batería del dispositivo.
 
 ### **Permisos**
 
@@ -77,9 +77,9 @@ Después de hacer clic en el ícono mencionado, se mostrará la siguiente pantal
 * **Ignorar Optimización de Batería:** estado sí o no, si el usuario no activa este permiso, la aplicación podrá verse afectada por las configuraciones de optimización de batería, dejará de capturar las ubicaciones de los dispositivos y dejará de enviar la información al portal.&#x20;
 * **Cambio de Configuraciones del Sistema:** estado sí o no, si el usuario no activa este permiso, la aplicación Kiosk Launcher Manager no permitirá que el usuario altere algunas configuraciones del sistema cuando esté en el modo Kiosco.&#x20;
 * **Lectura de SMS:** estado sí o no, si el usuario no activa este permiso, la aplicación no capturará la información de los SMS enviados.
-* <mark style="color:red;">**Programar Alarmas**</mark><mark style="color:red;">:  Los estados pueden ser "sí" o "no". Si el usuario no activa este permiso, la aplicación no ejecutará las siguientes funciones: notificación de mensajes y documentos recibidos, instalación remota de aplicaciones, registro de geolocalización del dispositivo, eliminación del bloqueo de SIM.</mark>
-* <mark style="color:red;">**Instalación de Apps de Fuentes Desconocidas**</mark><mark style="color:red;">: Este permiso es opcional y puede activarse durante la configuración inicial. Si el usuario decide no activarlo, la aplicación no podrá realizar la instalación de aplicaciones de forma remota.</mark>
-* <mark style="color:red;">**Superposición de Pantalla**</mark><mark style="color:red;">:  Este permiso también es opcional durante la activación. Si no se activa, la aplicación no podrá mostrar mensajes de confirmación al realizar la instalación de aplicaciones de forma remota.</mark>
+* **Programar Alarmas**:  Los estados pueden ser "sí" o "no". Si el usuario no activa este permiso, la aplicación no ejecutará las siguientes funciones: notificación de mensajes y documentos recibidos, instalación remota de aplicaciones, registro de geolocalización del dispositivo, eliminación del bloqueo de SIM.
+* **Instalación de Apps de Fuentes Desconocidas**: Este permiso es opcional y puede activarse durante la configuración inicial. Si el usuario decide no activarlo, la aplicación no podrá realizar la instalación de aplicaciones de forma remota.
+* **Superposición de Pantalla**:  Este permiso también es opcional durante la activación. Si no se activa, la aplicación no podrá mostrar mensajes de confirmación al realizar la instalación de aplicaciones de forma remota.
 
 ### Conectividad
 
@@ -123,7 +123,7 @@ Después de hacer clic en el ícono mencionado, se mostrará la siguiente pantal
 * **Número de abonado SIM 2** - número del suscriptor asociado al SIM 2. MSIN?
 * **MCC do SIM 2** - código del país de la tarjeta SIM 2.
 * **MNC do SIM 2** - código de la red móvil de la tarjeta SIM 2.
-* <mark style="color:red;">**Operadora del eSIM**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nombre de la operadora asociada al eSIM.</mark>
-* <mark style="color:red;">**Número de teléfono del eSIM**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de teléfono asociado al eSIM.</mark>
-* <mark style="color:red;">**ICCID del eSIM**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador único del eSIM.</mark>
-* <mark style="color:red;">**ID de suscripción del eSIM**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador de la suscripción asociada al eSIM.</mark>
+* **Operadora del eSIM** - nombre de la operadora asociada al eSIM.
+* **Número de teléfono del eSIM** - número de teléfono asociado al eSIM.
+* **ICCID del eSIM** - identificador único del eSIM.
+* **ID de suscripción del eSIM** - identificador de la suscripción asociada al eSIM.

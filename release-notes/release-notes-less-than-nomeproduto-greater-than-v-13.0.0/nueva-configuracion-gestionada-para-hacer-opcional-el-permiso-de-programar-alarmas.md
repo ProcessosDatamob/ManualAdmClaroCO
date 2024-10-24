@@ -1,6 +1,6 @@
 # Nueva Configuración Gestionada para hacer Opcional el Permiso de Programar Alarmas
 
-<mark style="color:red;">Ahora es posible configurar el permiso "Programar Alarmas" como opcional en las Configuraciones Gestionadas de \<NomeProduto>, permitiendo la activación de la aplicación sin la necesidad de otorgar este permiso. Si el usuario no activa este permiso, la aplicación no ejecutará las siguientes funcionalidades: notificación de mensajes y documentos recibidos, instalación remota de aplicaciones, registro de geolocalización del dispositivo, eliminación del bloqueo de SIM.</mark>
+Ahora es posible configurar el permiso "Programar Alarmas" como opcional en las Configuraciones Gestionadas de \<NomeProduto>, permitiendo la activación de la aplicación sin la necesidad de otorgar este permiso. Si el usuario no activa este permiso, la aplicación no ejecutará las siguientes funcionalidades: notificación de mensajes y documentos recibidos, instalación remota de aplicaciones, registro de geolocalización del dispositivo, eliminación del bloqueo de SIM.
 
 <mark style="color:red;">Más información en la sección de \<NomeProduto>.</mark>
 

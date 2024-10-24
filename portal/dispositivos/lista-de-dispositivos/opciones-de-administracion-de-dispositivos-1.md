@@ -42,16 +42,17 @@ Esta operación envía una orden para reiniciar el dispositivo. Seleccione la op
 
 <figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:red;">**Generar nueva contraseña del Bloqueo de Pantalla**</mark>
+### **Generar nueva contraseña del Bloqueo de Pantalla**
 
-<mark style="color:red;">Esta opción permite al administrador configurar la contraseña del bloqueo de pantalla del Block SIM para permitir el cambio remoto de la contraseña. En la Lista de Dispositivos, haga clic en la opción "Generar Nueva Contraseña del Bloqueo de Pantalla", complete y confirme la nueva contraseña del Bloqueo de Pantalla, utilizando letras, números y símbolos. Confirme el cambio de la contraseña, y al confirmar, el comando será enviado vía push a la Aplicación de Gestión para su aplicación en el dispositivo.</mark>
+Esta opción permite al administrador configurar la contraseña del bloqueo de pantalla del Block SIM para permitir el cambio remoto de la contraseña. En la Lista de Dispositivos, haga clic en la opción "Generar Nueva Contraseña del Bloqueo de Pantalla", complete y confirme la nueva contraseña del Bloqueo de Pantalla, utilizando letras, números y símbolos. Confirme el cambio de la contraseña, y al confirmar, el comando será enviado vía push a la Aplicación de Gestión para su aplicación en el dispositivo.
 
-### <mark style="color:red;">**Remover Bloqueo de Pantalla**</mark>
+### **Remover Bloqueo de Pantalla**
 
-<mark style="color:red;">Esta operación envía un comando para eliminar el bloqueo de pantalla del dispositivo. Elija la opción "Remover Bloqueo de Pantalla". Se mostrará un mensaje en la pantalla del portal para confirmar el envío del comando.</mark>
+Esta operación envía un comando para eliminar el bloqueo de pantalla del dispositivo. Elija la opción "Remover Bloqueo de Pantalla". Se mostrará un mensaje en la pantalla del portal para confirmar el envío del comando.
 
 {% hint style="info" %}
-<mark style="color:red;">**OBSERVACIÓN**</mark>\ <mark style="color:red;">Esta opción solo estará disponible para dispositivos activados con la política en modo de gestión Android Block SIM.</mark>
+**OBSERVACIÓN**\
+Esta opción solo estará disponible para dispositivos activados con la política en modo de gestión Android Block SIM.
 {% endhint %}
 
 ### **Generar nueva contraseña del dispositivo**
@@ -74,20 +75,21 @@ Al seleccionar la opción "No pedir credenciales de usuario en la inicializació
 **Inicialización Segura (Secure Boot):** la contraseña solicitada en la inicialización es una medida de seguridad implementada por el Secure Boot. Esta funcionalidad protege el proceso de inicialización contra ataques de seguridad provenientes de códigos malintencionados, como malware y ransomware.
 {% endhint %}
 
-### <mark style="color:red;">**Remover Bloqueo de SIM**</mark>
+### **Remover Bloqueo de SIM**
 
-<mark style="color:red;">Esta opción permite al administrador enviar un comando para eliminar el bloqueo de SIM de un dispositivo, permitiendo el acceso del usuario al dispositivo.</mark>
+Esta opción permite al administrador enviar un comando para eliminar el bloqueo de SIM de un dispositivo, permitiendo el acceso del usuario al dispositivo.
 
-<mark style="color:red;">En la pantalla "Lista de Dispositivos", seleccione la política "Android - Block SIM" y la opción "Remover Bloqueo de SIM". El sistema mostrará un mensaje de confirmación para enviar la eliminación del bloqueo de SIM, permitiendo confirmar o cancelar. Después de enviar el comando de eliminación, el dispositivo recibirá un push con el comando, capturará el comando y lo enviará al Block SIM. El usuario del dispositivo debe hacer clic en el push o abrir la aplicación Block SIM para ejecutar la eliminación del bloqueo.</mark>
+En la pantalla "Lista de Dispositivos", seleccione la política "Android - Block SIM" y la opción "Remover Bloqueo de SIM". El sistema mostrará un mensaje de confirmación para enviar la eliminación del bloqueo de SIM, permitiendo confirmar o cancelar. Después de enviar el comando de eliminación, el dispositivo recibirá un push con el comando, capturará el comando y lo enviará al Block SIM. El usuario del dispositivo debe hacer clic en el push o abrir la aplicación Block SIM para ejecutar la eliminación del bloqueo.
 
-### <mark style="color:red;">**Reinicio de Bloqueo de SIM**</mark>
+### **Reinicio de Bloqueo de SIM**
 
-<mark style="color:red;">La funcionalidad de "Reinicio de Bloqueo de SIM" permite que, después de la eliminación del bloqueo del SIM en un dispositivo, el administrador pueda volver a bloquear el SIM.</mark>
+La funcionalidad de "Reinicio de Bloqueo de SIM" permite que, después de la eliminación del bloqueo del SIM en un dispositivo, el administrador pueda volver a bloquear el SIM.
 
-<mark style="color:red;">Esto posibilita que, tras la eliminación del bloqueo, el administrador pueda cambiar el SIM del dispositivo y aplicar un nuevo bloqueo, garantizando la flexibilidad de gestión y la seguridad de los dispositivos gestionados.</mark>
+Esto posibilita que, tras la eliminación del bloqueo, el administrador pueda cambiar el SIM del dispositivo y aplicar un nuevo bloqueo, garantizando la flexibilidad de gestión y la seguridad de los dispositivos gestionados.
 
 {% hint style="info" %}
-<mark style="color:red;">**OBSERVACIÓN**</mark>\ <mark style="color:red;">Después de la eliminación del bloqueo, es posible reiniciar un bloqueo sin reiniciar el dispositivo, sin la necesidad de formatearlo.</mark>
+**OBSERVACIÓN**\
+Después de la eliminación del bloqueo, es posible reiniciar un bloqueo sin reiniciar el dispositivo, sin la necesidad de formatearlo.
 {% endhint %}
 
 ### **Remover dispositivo (WIPE)**
@@ -104,28 +106,28 @@ Al hacer clic en la opción **Gestionar**, se mostrará la pantalla **Gestionar 
 
 <figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">En esta pantalla se agrupan los</mark> <mark style="color:red;"></mark><mark style="color:red;">**Comandos y Acciones del Dispositivo**</mark> <mark style="color:red;"></mark><mark style="color:red;">que ya hemos detallado anteriormente, de acuerdo con el Modo de Gestión o el Sistema Operativo. El comportamiento de cada funcionalidad será el mismo que en la pantalla "Lista de Dispositivos".</mark>
+En esta pantalla se agrupan los **Comandos y Acciones del Dispositivo** que ya hemos detallado anteriormente, de acuerdo con el Modo de Gestión o el Sistema Operativo. El comportamiento de cada funcionalidad será el mismo que en la pantalla "Lista de Dispositivos".
 
-<mark style="color:red;">Se mostrarán las opciones de</mark> <mark style="color:red;"></mark><mark style="color:red;">**Volver**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**Actualizar**</mark><mark style="color:red;">, y al hacer clic en</mark> <mark style="color:red;"></mark><mark style="color:red;">**Actualizar**</mark><mark style="color:red;">, se actualizará la información y se mostrará la fecha de actualización al pasar el ratón sobre el botón de actualizar.</mark>
+Se mostrarán las opciones de **Volver** y **Actualizar**, y al hacer clic en **Actualizar**, se actualizará la información y se mostrará la fecha de actualización al pasar el ratón sobre el botón de actualizar.
 
-<mark style="color:red;">3 - Las pestañas con opciones para edición e información del dispositivo. Las pestañas son:</mark>
+3 - Las pestañas con opciones para edición e información del dispositivo. Las pestañas son:
 
-* <mark style="color:red;">**Información**</mark>
-* <mark style="color:red;">**Aplicaciones**</mark>
-* <mark style="color:red;">**Batería**</mark>
-* <mark style="color:red;">**Almacenamiento Libre**</mark>
-* <mark style="color:red;">**Geolocalización**</mark>
-* <mark style="color:red;">**No Conformidades**</mark>
+* **Información**
+* **Aplicaciones**
+* **Batería**
+* **Almacenamiento Libre**
+* **Geolocalización**
+* **No Conformidades**
 
-<mark style="color:red;">A continuación, se explica cada una de ellas:</mark>
+A continuación, se explica cada una de ellas:
 
-#### <mark style="color:red;">**Información**</mark>
+#### **Información**
 
-<mark style="color:red;">Al abrir la pantalla de</mark> <mark style="color:red;"></mark><mark style="color:red;">**Gestionar Dispositivo**</mark><mark style="color:red;">, la primera pestaña,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Información**</mark><mark style="color:red;">, estará preseleccionada. En esta pestaña, es posible editar los siguientes datos del dispositivo: Usuario, Identificación, Grupo, Departamento y Teléfono del Usuario.</mark>
+Al abrir la pantalla de **Gestionar Dispositivo**, la primera pestaña, **Información**, estará preseleccionada. En esta pestaña, es posible editar los siguientes datos del dispositivo: Usuario, Identificación, Grupo, Departamento y Teléfono del Usuario.
 
 <figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Además de poder editar los datos, se muestran a continuación listas con</mark> <mark style="color:red;"></mark><mark style="color:red;">**Detalles**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Instalación**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Hardware**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Permisos**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Conectividad**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**SIM**</mark><mark style="color:red;">, relacionadas con el dispositivo gestionado.</mark>
+Además de poder editar los datos, se muestran a continuación listas con **Detalles**, **Instalación**, **Hardware**, **Permisos**, **Conectividad** y **SIM**, relacionadas con el dispositivo gestionado.
 
 <figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
@@ -133,64 +135,67 @@ Al hacer clic en la opción **Gestionar**, se mostrará la pantalla **Gestionar 
 
 <figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Las secciones están detalladas en la página de Información del Dispositivo: "Detalles", "Instalación", "Hardware", "Permisos", "Conectividad" y "SIM".</mark>
+Las secciones están detalladas en la página de Información del Dispositivo: "Detalles", "Instalación", "Hardware", "Permisos", "Conectividad" y "SIM".
 
 {% hint style="info" %}
-<mark style="color:red;">**OBSERVACIÓN**</mark>\ <mark style="color:red;">Es posible acceder rápidamente a la pantalla de edición de una política en el dispositivo haciendo clic en el nombre de la política, que funciona como un enlace.</mark>
+**OBSERVACIÓN**\
+Es posible acceder rápidamente a la pantalla de edición de una política en el dispositivo haciendo clic en el nombre de la política, que funciona como un enlace.
 
 <img src="../../../.gitbook/assets/Captura de tela 2024-09-06 161848.png" alt="" data-size="original">
 {% endhint %}
 
-#### <mark style="color:red;">**Aplicaciones**</mark>
+#### **Aplicaciones**
 
-<mark style="color:red;">En la pestaña</mark> <mark style="color:red;"></mark><mark style="color:red;">**Aplicaciones**</mark><mark style="color:red;">, se puede acceder a la lista de todas las aplicaciones instaladas en el dispositivo, que contienen la siguiente información: ícono, nombre, consumo de datos móviles, consumo de datos en Wi-Fi y tiempo de uso. Los datos de consumo y tiempo de uso se registran dentro del ciclo. Es posible buscar una aplicación específica utilizando el campo de búsqueda, exportar informes completos o de la página, además de copiar la información de la lista. Al hacer clic en los tres puntos, es posible visualizar el gráfico del</mark> <mark style="color:red;"></mark><mark style="color:red;">**Historial de Consumo**</mark> <mark style="color:red;"></mark><mark style="color:red;">de la aplicación durante el ciclo.</mark>
+En la pestaña **Aplicaciones**, se puede acceder a la lista de todas las aplicaciones instaladas en el dispositivo, que contienen la siguiente información: ícono, nombre, consumo de datos móviles, consumo de datos en Wi-Fi y tiempo de uso. Los datos de consumo y tiempo de uso se registran dentro del ciclo. Es posible buscar una aplicación específica utilizando el campo de búsqueda, exportar informes completos o de la página, además de copiar la información de la lista. Al hacer clic en los tres puntos, es posible visualizar el gráfico del **Historial de Consumo** de la aplicación durante el ciclo.
 
 <figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:red;">**Batería**</mark>
+#### **Batería**
 
-<mark style="color:red;">En la pestaña</mark> <mark style="color:red;"></mark><mark style="color:red;">**Batería**</mark><mark style="color:red;">, es posible seleccionar una fecha para visualizar la información deseada. Al elegir la fecha, el sistema buscará y mostrará los datos de la batería en formato de gráfico.</mark>
+En la pestaña **Batería**, es posible seleccionar una fecha para visualizar la información deseada. Al elegir la fecha, el sistema buscará y mostrará los datos de la batería en formato de gráfico.
 
 <figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:red;">**Almacenamiento Libre**</mark>
+#### **Almacenamiento Libre**
 
-<mark style="color:red;">En la pestaña</mark> <mark style="color:red;"></mark><mark style="color:red;">**Almacenamiento Libre**</mark><mark style="color:red;">, es posible visualizar la memoria libre en el almacenamiento interno del dispositivo al seleccionar una fecha para visualizar la información deseada. Al elegir la fecha, el sistema buscará y mostrará los datos de almacenamiento en formato de gráfico.</mark>
+En la pestaña **Almacenamiento Libre**, es posible visualizar la memoria libre en el almacenamiento interno del dispositivo al seleccionar una fecha para visualizar la información deseada. Al elegir la fecha, el sistema buscará y mostrará los datos de almacenamiento en formato de gráfico.
 
 <figure><img src="../../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:red;">**Geolocalización**</mark>
+#### **Geolocalización**
 
-<mark style="color:red;">En la pestaña</mark> <mark style="color:red;"></mark><mark style="color:red;">**Geolocalización**</mark><mark style="color:red;">, es posible filtrar las ubicaciones utilizando los filtros: Localizar, Fecha, Zona horaria y Precisión. Al hacer clic en</mark> <mark style="color:red;"></mark><mark style="color:red;">**Buscar**</mark><mark style="color:red;">, se mostrará un mapa que muestra las geolocalizaciones registradas, si las hay.</mark>
+En la pestaña **Geolocalización**, es posible filtrar las ubicaciones utilizando los filtros: Localizar, Fecha, Zona horaria y Precisión. Al hacer clic en **Buscar**, se mostrará un mapa que muestra las geolocalizaciones registradas, si las hay.
 
-<mark style="color:red;">Para visualizar las ubicaciones geográficas de un dispositivo, siga los siguientes pasos:</mark>
+Para visualizar las ubicaciones geográficas de un dispositivo, siga los siguientes pasos:
 
-1. <mark style="color:red;">Seleccione la opción</mark> <mark style="color:red;"></mark><mark style="color:red;">**Localizar: Por Fecha o Ahora**</mark><mark style="color:red;">.</mark>\ <mark style="color:red;">Si elige "Localizar por Fecha", siga los pasos:</mark>
-2. <mark style="color:red;">Seleccione la fecha en la que se registraron las ubicaciones.</mark>
-3. <mark style="color:red;">Especifique la zona horaria deseada.</mark>
-4. <mark style="color:red;">Defina el límite de precisión de las ubicaciones.</mark>
-5. <mark style="color:red;">Haga clic en</mark> <mark style="color:red;"></mark><mark style="color:red;">**Buscar**</mark> <mark style="color:red;"></mark><mark style="color:red;">para mostrar las ubicaciones en el mapa, según el filtro especificado.</mark>
-6. <mark style="color:red;">El sistema mostrará las ubicaciones con marcadores que forman el recorrido realizado por el usuario del dispositivo. Los marcadores tienen diferentes colores, que indican el tipo de ubicación. Use la leyenda para identificar:</mark>
+1. Seleccione la opción **Localizar: Por Fecha o Ahora**.\
+   Si elige "Localizar por Fecha", siga los pasos:
+2. Seleccione la fecha en la que se registraron las ubicaciones.
+3. Especifique la zona horaria deseada.
+4. Defina el límite de precisión de las ubicaciones.
+5. Haga clic en **Buscar** para mostrar las ubicaciones en el mapa, según el filtro especificado.
+6. El sistema mostrará las ubicaciones con marcadores que forman el recorrido realizado por el usuario del dispositivo. Los marcadores tienen diferentes colores, que indican el tipo de ubicación. Use la leyenda para identificar:
 
-* <mark style="color:red;">**Posición inicial de la lectura del GPS**</mark> <mark style="color:red;"></mark><mark style="color:red;">– primera ubicación del dispositivo registrada en el día.</mark>
-* <mark style="color:red;">**Posición actual o última posición registrada**</mark> <mark style="color:red;"></mark><mark style="color:red;">– última ubicación del dispositivo registrada en el día.</mark>
-* <mark style="color:red;">**Lugar por donde pasó el usuario**</mark> <mark style="color:red;"></mark><mark style="color:red;">– ubicaciones registradas en el día entre la primera y la última.</mark>
+* **Posición inicial de la lectura del GPS** – primera ubicación del dispositivo registrada en el día.
+* **Posición actual o última posición registrada** – última ubicación del dispositivo registrada en el día.
+* **Lugar por donde pasó el usuario** – ubicaciones registradas en el día entre la primera y la última.
 
-7. <mark style="color:red;">Haga clic en el marcador para visualizar la información de la ubicación.</mark>&#x20;
-8. <mark style="color:red;">Use las funciones del mapa para optimizar la visualización.</mark>
+7. Haga clic en el marcador para visualizar la información de la ubicación.&#x20;
+8. Use las funciones del mapa para optimizar la visualización.
 
 <figure><img src="../../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:red;">**No Conformidades**</mark>
+#### **No Conformidades**
 
-<mark style="color:red;">En esta pestaña se enumerarán todas las no conformidades del dispositivo con información detallada sobre la Configuración, Motivo de la No Conformidad y Detalles de la No Conformidad.</mark>
+En esta pestaña se enumerarán todas las no conformidades del dispositivo con información detallada sobre la Configuración, Motivo de la No Conformidad y Detalles de la No Conformidad.
 
 {% hint style="info" %}
-<mark style="color:red;">**OBSERVACIÓN**</mark>\ <mark style="color:red;">La pestaña</mark> <mark style="color:red;"></mark><mark style="color:red;">**No Conformidades**</mark> <mark style="color:red;"></mark><mark style="color:red;">estará deshabilitada si el dispositivo no tiene ninguna inconformidad.</mark>
+**OBSERVACIÓN**\
+La pestaña **No Conformidades** estará deshabilitada si el dispositivo no tiene ninguna inconformidad.
 {% endhint %}
 
-<mark style="color:red;">Para cada elemento de no conformidad enumerado, se mostrarán: Nombre del Paquete, Ruta del Campo, Valor Actual, Motivo del Error en la Instalación, Contexto de Wi-Fi y Contexto de la Contraseña de la Política.</mark>
+Para cada elemento de no conformidad enumerado, se mostrarán: Nombre del Paquete, Ruta del Campo, Valor Actual, Motivo del Error en la Instalación, Contexto de Wi-Fi y Contexto de la Contraseña de la Política.
 
 <figure><img src="../../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Es posible</mark> <mark style="color:red;"></mark><mark style="color:red;">**Exportar**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**Copiar**</mark><mark style="color:red;">, lo que permite exportar la información del informe a un archivo Excel o copiar la información al portapapeles.</mark>
+Es posible **Exportar** y **Copiar**, lo que permite exportar la información del informe a un archivo Excel o copiar la información al portapapeles.

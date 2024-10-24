@@ -6,7 +6,7 @@ Haga clic en el menú "Dispositivos" opción "Lista de dispositivos" para accede
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2023-11-03 103939.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Se mostrará la siguiente pantalla:</mark>
+Se mostrará la siguiente pantalla:
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-09-06 152358.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ Haga clic en el menú "Dispositivos" opción "Lista de dispositivos" para accede
 8. La lista de dispositivos se muestra en la parte inferior de la pantalla.&#x20;
 9. Ordene las columnas: Usuario, Identificación, Licencia, IMEI, Modelo, Fecha de Registro y Fecha de la última comunicación, utilizando las flechas "↑↓" al lado de cada columna.
 10. Use los tres puntos "..." para mostrar el menú de acciones y aplicar la acción deseada al dispositivo.
-11. <mark style="color:red;">Haga clic en el ícono de filtro para seleccionar las columnas que serán visibles, use el campo de búsqueda para buscar las columnas por texto y realizar el filtro, luego haga clic en "Guardar" para definir la configuración como predeterminada para la pantalla del usuario que ha iniciado sesión. Si el usuario no realiza la personalización, se mostrarán las siguientes columnas como predeterminadas: Usuario, Identificación, Licencia, IMEI, Modelo y Política.</mark>
+11. Haga clic en el ícono de filtro para seleccionar las columnas que serán visibles, use el campo de búsqueda para buscar las columnas por texto y realizar el filtro, luego haga clic en "Guardar" para definir la configuración como predeterminada para la pantalla del usuario que ha iniciado sesión. Si el usuario no realiza la personalización, se mostrarán las siguientes columnas como predeterminadas: Usuario, Identificación, Licencia, IMEI, Modelo y Política.
 
 <figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
