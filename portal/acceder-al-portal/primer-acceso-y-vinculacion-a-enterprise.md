@@ -72,7 +72,7 @@ En este paso, se solicitará una cuenta de dominio propia de la empresa , para r
 
 **Ejemplo:** @empresa.com
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si el usuario informa a esta cuenta de correo coorporativo conteniendo el Cloud Identity el sistema seguirá el proceso normal del flujo. Si el usuario indica una cuenta que no tiene configurado Cloud Identity, aparecerá la siguiente pantalla:
 

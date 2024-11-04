@@ -30,9 +30,7 @@ Los "**Ajustes**" se agrupan en los tipos:
 
 Cada grupo de configuración presenta varias opciones posibles para la política. Haga clic para verlas. La imagen abajo muestra la pantalla con los grupos de configuraciones de "Ajustes".&#x20;
 
-<mark style="color:red;background-color:orange;">ALTERAR IMAGEM</mark>
-
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

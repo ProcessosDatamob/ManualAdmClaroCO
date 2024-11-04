@@ -232,8 +232,8 @@ La regla de agrupamiento de los dispositivos es la siguiente:
 * **Azul:** mayor o igual a 5
 * **Amarillo:** mayor o igual a 10
 * **Rojo:** mayor o igual a 100
-* Magenta: mayor o igual a 1.000
-* Violeta: mayor o igual a 10.000
+* **Magenta:** mayor o igual a 1.000
+* **Violeta:** mayor o igual a 10.000
 
 Por debajo de 5 dispositivos, se muestran los pines normalmente.
 
@@ -253,9 +253,7 @@ En esta pantalla tendremos acceso a los manuales descargables. Al hacer clic en 
 
 A través de la sesión “_Alguna duda?_" tendremos acceso a la pantalla donde es posible visualizar las preguntas frecuentes realizadas por los usuarios:
 
-<mark style="color:red;background-color:orange;">ATUALIZAR IMAGENS</mark>
-
-<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Al hacer clic en "Más información", nos dirigiremos a la siguiente pantalla, donde es posible realizar una búsqueda a través del campo de escritura libre o bien filtrar por categoría.
 
