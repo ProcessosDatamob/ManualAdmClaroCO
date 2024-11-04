@@ -10,8 +10,6 @@ La funcionalidad incluye una leyenda detallada y una caja de texto que proporcio
 
 Esta nueva visualización facilita el análisis y la gestión del uso de datos por los dispositivos, proporcionando una visión completa y detallada.
 
-Más información en la sección Dashboard.
-
-
+Más información en la sección [Dashboard](../../portal/dashboard.md).
 
 [Volver a la lista de Release Notes](./)

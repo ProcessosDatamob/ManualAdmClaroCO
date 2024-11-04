@@ -4,8 +4,6 @@ Se han realizado ajustes en la configuración de 'Pantalla', específicamente en
 
 Esta versión busca proporcionar mayor fluidez y claridad.
 
-Más información en la sección Pantalla.
-
-
+Más información en la sección [Pantalla](../../portal/configuracion/editar-politica/configuracion-general/pantalla.md).
 
 [Volver a la lista de Release Notes](./)

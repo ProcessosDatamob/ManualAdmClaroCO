@@ -7,8 +7,6 @@ Con el objetivo de garantizar un nivel superior de seguridad en el acceso a la p
 
 Estos cambios son esenciales para aumentar la seguridad del acceso y proteger los datos de los usuarios de manera más eficaz.
 
-Más información en las secciones: Primer Acceso y Vínculo a Enterprise, Recuperación de Contraseña y Gestionar Usuarios Administradores.
-
-
+Más información en las secciones: [Primer Acceso y Vínculo a Enterprise](../../portal/acceder-al-portal/primer-acceso-y-vinculacion-a-enterprise.md), [Recuperación de Contraseña ](../../portal/acceder-al-portal/recuperacion-de-contrasena.md)y [Gestionar Usuarios Administradores](../../portal/usuario/gestionar-usuarios-administradores.md).
 
 [Volver a la lista de Release Notes](./)
