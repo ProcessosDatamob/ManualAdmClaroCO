@@ -4,6 +4,6 @@ En esta versión, al acceder a la opción "Gestionar" de un dispositivo, las fun
 
 Más información en la sección Opciones de Gestión de Dispositivos.
 
-
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 [Volver a la lista de Release Notes](./)
