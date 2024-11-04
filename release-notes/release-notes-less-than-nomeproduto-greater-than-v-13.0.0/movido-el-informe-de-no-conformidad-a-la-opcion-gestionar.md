@@ -4,4 +4,6 @@ Ahora, al acceder al menú "Gestionar" de un dispositivo, será posible visualiz
 
 Más información en la sección [Opciones de Gestión de Dispositivos](../../portal/dispositivos/lista-de-dispositivos/opciones-de-administracion-de-dispositivos-1.md).
 
+<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+
 [Volver a la lista de Release Notes](./)

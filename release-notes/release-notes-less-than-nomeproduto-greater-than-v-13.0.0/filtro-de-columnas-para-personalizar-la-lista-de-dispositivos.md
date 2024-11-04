@@ -4,4 +4,6 @@ En esta versión hemos implementado un ícono que permite personalizar la Lista 
 
 Más información en la sección [Lista de Dispositivos](../../portal/dispositivos/lista-de-dispositivos/).
 
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+
 [Volver a la lista de Release Notes](./)

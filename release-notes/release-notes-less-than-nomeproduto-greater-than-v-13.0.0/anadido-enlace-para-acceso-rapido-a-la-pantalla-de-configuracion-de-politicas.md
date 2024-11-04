@@ -4,4 +4,6 @@ Hemos añadido un enlace de acceso rápido para la edición de políticas, con e
 
 Más información en las secciones [Lista de Dispositivos](../../portal/dispositivos/lista-de-dispositivos/) y [Opciones de Gestión de Dispositivos](../../portal/dispositivos/lista-de-dispositivos/opciones-de-administracion-de-dispositivos-1.md).
 
+<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+
 [Volver a la lista de Release Notes](./)
