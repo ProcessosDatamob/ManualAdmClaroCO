@@ -103,7 +103,7 @@ A continuación, detallaremos la información contenida en cada uno de los campo
 * **IPv6 (Red móvil)** - dirección IP asignada al dispositivo en la red móvil, con protocolo IPv6.
 * **DBM (RSRP - Potencia de la Antena)** - medida de la potencia de la señal con la antena conectada.
 * **Cell ID** - identificación de la celda a la que el dispositivo está conectado.
-* **LAC** - _Location Area Code**,**_ código de área de localización de la red conectada.
+* **LAC** - _Location Area Cod&#x65;**,**_ código de área de localización de la red conectada.
 * **Tecnología de la Antena** - tipo de tecnología de antena utilizada
 
 ### SIM

@@ -2,13 +2,11 @@
 
 ## **Comandos y Acciones del Dispositivo**
 
-Clicando nos tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuración del dispositivo, como se ilustra en la imagen a continuación:
-
-<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+Clicando nos tres puntos "..." a la derecha en la lista de dispositivos, aparecen las opciones de consulta y configuración del dispositivo.
 
 Las opciones disponibles se muestran en la tabla siguiente y se detallan a continuación.
 
-<table><thead><tr><th width="233">Modo de Gestión</th><th>Opciones disponibles</th></tr></thead><tbody><tr><td>Android</td><td><p>Alterar Politica </p><p>Habilitar/ Deshabilitar el Dispositivo</p><p>Apagar Pantalla </p><p>Reiniciar Dispositivo </p><p>Generar nueva contraseña de dispositivo </p><p>Remover dispositivo (WIPE)</p><p>Administrar</p></td></tr><tr><td>Android Block SIM</td><td><p></p><p>Alterar Politica </p><p>Activar/Desahbilitar el Dispositivo</p><p>Apagar Pantalla</p><p>Reiniciar Dispositivo</p><p>Generar Nueva Contraseña del Bloqueo de Pantalla</p><p>Quitar Bloqueo de Pantalla</p><p>Quitar  Bloqueo de Chip</p><p>Remover Dispositivo (WIPE)</p><p>Administrar</p></td></tr><tr><td>Android Work Profile</td><td><p></p><p>Alterar Politica </p><p>Remover Dispositivo (WIPE)</p><p>Administrar</p></td></tr></tbody></table>
+<table><thead><tr><th width="233">Modo de Gestión</th><th>Opciones disponibles</th></tr></thead><tbody><tr><td>Android</td><td><p>Alterar Politica </p><p>Habilitar/ Deshabilitar el Dispositivo</p><p>Apagar Pantalla </p><p>Reiniciar Dispositivo </p><p>Generar nueva contraseña de dispositivo </p><p>Remover dispositivo (WIPE)</p><p>Administrar</p></td></tr></tbody></table>
 
 ### **Alterar Política**
 
@@ -42,19 +40,6 @@ Esta operación envía una orden para reiniciar el dispositivo. Seleccione la op
 
 <figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-### **Generar nueva contraseña del Bloqueo de Pantalla**
-
-Esta opción permite al administrador configurar la contraseña del bloqueo de pantalla del Block SIM para permitir el cambio remoto de la contraseña. En la Lista de Dispositivos, haga clic en la opción "Generar Nueva Contraseña del Bloqueo de Pantalla", complete y confirme la nueva contraseña del Bloqueo de Pantalla, utilizando letras, números y símbolos. Confirme el cambio de la contraseña, y al confirmar, el comando será enviado vía push a la Aplicación de Gestión para su aplicación en el dispositivo.
-
-### **Remover Bloqueo de Pantalla**
-
-Esta operación envía un comando para eliminar el bloqueo de pantalla del dispositivo. Elija la opción "Remover Bloqueo de Pantalla". Se mostrará un mensaje en la pantalla del portal para confirmar el envío del comando.
-
-{% hint style="info" %}
-**OBSERVACIÓN**\
-Esta opción solo estará disponible para dispositivos activados con la política en modo de gestión Android Block SIM.
-{% endhint %}
-
 ### **Generar nueva contraseña del dispositivo**
 
 El sistema permite generar una nueva contraseña para el dispositivo. Para realizar esta operación, elija la opción "Generar nueva contraseña del dispositivo".
@@ -73,23 +58,6 @@ La pantalla para generar nueva contraseña del dispositivo se muestra a continua
 **OBSERVACIÓN**\
 Al seleccionar la opción "No pedir credenciales de usuario en la inicialización del dispositivo", la contraseña no será solicitada durante el proceso de inicialización. La contraseña será necesaria solo para desbloquear la pantalla del dispositivo.\
 **Inicialización Segura (Secure Boot):** la contraseña solicitada en la inicialización es una medida de seguridad implementada por el Secure Boot. Esta funcionalidad protege el proceso de inicialización contra ataques de seguridad provenientes de códigos malintencionados, como malware y ransomware.
-{% endhint %}
-
-### **Remover Bloqueo de SIM**
-
-Esta opción permite al administrador enviar un comando para eliminar el bloqueo de SIM de un dispositivo, permitiendo el acceso del usuario al dispositivo.
-
-En la pantalla "Lista de Dispositivos", seleccione la política "Android - Block SIM" y la opción "Remover Bloqueo de SIM". El sistema mostrará un mensaje de confirmación para enviar la eliminación del bloqueo de SIM, permitiendo confirmar o cancelar. Después de enviar el comando de eliminación, el dispositivo recibirá un push con el comando, capturará el comando y lo enviará al Block SIM. El usuario del dispositivo debe hacer clic en el push o abrir la aplicación Block SIM para ejecutar la eliminación del bloqueo.
-
-### **Reinicio de Bloqueo de SIM**
-
-La funcionalidad de "Reinicio de Bloqueo de SIM" permite que, después de la eliminación del bloqueo del SIM en un dispositivo, el administrador pueda volver a bloquear el SIM.
-
-Esto posibilita que, tras la eliminación del bloqueo, el administrador pueda cambiar el SIM del dispositivo y aplicar un nuevo bloqueo, garantizando la flexibilidad de gestión y la seguridad de los dispositivos gestionados.
-
-{% hint style="info" %}
-**OBSERVACIÓN**\
-Después de la eliminación del bloqueo, es posible reiniciar un bloqueo sin reiniciar el dispositivo, sin la necesidad de formatearlo.
 {% endhint %}
 
 ### **Remover dispositivo (WIPE)**
