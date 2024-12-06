@@ -4,7 +4,7 @@ El submenú Información de aplicaciones muestra la información de las aplicaci
 
 1. Haga clic en el menú "**Dispositivos**" opción "**Información de la aplicación**" para acceder a la pantalla.
 
-![](<../../.gitbook/assets/0 (25).png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-09-09 160626.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,10 +20,10 @@ El submenú Información de aplicaciones muestra la información de las aplicaci
 
 Para acceder a esta pantalla, utilice los tres puntos al final de la línea de la aplicación. En esta pantalla se puede visualizar el gráfico de evolución del consumo de datos de la aplicación en los dispositivos.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Usuarios con Aplicación** <a href="#dzvz1gwobjw0" id="dzvz1gwobjw0"></a>
 
 Para acceder a esta pantalla, utilice los tres puntos al final de la línea de la aplicación. En esta pantalla, se puede ver todos los dispositivos que tienen la aplicación instalada.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

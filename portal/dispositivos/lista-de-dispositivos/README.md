@@ -4,15 +4,19 @@ Para saber cómo administrar los dispositivos activos de la empresa, siga los pa
 
 Haga clic en el menú "Dispositivos" opción "Lista de dispositivos" para acceder a la pantalla.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2023-11-03 103939.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Se mostrará la siguiente pantalla:
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-09-06 152358.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-06 115036.png" alt=""><figcaption></figcaption></figure>
 
 1. En la parte superior de la pantalla, el sistema muestra la distribución de los dispositivos, separados por fabricantes.
 2. Utilice los filtros Grupo, Política, Modelo y Fabricante para buscar los dispositivos si desea listar.
-3. Utilice los Filtros Avanzados para buscar Modo de Administración, Fecha Inicial de Registro y Fecha Final de Registro (filtrará por la fecha de registro de los dispositivos que están en el período especificado) para acceder a la información deseada.
+3. Utilice los Filtros Avanzados para refinar su búsqueda con las siguientes opciones:
+   * **Modo de Gestión:** Filtre dispositivos según el modo de gestión configurado.
+   * **Fecha de Registro:** Seleccione un período específico utilizando la Fecha Inicial y la Fecha Final para localizar dispositivos registrados en ese intervalo.
+   * **Localidad:** Elija una localidad por nombre o dirección.
+   * **Distancia a la Localidad:** Calcule la distancia entre la última ubicación conocida del dispositivo y la dirección seleccionada.
 4. Para localizar un dispositivo específico, ingrese el número de teléfono, nombre del usuario, IMEI, ICCID, departamento o teléfono del usuario del dispositivo en el campo "Buscar".
 5. Para exportar el informe de los dispositivos, haga clic en el botón "Excel". El sistema mostrará en el informe sólo la información de las columnas visibles en la pantalla.
 6. Para copiar la información de los dispositivos, haga clic en el botón "Copiar". El sistema copiará al portapapeles sólo la información de las columnas visibles en la pantalla.
@@ -23,6 +27,8 @@ Se mostrará la siguiente pantalla:
 11. Haga clic en el ícono de filtro para seleccionar las columnas que serán visibles, use el campo de búsqueda para buscar las columnas por texto y realizar el filtro, luego haga clic en "Guardar" para definir la configuración como predeterminada para la pantalla del usuario que ha iniciado sesión. Si el usuario no realiza la personalización, se mostrarán las siguientes columnas como predeterminadas: Usuario, Identificación, Licencia, IMEI, Modelo y Política.
 
 <figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+
+Las opciones de columnas disponibles son: Usuario, Identificación, Licencia, IMEI, Modelo, Número de Serie, Política, Modo de Gestión, Versión de la aplicación , ICCID, Fabricante, Fecha de Registro, Sistema Operativo, Grupo, Departamento, Teléfono del Usuario, Estado, Fecha de la última comunicación, Localidad, Distancia a la Localidad.
 
 ### Acciones por lotes
 

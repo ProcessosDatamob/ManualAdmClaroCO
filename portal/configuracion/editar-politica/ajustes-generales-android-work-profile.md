@@ -89,7 +89,7 @@ Si la clave está activada permite al usuario mantener la misma contraseña defi
 
 Cuando la opción está desactivada, obliga al usuario a crear una contraseña diferente de la contraseña personal para acceder al perfil de trabajo. Se muestran las mismas configuraciones descritas en la tabla anterior para establecer la contraseña.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sigue el detalle de la configuración de ambas restricciones de contraseña:
 

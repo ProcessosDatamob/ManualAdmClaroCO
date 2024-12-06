@@ -71,13 +71,13 @@ Después de incluir la aplicación en la directiva, se pueden establecer configu
 
 Al hacer clic en Configuraciones Gestionadas, se mostrará la siguiente pantalla:
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Las Configuraciones Gestionadas para el Security Browser son:&#x20;
 
 * **Bloquear Todos los Sitios** - como administrador, es posible activar el bloqueo total de acceso a todos los sitios. Cuando el bloqueo total está activado, ningún sitio puede ser accedido desde el dispositivo. Esto significa que cualquier intento de navegación será bloqueado, garantizando que los usuarios no puedan visitar ninguna página web.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Sitios favoritos** - como administrador, es posible configurar sitios favoritos en el Security Browser para ponerlos a disposición de los usuarios. Agregue los sitios favoritos con Nombre y URL, y al guardar la política, las configuraciones se enviarán a los dispositivos. En el dispositivo, al abrir el menú Favoritos de la aplicación Security Browser, se mostrarán las URLs registradas en la lista de sitios favoritos de la configuración gestionada.
 

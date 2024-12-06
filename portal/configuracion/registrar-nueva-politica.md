@@ -39,7 +39,7 @@ Después del registro de la política se abrirá la pantalla "[Editar política]
 
 <mark style="color:red;">Al hacer clic en copiar una política, es posible vincular la política a cualquier grupo existente en la Empresa, y la selección del grupo es opcional.</mark>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:red;">**Observación**</mark>\ <mark style="color:red;">En el caso de acceder al portal como Administrador de Grupos, es posible gestionar (visualizar, editar y eliminar) políticas vinculadas a sus grupos a través del menú "Configuraciones". Al crear una nueva política, cuando se accede al portal como Administrador de Grupos, es obligatorio seleccionar un grupo vinculado al usuario para completar el proceso.</mark>\ <mark style="color:red;">Al copiar una política en el portal como Administrador de Grupos, también es obligatorio seleccionar un grupo.</mark>
