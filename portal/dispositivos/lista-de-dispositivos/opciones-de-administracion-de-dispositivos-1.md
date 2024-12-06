@@ -103,6 +103,8 @@ Además de poder editar los datos, se muestran a continuación listas con **Deta
 
 <figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+
 Las secciones están detalladas en la página de Información del Dispositivo: "Detalles", "Instalación", "Hardware", "Permisos", "Conectividad",  "SIM" y "Ubicación".
 
 {% hint style="info" %}

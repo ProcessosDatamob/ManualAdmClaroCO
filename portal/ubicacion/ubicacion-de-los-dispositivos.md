@@ -10,7 +10,7 @@ Para ver y generar el reporte de las ubicaciones, siga los pasos descritos en es
 
 2. Seleccione el usuario o las fechas que desea buscar para obtener información y haga clic en el botón Buscar;
 
-<figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-06 143653.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**&#x20;

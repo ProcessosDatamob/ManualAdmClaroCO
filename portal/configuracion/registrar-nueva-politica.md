@@ -18,7 +18,7 @@ Esta pantalla del sistema tiene el objetivo de realizar el registro de nuevas po
 
 <figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-06 103349 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 La pantalla de inicio del registro de políticas se muestra a continuación.
 

@@ -60,3 +60,39 @@ A continuación, listamos los accesos que el usuario tendrá en el dispositivo a
 Después de finalizar el tiempo definido, el Modo Kiosco se activará nuevamente de forma automática.
 
 <figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+
+## <mark style="color:red;">**Modo Quiosco ChromeOS**</mark>
+
+<mark style="color:red;">El Modo Quiosco en ChromeOS fue desarrollado para configurar dispositivos Chromebook en un entorno controlado, ideal para escenarios como la aplicación de exámenes, garantizando que los estudiantes utilicen el dispositivo solo para actividades autorizadas.</mark>
+
+<mark style="color:red;">Pasos para la configuración:</mark>
+
+1. <mark style="color:red;">Seleccione el menú "Información de la Empresa".</mark>
+2. <mark style="color:red;">En la sección "Google Workspace", ingrese el ID del Cliente en Workspace.</mark>
+3. <mark style="color:red;">Acceda a la pantalla de Gestión de Políticas y haga clic en "Crear nueva política".</mark>
+4. <mark style="color:red;">Haga clic en la pestaña ChromeOS, seleccione el modo de gestión ChromeOS y registre la política.</mark>
+
+<mark style="color:red;">Para acceder a las configuraciones de la política:</mark>
+
+1. <mark style="color:red;">En la pantalla "Editar política", vaya a la pestaña "Modo Quiosco".</mark>
+2. <mark style="color:red;">Haga clic en la flecha "˅" para acceder a las opciones de configuración disponibles.</mark>
+3. <mark style="color:red;">Complete el formulario para la activación de eventos:</mark>
+
+* <mark style="color:red;">Unidades Organizacionales: seleccione las unidades que contienen los dispositivos.</mark>
+* <mark style="color:red;">Unidad Organizacional de Destino: seleccione dónde se aplicará el Modo Quiosco.</mark>
+
+<figure><img src="../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:red;">**Nota**</mark>
+
+* <mark style="color:red;">Las unidades deben configurarse previamente en Google Workspace.</mark>
+* <mark style="color:red;">No está permitido seleccionar la misma unidad como origen y destino.</mark>
+* <mark style="color:red;">Los cambios pueden tardar hasta 24 horas en hacerse efectivos, según Google.</mark>
+* <mark style="color:red;">Algunas opciones, como</mark> <mark style="color:red;"></mark><mark style="color:red;">**Copiar Política**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**Token de Registro**</mark><mark style="color:red;">, estarán deshabilitadas para políticas ChromeOS.</mark>
+{% endhint %}
+
+4. <mark style="color:red;">Después de completar las unidades, haga clic en</mark> <mark style="color:red;"></mark><mark style="color:red;">**Guardar**</mark><mark style="color:red;">.</mark>
+5. <mark style="color:red;">El sistema habilitará los botones</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Iniciar"**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Concluir"**</mark> <mark style="color:red;"></mark><mark style="color:red;">el evento:</mark>
+   * <mark style="color:red;">**Iniciar:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Al hacer clic en "Iniciar", las unidades de dispositivos se moverán a la unidad de destino.</mark>
+   * <mark style="color:red;">**Concluir:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Al hacer clic en "Concluir", las unidades de dispositivos regresarán a la unidad original antes de la transferencia.</mark>

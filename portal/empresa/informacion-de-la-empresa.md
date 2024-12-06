@@ -6,8 +6,15 @@ Para ver o cambiar los datos de la empresa, siga los pasos descritos a continuac
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2023-11-06 170944.png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Al acceder a la pantalla, el sistema no permitirá cambiar la información de los campos "Empresa" y "Número de Identificación", pues son esenciales para el correcto funcionamiento de las reglas del sistema.
-3. La información de todos los demás campos se puede cambiar.
+2. Al acceder a la pantalla, el sistema no permitirá cambiar la información de los campos Empresa, Identificación y Código de Acceso, pues son esenciales para el correcto funcionamiento de las reglas del sistema.
+3.  La información de todos los demás campos se puede cambiar.&#x20;
+
+    <mark style="color:red;">Como: Correo Electrónico, Contacto, Teléfono, Código Postal, Dirección, Ciudad, Estado, también la información del Encargado de Protección de Datos (Nombre, Correo Electrónico y Teléfono), información del Representante en la Unión Europea (Nombre, Correo Electrónico y Teléfono) e información de Google Workspace.</mark>
+
+    * <mark style="color:red;">**Google Workspace:**</mark> <mark style="color:red;"></mark><mark style="color:red;">El ID del Cliente en Workspace es un identificador único esencial para integrar el portal de gestión con dispositivos ChromeOS vinculados a Google Workspace. Permite la creación y aplicación de políticas específicas en estos dispositivos, garantizando una gestión centralizada y eficiente.</mark>
+    * <mark style="color:red;">Este ID se obtiene directamente en la configuración del registro de su cuenta de Google Workspace.</mark>
+    * <mark style="color:red;">Al configurar el portal, el ID del Cliente será utilizado para autenticar y sincronizar los dispositivos ChromeOS con las políticas definidas.</mark>
+    * <mark style="color:red;">Sin el ID del Cliente, el sistema no podrá comunicarse correctamente con los dispositivos ChromeOS, limitando la aplicación de políticas y configuraciones específicas para su organización. Asegúrese de ingresar el ID correctamente para garantizar el pleno funcionamiento de la integración.</mark>
 4. Después de finalizar, haga clic en "Actualizar" para guardar los cambios.
 
 <figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>

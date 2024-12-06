@@ -54,7 +54,7 @@
       * [Información del Dispositivo](portal/dispositivos/lista-de-dispositivos/opciones-de-administracion-de-dispositivos.md)
       * [Opciones de administración de dispositivos](portal/dispositivos/lista-de-dispositivos/opciones-de-administracion-de-dispositivos-1.md)
     * [Información de Aplicaciones](portal/dispositivos/informacion-de-la-aplicacion.md)
-    * [Gestionar Ubicaciones](portal/dispositivos/gestionar-ubicaciones.md)
+    * [Gestionar Ubicaciones](portal/dispositivos/page-1.md)
   * [Zero Touch](portal/zero-touch.md)
   * [Sitios](portal/sitios/README.md)
     * [Reporte de Sitios por Fecha](portal/sitios/reporte-de-sitios-por-fecha.md)
