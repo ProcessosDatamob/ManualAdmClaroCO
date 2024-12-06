@@ -6,7 +6,7 @@ Para saber cómo acceder y analizar los datos mostrados en el Dashboard, siga lo
 
 La pantalla de Dashboard puede ser considerada la "Pantalla de Inicio" del sistema, pues se muestra inmediatamente después de que el usuario acceda al Portal, pero también se puede acceder haciendo clic en el menú "Dashboard". En un primer acceso, los indicadores de usuarios, dispositivos y consumos no tendrán aún información, por lo que estarán en cero.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Al pasar el cursor sobre el ícono de información junto a cada gráfico, se puede visualizar una descripción detallada que explica los datos presentados, facilitando la comprensión del contenido mostrado y el contexto del gráfico.
@@ -45,7 +45,7 @@ En la esquina superior derecha de la pantalla, tenemos algunos iconos que tienen
 
 La barra de estado de Dashboard muestra el estatus actual de todos los usuarios y licencias de la empresa.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Total de Usuarios**
 
@@ -251,7 +251,7 @@ En esta pantalla tendremos acceso a los manuales descargables. Al hacer clic en 
 
 A través de la sesión “_Alguna duda?_" tendremos acceso a la pantalla donde es posible visualizar las preguntas frecuentes realizadas por los usuarios:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Al hacer clic en "Más información", nos dirigiremos a la siguiente pantalla, donde es posible realizar una búsqueda a través del campo de escritura libre o bien filtrar por categoría.
 

@@ -6,7 +6,7 @@ Para ver y generar el reporte, siga los pasos descritos en esta sección.
 
 1. Haga clic en el menú "Ubicación" y seleccione el submenú "Historial de ubicación".
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Seleccione la información del reporte que desea filtrar.
 3. Haga clic en el botón "Buscar".
