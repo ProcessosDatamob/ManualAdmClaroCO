@@ -2,9 +2,9 @@
 
 Ahora, el portal permite configurar y gestionar el Modo Quiosco para dispositivos ChromeOS, ideal para aplicaciones como exámenes escolares. La funcionalidad incluye:
 
-* **Integración con Google Workspace:** Permite agregar el ID del Cliente en Workspace para vincular dispositivos ChromeOS.
-* **Creación de Políticas ChromeOS:** Una nueva pestaña en el menú de políticas permite configurar dispositivos en Modo Quiosco, incluyendo la transferencia y el retorno de unidades organizacionales.
-* **Gestión de Eventos de Activación:** Configuraciones detalladas permiten activar y finalizar el Modo Quiosco para dispositivos, basándose en la transferencia entre unidades organizacionales.
+* Integración con Google Workspace: Permite agregar el ID del Cliente en Workspace para vincular dispositivos ChromeOS.
+* Creación de Políticas ChromeOS: Una nueva pestaña en el menú de políticas permite configurar dispositivos en Modo Quiosco, incluyendo la transferencia y el retorno de unidades organizacionales.
+* Gestión de Eventos de Activación: Configuraciones detalladas permiten activar y finalizar el Modo Quiosco para dispositivos, basándose en la transferencia entre unidades organizacionales.
 
 Esta funcionalidad es esencial para gestionar dispositivos ChromeOS de manera eficiente y personalizada.
 
