@@ -181,19 +181,19 @@ Para definir restricciones de funcionamiento de aplicaciones por días y horario
 
 1. Ícono para acceder a la opción 'Restricciones de Funcionamiento'"
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Botón selector para activar restricciones.
 
-<figure><img src="../../../../.gitbook/assets/image (6) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-La opción de "Restricciones de Funcionamiento" está disponible para todas las aplicaciones, excepto la aplicación del sistema **\<NombreProduto>** Cuando una aplicación ya tiene restricciones de funcionamiento, su ícono de restricción cambiará y mostrará un pequeño punto rojo<img src="../../../../.gitbook/assets/image (7) (1) (1).png" alt="" data-size="line">.
+La opción de "Restricciones de Funcionamiento" está disponible para todas las aplicaciones, excepto la aplicación del sistema **\<NombreProduto>** Cuando una aplicación ya tiene restricciones de funcionamiento, su ícono de restricción cambiará y mostrará un pequeño punto rojo<img src="../../../../.gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line">.
 
 Para activar las restricciones:
 
 1. Seleccione el campo “Permitir restricciones".
 2. Indique la hora de uso para cada día, movendo el punto inicial(hora inicial) e punto final (hora final) con el mouse, o seleccione el campo "Restringir" para bloquear el funcionamiento durante todo el día.
 
-<figure><img src="../../../../.gitbook/assets/image (8) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Haga clic en "Confirmar" para guardar los cambios. La política enviará la información de las restricciones de la aplicación a los dispositivos vinculados.

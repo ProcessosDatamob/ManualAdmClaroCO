@@ -44,7 +44,7 @@ La contraseña solo podrá ser confirmada después de cumplir con todos los requ
 
 Para que sea posible cambiar la contraseña, la contraseña registrada debe cumplir con todos los requisitos exigidos, garantizando así la seguridad necesaria para el acceso.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
 {% endhint %}
 
 7. Para crear un usuario administrador, haga clic en "Registrar nuevo".

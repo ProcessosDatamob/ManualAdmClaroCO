@@ -6,7 +6,7 @@ Para ver y generar el reporte de las ubicaciones, siga los pasos descritos en es
 
 1. Haga clic en el menú "Ubicación" y seleccione el submenú "Ubicación de dispositivo".
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Seleccione el usuario o las fechas que desea buscar para obtener información y haga clic en el botón Buscar;
 
