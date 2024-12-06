@@ -93,9 +93,9 @@ A continuación, se explica cada una de ellas:
 
 Al abrir la pantalla de **Gestionar Dispositivo**, la primera pestaña, **Información**, estará preseleccionada. En esta pestaña, es posible editar los siguientes datos del dispositivo: Usuario, Identificación, Grupo, Departamento y Teléfono del Usuario.
 
-<figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
-Además de poder editar los datos, se muestran a continuación listas con **Detalles**, **Instalación**, **Hardware**, **Permisos**, **Conectividad** y **SIM**, relacionadas con el dispositivo gestionado.
+Además de poder editar los datos, se muestran a continuación listas con **Detalles**, **Instalación**, **Hardware**, **Permisos**, **Conectividad** , **SIM y Ubicación**, relacionadas con el dispositivo gestionado.
 
 <figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
@@ -103,7 +103,7 @@ Además de poder editar los datos, se muestran a continuación listas con **Deta
 
 <figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
-Las secciones están detalladas en la página de Información del Dispositivo: "Detalles", "Instalación", "Hardware", "Permisos", "Conectividad" y "SIM".
+Las secciones están detalladas en la página de Información del Dispositivo: "Detalles", "Instalación", "Hardware", "Permisos", "Conectividad",  "SIM" y "Ubicación".
 
 {% hint style="info" %}
 **OBSERVACIÓN**\
