@@ -42,23 +42,25 @@ Si el uso de datos móviles está por debajo del límite o si el administrador d
 
 Si el dispositivo se encuentra en cualquiera de las condiciones que requieren la activación de un Bloqueo Total (fuera del horario de trabajo o alcanzando el límite de datos móviles), la configuración y activación de un Bloqueo Total no anulará ni interferirá con la configuración y activación del otro. Ambos bloqueos pueden coexistir y aplicarse según sus respectivas condiciones.
 
-### <mark style="color:red;">**Bloquear dispositivo fuera de la ubicación**</mark>
+### **Bloquear dispositivo fuera de la ubicación**
 
-<mark style="color:red;">Para activar el bloqueo total del dispositivo al salir de una ubicación específica, habilite la opción</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Bloquear dispositivo fuera de la ubicación"**</mark> <mark style="color:red;"></mark><mark style="color:red;">en la política configurada.</mark>
+Para activar el bloqueo total del dispositivo al salir de una ubicación específica, habilite la opción **"Bloquear dispositivo fuera de la ubicación"** en la política configurada.
 
-<mark style="color:red;">Cuando el dispositivo esté fuera del radio de la ubicación definida, el sistema ocultará todos los aplicativos, widgets y accesos directos, excepto los siguientes: Teléfono, y Play Store.</mark>
+Cuando el dispositivo esté fuera del radio de la ubicación definida, el sistema ocultará todas las aplicaciones, widgets y accesos directos, excepto los siguientes: Teléfono, y Play Store.
 
-<mark style="color:red;">El dispositivo mostrará una notificación fija con el mensaje:</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Acceso a las aplicaciones bloqueado por el administrador"**</mark><mark style="color:red;">, informando al usuario sobre el bloqueo. Aunque esté bloqueado, será posible acceder a las configuraciones del dispositivo, apagarlo o reiniciarlo. Las aplicaciones permanecerán instaladas, pero inaccesibles.</mark>
+El dispositivo mostrará una notificación fija con el mensaje: **"Acceso a las aplicaciones bloqueado por el administrador"**, informando al usuario sobre el bloqueo. Aunque esté bloqueado, será posible acceder a las configuraciones del dispositivo, apagarlo o reiniciarlo. Las aplicaciones permanecerán instaladas, pero inaccesibles.
 
-<mark style="color:red;">**Desbloqueo Automático:**</mark>\ <mark style="color:red;">El dispositivo se desbloqueará automáticamente cuando:</mark>
+**Desbloqueo Automático:**\
+El dispositivo se desbloqueará automáticamente cuando:
 
-* <mark style="color:red;">Regrese al radio de la ubicación configurada.</mark>
-* <mark style="color:red;">Se desactive la configuración</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Bloquear dispositivo fuera de la ubicación"**</mark> <mark style="color:red;"></mark><mark style="color:red;">en la política.</mark>
-* <mark style="color:red;">Ya no haya una ubicación configurada para el dispositivo.</mark>
+* Regrese al radio de la ubicación configurada.
+* Se desactive la configuración **"Bloquear dispositivo fuera de la ubicación"** en la política.
+* Ya no haya una ubicación configurada para el dispositivo.
 
-<mark style="color:red;">Al desbloquearse, todos los aplicativos y funcionalidades serán restaurados según las políticas provisionadas.</mark>
+Al desbloquearse, todas las aplicaciones y funcionalidades serán restaurados según las políticas provisionadas.
 
-<mark style="color:red;">**Requisitos Previos:**</mark>\ <mark style="color:red;">Para que esta funcionalidad funcione correctamente, es necesario que los servicios de ubicación estén activados en el dispositivo, incluyendo:</mark>
+**Requisitos Previos:**\
+Para que esta funcionalidad funcione correctamente, es necesario que los servicios de ubicación estén activados en el dispositivo, incluyendo:
 
-* <mark style="color:red;">Precisión de Ubicación</mark>
-* <mark style="color:red;">Alta Precisión</mark>
+* Precisión de Ubicación
+* Alta Precisión

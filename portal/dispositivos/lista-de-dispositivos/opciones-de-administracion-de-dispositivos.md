@@ -59,7 +59,7 @@ A continuación, detallaremos la información contenida en cada uno de los campo
 
     * **Hardware:** Batería y almacenamiento
     * **Permisos:** Todos
-    * **Conectividad:** Todos los datos listados en Conectivida<mark style="color:red;">d</mark>
+    * **Conectividad:** Todos los datos listados en Conectividad
 
 ### Hardware&#x20;
 
@@ -130,15 +130,15 @@ A continuación, detallaremos la información contenida en cada uno de los campo
 * **ICCID del eSIM** - identificador único del eSIM.
 * **ID de suscripción del eSIM** - identificador de la suscripción asociada al eSIM.
 
-### **U**<mark style="color:red;">**bicación**</mark>
+### **Ubicación**
 
-* <mark style="color:red;">**Nombre:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Identifica el nombre asociado a la ubicación, como el nombre de la empresa o del punto de interés.</mark>
-* <mark style="color:red;">**Dirección:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Indica la dirección completa de la ubicación, incluyendo calle, número, ciudad, estado y código postal.</mark>
-* <mark style="color:red;">**Latitud:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Coordenada geográfica que representa la posición norte-sur de la ubicación en el mapa.</mark>
-* <mark style="color:red;">**Longitud:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Coordenada geográfica que representa la posición este-oeste de la ubicación en el mapa.</mark>
+* **Nombre:** Identifica el nombre asociado a la ubicación, como el nombre de la empresa o del punto de interés.
+* **Dirección:** Indica la dirección completa de la ubicación, incluyendo calle, número, ciudad, estado/provincia y código postal.
+* **Latitud:** Coordenada geográfica que representa la posición norte-sur de la ubicación en el mapa.
+* **Longitud:** Coordenada geográfica que representa la posición este-oeste de la ubicación en el mapa.
 * <mark style="color:red;">**Radio:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Distancia en metros alrededor de la ubicación, utilizada para definir un área de cobertura o interés.</mark>
 * <mark style="color:red;">**Código:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Código único o identificador asignado a la ubicación para fines de organización o referencia.</mark>
-* <mark style="color:red;">**Región:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Región geográfica o administrativa donde se encuentra la ubicación.</mark>
+* **Región:** Región geográfica o administrativa donde se encuentra la ubicación.
 * <mark style="color:red;">**CNPJ:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Registro Nacional de Persona Jurídica asociado a la ubicación, generalmente utilizado para empresas.</mark>
 * <mark style="color:red;">**Responsable:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Nombre de la persona responsable de la ubicación, como el gerente o propietario.</mark>
 * <mark style="color:red;">**Teléfono:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Número de teléfono de contacto de la ubicación o del responsable.</mark>

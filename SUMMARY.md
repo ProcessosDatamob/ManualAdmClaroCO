@@ -83,7 +83,7 @@
     * [Identificación y Filtro de Políticas por Grupo](release-notes/release-notes-less-than-nomeproduto-greater-than-v-15.0.0/identificacion-y-filtro-de-politicas-por-grupo.md)
     * [Configuración de Localidad de los Dispositivos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-15.0.0/configuracion-de-localidad-de-los-dispositivos.md)
     * [Gestión de Localidades en el Portal](release-notes/release-notes-less-than-nomeproduto-greater-than-v-15.0.0/gestion-de-localidades-en-el-portal.md)
-    * [Filtro por IMEI y Número de Serie en la pestaña de Ucicación](release-notes/release-notes-less-than-nomeproduto-greater-than-v-15.0.0/filtro-por-imei-y-numero-de-serie-en-la-pestana-de-ucicacion.md)
+    * [Filtro por IMEI y Número de Serie en la pestaña de Ubicación](release-notes/release-notes-less-than-nomeproduto-greater-than-v-15.0.0/filtro-por-imei-y-numero-de-serie-en-la-pestana-de-ubicacion.md)
     * [Visualización del Número de Serie en la Lista de Dispositivos](release-notes/release-notes-less-than-nomeproduto-greater-than-v-15.0.0/visualizacion-del-numero-de-serie-en-la-lista-de-dispositivos.md)
   * [Release Notes \<NomeProduto> V 14.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/README.md)
     * [Facilitando la Comprensión de los Gráficos: Íconos de Ayuda en el Dashboard](release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/facilitando-la-comprension-de-los-graficos-iconos-de-ayuda-en-el-dashboard.md)

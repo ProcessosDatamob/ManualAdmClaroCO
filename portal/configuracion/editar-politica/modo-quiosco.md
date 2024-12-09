@@ -61,38 +61,38 @@ Después de finalizar el tiempo definido, el Modo Kiosco se activará nuevamente
 
 <figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:red;">**Modo Quiosco ChromeOS**</mark>
+## **Modo Quiosco ChromeOS**
 
-<mark style="color:red;">El Modo Quiosco en ChromeOS fue desarrollado para configurar dispositivos Chromebook en un entorno controlado, ideal para escenarios como la aplicación de exámenes, garantizando que los estudiantes utilicen el dispositivo solo para actividades autorizadas.</mark>
+El Modo Quiosco en ChromeOS fue desarrollado para configurar dispositivos Chromebook en un entorno controlado, ideal para escenarios como la aplicación de exámenes, garantizando que los estudiantes utilicen el dispositivo solo para actividades autorizadas.
 
-<mark style="color:red;">Pasos para la configuración:</mark>
+Pasos para la configuración:
 
-1. <mark style="color:red;">Seleccione el menú "Información de la Empresa".</mark>
-2. <mark style="color:red;">En la sección "Google Workspace", ingrese el ID del Cliente en Workspace.</mark>
-3. <mark style="color:red;">Acceda a la pantalla de Gestión de Políticas y haga clic en "Crear nueva política".</mark>
-4. <mark style="color:red;">Haga clic en la pestaña ChromeOS, seleccione el modo de gestión ChromeOS y registre la política.</mark>
+1. Seleccione el menú "Información de la Empresa".
+2. En la sección "Google Workspace", ingrese el ID del Cliente en Workspace.
+3. Acceda a la pantalla de Gestión de Políticas y haga clic en "Crear nueva política".
+4. Haga clic en la pestaña ChromeOS, seleccione el modo de gestión ChromeOS y registre la política.
 
-<mark style="color:red;">Para acceder a las configuraciones de la política:</mark>
+Para acceder a las configuraciones de la política:
 
-1. <mark style="color:red;">En la pantalla "Editar política", vaya a la pestaña "Modo Quiosco".</mark>
-2. <mark style="color:red;">Haga clic en la flecha "˅" para acceder a las opciones de configuración disponibles.</mark>
-3. <mark style="color:red;">Complete el formulario para la activación de eventos:</mark>
+1. En la pantalla "Editar política", vaya a la pestaña "Modo Quiosco".
+2. Haga clic en la flecha "˅" para acceder a las opciones de configuración disponibles.
+3. Complete el formulario para la activación de eventos:
 
-* <mark style="color:red;">Unidades Organizacionales: seleccione las unidades que contienen los dispositivos.</mark>
-* <mark style="color:red;">Unidad Organizacional de Destino: seleccione dónde se aplicará el Modo Quiosco.</mark>
+* Unidades Organizacionales: seleccione las unidades que contienen los dispositivos.
+* Unidad Organizacional de Destino: seleccione dónde se aplicará el Modo Quiosco.
 
 <figure><img src="../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:red;">**Nota**</mark>
+**Nota**
 
-* <mark style="color:red;">Las unidades deben configurarse previamente en Google Workspace.</mark>
-* <mark style="color:red;">No está permitido seleccionar la misma unidad como origen y destino.</mark>
-* <mark style="color:red;">Los cambios pueden tardar hasta 24 horas en hacerse efectivos, según Google.</mark>
-* <mark style="color:red;">Algunas opciones, como</mark> <mark style="color:red;"></mark><mark style="color:red;">**Copiar Política**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**Token de Registro**</mark><mark style="color:red;">, estarán deshabilitadas para políticas ChromeOS.</mark>
+* Las unidades deben configurarse previamente en Google Workspace.
+* No está permitido seleccionar la misma unidad como origen y destino.
+* Según Google, los cambios pueden tardar hasta 24 horas en hacerse efectivos.
+* Algunas opciones, como **Copiar Política** y **Token de Registro**, estarán deshabilitadas para políticas ChromeOS.
 {% endhint %}
 
-4. <mark style="color:red;">Después de completar las unidades, haga clic en</mark> <mark style="color:red;"></mark><mark style="color:red;">**Guardar**</mark><mark style="color:red;">.</mark>
-5. <mark style="color:red;">El sistema habilitará los botones</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Iniciar"**</mark> <mark style="color:red;"></mark><mark style="color:red;">y</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Concluir"**</mark> <mark style="color:red;"></mark><mark style="color:red;">el evento:</mark>
-   * <mark style="color:red;">**Iniciar:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Al hacer clic en "Iniciar", las unidades de dispositivos se moverán a la unidad de destino.</mark>
-   * <mark style="color:red;">**Concluir:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Al hacer clic en "Concluir", las unidades de dispositivos regresarán a la unidad original antes de la transferencia.</mark>
+4. Después de completar las unidades, haga clic en **Guardar**.
+5. El sistema habilitará los botones **"Iniciar"** y **"Concluir"** el evento:
+   * **Iniciar:** Al hacer clic en "Iniciar", las unidades de dispositivos se moverán a la unidad de destino.
+   * **Concluir:** Al hacer clic en "Concluir", las unidades de dispositivos regresarán a la unidad original antes de la transferencia.

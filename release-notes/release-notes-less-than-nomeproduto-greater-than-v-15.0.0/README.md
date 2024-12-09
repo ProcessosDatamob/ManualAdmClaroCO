@@ -12,5 +12,5 @@
 
 ### **Mejoras**
 
-1. [Filtro por IMEI y Número de Serie en la pestaña de Ubicación](filtro-por-imei-y-numero-de-serie-en-la-pestana-de-ucicacion.md)
+1. [Filtro por IMEI y Número de Serie en la pestaña de Ubicación](filtro-por-imei-y-numero-de-serie-en-la-pestana-de-ubicacion.md)
 2. [Visualización del Número de Serie en la Lista de Dispositivos](visualizacion-del-numero-de-serie-en-la-lista-de-dispositivos.md)
