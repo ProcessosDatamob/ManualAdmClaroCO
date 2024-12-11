@@ -136,11 +136,11 @@ A continuación, detallaremos la información contenida en cada uno de los campo
 * **Dirección:** Indica la dirección completa de la ubicación, incluyendo calle, número, ciudad, estado/provincia y código postal.
 * **Latitud:** Coordenada geográfica que representa la posición norte-sur de la ubicación en el mapa.
 * **Longitud:** Coordenada geográfica que representa la posición este-oeste de la ubicación en el mapa.
-* <mark style="color:red;">**Radio:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Distancia en metros alrededor de la ubicación, utilizada para definir un área de cobertura o interés.</mark>
-* <mark style="color:red;">**Código:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Código único o identificador asignado a la ubicación para fines de organización o referencia.</mark>
+* **Radio:** Distancia en metros alrededor de la ubicación, utilizada para definir un área de cobertura o interés.
+* **Código:** Código único o identificador asignado a la ubicación para fines de organización o referencia.
 * **Región:** Región geográfica o administrativa donde se encuentra la ubicación.
-* <mark style="color:red;">**CNPJ:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Registro Nacional de Persona Jurídica asociado a la ubicación, generalmente utilizado para empresas.</mark>
-* <mark style="color:red;">**Responsable:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Nombre de la persona responsable de la ubicación, como el gerente o propietario.</mark>
-* <mark style="color:red;">**Teléfono:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Número de teléfono de contacto de la ubicación o del responsable.</mark>
-* <mark style="color:red;">**Correo Electrónico:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Dirección electrónica para contactar con la ubicación o el responsable.</mark>
-* <mark style="color:red;">**Distancia a la Ubicación:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Medida de la distancia entre la ubicación actual u otra referencia y la ubicación especificada.</mark>
+* **CNPJ:** Registro Nacional de Persona Jurídica asociado a la ubicación, generalmente utilizado para empresas.
+* **Responsable:** Nombre de la persona responsable de la ubicación, como el gerente o propietario.
+* **Teléfono:** Número de teléfono de contacto de la ubicación o del responsable.
+* **Correo Electrónico:** Dirección electrónica para contactar con la ubicación o el responsable.
+* **Distancia a la Ubicación:** Medida de la distancia entre la ubicación actual u otra referencia y la ubicación especificada.
