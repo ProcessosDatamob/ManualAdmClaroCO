@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 15.0.0
+# Release Notes Claro Monitor Empresarial V 15.0.0
 
 ## **Versión 15.0.0 - 10/2024**
 

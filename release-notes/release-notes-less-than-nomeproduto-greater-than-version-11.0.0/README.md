@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> Versión 11.0.0
+# Release Notes Claro Monitor Empresarial Versión 11.0.0
 
 **Novedades de la Versión**
 

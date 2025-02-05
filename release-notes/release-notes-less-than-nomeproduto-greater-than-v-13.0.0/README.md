@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 13.0.0
+# Release Notes Claro Monitor Empresarial V 13.0.0
 
 **Novedades de la Versión**
 

@@ -1,6 +1,6 @@
 # Acceder al portal
 
-Cuando el producto **\<NomeProduto>** es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:
+Cuando el producto **Claro Monitor Empresarial** es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:
 
 * Creación de las credenciales del Portal de Administración;
 * Envío de un correo electrónico de bienvenida que contiene las credenciales y un enlace para acceder al Portal de Administración.
@@ -26,7 +26,7 @@ En su primer acceso, después de hacer clic en "Iniciar sesión", el usuario deb
 {% hint style="info" %}
 **NOTA**
 
-**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al  Portal **\<NomeProduto>** y permanece siempre disponible en la pantalla de login. En la aplicación **\<NomeProduto>** está presente en el momento de la activación del dispositivo.
+**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al  Portal **Claro Monitor Empresarial** y permanece siempre disponible en la pantalla de login. En la aplicación **Claro Monitor Empresarial** está presente en el momento de la activación del dispositivo.
 
 **Términos de uso del usuario** - pueden ser leídos y deben ser aceptados en el primer acceso al portal y en el primer acceso a la aplicación.
 {% endhint %}
@@ -63,9 +63,9 @@ La pantalla de "Detalles de contacto" se muestra a continuación.
 
 ![](<../.gitbook/assets/5 (13).png>)
 
-Lea la información de orientación de Google Play Administrada y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información puede omitirse en esta etapa y administrarse posteriormente en el Portal del Administrador de **\<NomeProduto>** en el menú "Empresas", submenú "Información de la Empresa".
+Lea la información de orientación de Google Play Administrada y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información puede omitirse en esta etapa y administrarse posteriormente en el Portal del Administrador de **Claro Monitor Empresarial** en el menú "Empresas", submenú "Información de la Empresa".
 
-Después de confirmar los datos, se mostrará la pantalla del Portal de administración **\<NomeProduto>** con el mensaje "¡Felicidades! Su empresa se ha registrado correctamente en Android Enterprise."
+Después de confirmar los datos, se mostrará la pantalla del Portal de administración **Claro Monitor Empresarial** con el mensaje "¡Felicidades! Su empresa se ha registrado correctamente en Android Enterprise."
 
 ![](<../.gitbook/assets/6 (13).png>)
 
