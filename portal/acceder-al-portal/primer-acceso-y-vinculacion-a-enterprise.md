@@ -21,7 +21,7 @@ Cuando el producto **Claro Monitor Empresarial** es habilitado para una empresa,
 
 Para acceder al Portal de Administración, siga los pasos descritos en esta sección:
 
-1. Acceda al enlace para la creación de la contraseña que será enviado en el correo electrónico de Bienvenida para visualizar la pantalla de acceso al Portal. De preferencia, utilice el navegador Google Chrome con la versión más actualizada.
+1. Acceda al enlace [https://ent-claroco.datamobpro.com/login](https://ent-claroco.datamobpro.com/login) para la creación de la contraseña que será enviado en el correo electrónico de Bienvenida para visualizar la pantalla de acceso al Portal. De preferencia, utilice el navegador Google Chrome con la versión más actualizada.
 2. Al hacer clic en el enlace del correo, será dirigido a la pantalla de registro de la contraseña.
 3.  Escriba la nueva contraseña en el campo indicado.
 
@@ -37,14 +37,14 @@ Para acceder al Portal de Administración, siga los pasos descritos en esta secc
 4. Haga clic en "Continuar" para confirmar la información y acceder al Portal.
 5. Después de hacer clic en "Continuar", será dirigido a una pantalla donde deberá ingresar el correo electrónico y la contraseña configurada en el paso anterior.
 6. En el siguiente paso, el usuario deberá confirmar los datos de la empresa. La pantalla de confirmación de los datos de la empresa aparecerá solo en el primer acceso.
-7. Confirme el nombre de empresa y correo electrónico (se sugiere utilizar la misma cuenta de correo de administrador de la empresa usada para ingresar al portal);&#x20;
+7. Confirme el nombre de empresa y correo electrónico (se sugiere utilizar la misma cuenta de correo de administrador de la empresa usada para ingresar al portal);
 8. Cree una contraseña;
 9. Repita el ingreso de la contraseña para confirmarla;
 10. Marque las casillas: “Estoy de acuerdo con la política de privacidad” y “Estoy de acuerdo con los términos de uso del usuario”;
 
 {% hint style="info" %}
 **NOTA**\
-**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al  Portal **Claro Monitor Empresarial** y permanece siempre disponible en la pantalla de login. En la aplicación **Claro Monitor Empresarial** está presente en el momento de la activación del dispositivo.
+**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al Portal **Claro Monitor Empresarial** y permanece siempre disponible en la pantalla de login. En la aplicación **Claro Monitor Empresarial** está presente en el momento de la activación del dispositivo.
 
 **Términos de uso del usuario** - pueden ser leídos y deben ser aceptados en el primer acceso al portal y en el primer acceso a la aplicación.
 {% endhint %}
@@ -66,7 +66,7 @@ Si no ha recibido el token por correo electrónico, el usuario puede solicitar q
 
 <figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
-Después de esta confirmación, el sistema abrirá la pantalla para "Crear cuenta de administrador".&#x20;
+Después de esta confirmación, el sistema abrirá la pantalla para "Crear cuenta de administrador".
 
 En este paso, se solicitará una cuenta de dominio propia de la empresa , para realizar el vínculo en Android Enterprise. Al utilizar un dominio propio, la empresa podrá tener acceso a funcionalidades avanzadas del programa Better Togheter de Google en versiones futuras. Para ello es necesario informar a una cuenta de dominio propia, que posee el Cloud Identity de Google configurado.
 
@@ -90,7 +90,7 @@ Si el usuario informa a esta cuenta de correo coorporativo conteniendo el Cloud 
 Es importante destacar que Google no acepta cuentas GSuite y se recomienda crear una cuenta común para la empresa (por ejemplo, nombre@google.com).
 {% endhint %}
 
-Después de elegir una de las tres opciones anteriores, sigue los siguientes pasos para finalizar el proceso de vinculación en Android Enterprise.&#x20;
+Después de elegir una de las tres opciones anteriores, sigue los siguientes pasos para finalizar el proceso de vinculación en Android Enterprise.
 
 En la pantalla Google Play, utiliza el botón "Iniciar sesión" para iniciar sesión en la cuenta o, si no tienes la cuenta, puedes crear una nueva cuenta.
 
@@ -100,7 +100,7 @@ La pantalla de Google Play se muestra a continuación.
 
 Si necesitas crear una cuenta de Google, se te pedirá más información en la pantalla "Detalles de contacto".
 
-Lea la información de orientación de Google Play Gestionado y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información se puede administrar posteriormente en en el menú "Empresas", submenú "Información de la Empresa".&#x20;
+Lea la información de orientación de Google Play Gestionado y complete los datos de la persona de la empresa que será el contacto oficial de protección de datos y la persona que será el representante de la Unión Europea. Los dos campos se pueden rellenar con el mismo contacto de la empresa. Esta información se puede administrar posteriormente en en el menú "Empresas", submenú "Información de la Empresa".
 
 La pantalla de "Detalles de contacto" se muestra a continuación.
 
