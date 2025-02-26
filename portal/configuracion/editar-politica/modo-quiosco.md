@@ -2,9 +2,9 @@
 
 Esta configuración tiene como objetivo permitir la creación de un entorno en el que el usuario del dispositivo solo pueda acceder a las aplicaciones previamente autorizadas por el administrador, es decir, solo se mostrarán los íconos de las aplicaciones seleccionadas en la pantalla del dispositivo.
 
-Para acceder a la configuración del "**Modo Quiosco**", siga estos pasos:&#x20;
+Para acceder a la configuración del "**Modo Quiosco**", siga estos pasos:
 
-1. En la pantalla "[Editar política](./)", seleccione la pestaña "**Modo Quiosco**".&#x20;
+1. En la pantalla "[Editar política](./)", seleccione la pestaña "**Modo Quiosco**".
 2. Active el modo quiosco haciendo clic en el botón de activación.
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-01-11 135757.png" alt=""><figcaption></figcaption></figure>
@@ -15,7 +15,7 @@ Para acceder a la configuración del "**Modo Quiosco**", siga estos pasos:&#x20;
 
 4. Al activar el Modo Quiosco en la política y aprovisionar un dispositivo con esta política, la aplicación Kiosk Launcher Manager se instalará automáticamente en el dispositivo.
 
-Cuando el dispositivo instale la aplicación Kiosk, la aplicación capturará la lista de todos los aplicativos instalados en el dispositivo y la enviará al Portal de administración.  Además, enviará las  configuraciones administradas al portal y cambiará el lanzador del dispositivo por el de la aplicación Kiosk. No permitirá que el usuario cambie el lanzador en el dispositivo y mantendrá la configuración del Modo Quiosco recibida en la política.
+Cuando el dispositivo instale la aplicación Kiosk, la aplicación capturará la lista de todos los aplicativos instalados en el dispositivo y la enviará al Portal de administración. Además, enviará las configuraciones administradas al portal y cambiará el lanzador del dispositivo por el de la aplicación Kiosk. No permitirá que el usuario cambie el lanzador en el dispositivo y mantendrá la configuración del Modo Quiosco recibida en la política.
 
 ### Opciones de configuración del Modo Quiosco
 
@@ -35,7 +35,7 @@ Durante la activación de un dispositivo en una política con Modo Kiosco Activo
 Otra opción, para no tener que dejar el acceso a las configuraciones liberado, es dejar los permisos del Companion como opcionales, así el usuario puede activar sin que sea necesario conceder los permisos; sin embargo, en este caso, los datos relacionados con los permisos no concedidos no serán recopilados.
 {% endhint %}
 
-* **Servicios de telefonía adicionales:** permite definir los servicios de telefonía como "Activo" o "Definido por dispositivo". Al definir como "Activo" y guardar la política, el sistema enviará los paquetes de servicios de telefonía al dispositivo, lo que permitirá recibir y realizar llamadas en el dispositivo que provisiona la política. Al definir como "Definido por  Dispositivo", el dispositivo funcionará según su configuración estándar, teniendo o no los servicios.
+* **Servicios de telefonía adicionales:** permite definir los servicios de telefonía como "Activo" o "Definido por dispositivo". Al definir como "Activo" y guardar la política, el sistema enviará los paquetes de servicios de telefonía al dispositivo, lo que permitirá recibir y realizar llamadas en el dispositivo que provisiona la política. Al definir como "Definido por Dispositivo", el dispositivo funcionará según su configuración estándar, teniendo o no los servicios.
 
 <figure><img src="../../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,7 +51,7 @@ Otra opción, para no tener que dejar el acceso a las configuraciones liberado, 
 
 * **Acceso Temporal al Dispositivo** - Configuración para permitir que el usuario acceda al dispositivo durante un tiempo determinado. Para activar el permiso, deslice el interruptor hacia la derecha desde la pantalla principal. Además, es posible definir la duración del acceso del usuario al dispositivo, que puede ser de 5, 10, 15, 30 minutos ó 1 hora. Al habilitar el acceso temporal, se generará una contraseña para que el usuario pueda acceder al dispositivo. En la sección "Opciones de Gestión de Dispositivos" detallaremos mejor cómo funcionará.
 
-A continuación, listamos los accesos que el usuario tendrá en el dispositivo al ingresar la contraseña de acceso temporal:&#x20;
+A continuación, listamos los accesos que el usuario tendrá en el dispositivo al ingresar la contraseña de acceso temporal:
 
 * Liberará acceso a todas las aplicaciones instaladas que estén en la política, incluso si no están visibles en el Modo Kiosco (Google Play y Remotos);
 * Liberará acceso a todas las aplicaciones de sistema que existen en la política (independientemente de si están visibles);
@@ -60,6 +60,34 @@ A continuación, listamos los accesos que el usuario tendrá en el dispositivo a
 Después de finalizar el tiempo definido, el Modo Kiosco se activará nuevamente de forma automática.
 
 <figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+
+### **Permiso para Mostrar Aplicaciones en la Pantalla de Inicio**
+
+Al iniciar **Kiosk Launcher** por primera vez, se mostrará una pantalla solicitando el consentimiento del usuario para la recopilación de información sobre las aplicaciones instaladas. Esta recopilación es necesaria para que la launcher muestre correctamente los íconos de las aplicaciones cuando el dispositivo esté en **Modo Quiosco**.
+
+#### **Visualización del Mensaje**
+
+Tan pronto como **Kiosk Launcher** se abra, se presentará el siguiente mensaje:
+
+**Aviso de Uso de Datos**
+
+_"Kiosk Launcher Manager recopila información sobre todas las aplicaciones instaladas para mostrar sus íconos en la launcher que será creada por Kiosk Launcher cuando el dispositivo esté en Modo Quiosco. Para que esta recopilación de información se realice, Kiosk Launcher Manager requiere su consentimiento."_
+
+#### **El usuario podrá elegir entre dos opciones:**
+
+❌ **Rechazar**
+
+* El mensaje se cerrará.
+* No se recopilará información sobre las aplicaciones instaladas.
+* La launcher mostrará solo **Kiosk Launcher**, sin los íconos de otras aplicaciones.
+
+✅ **Aceptar**
+
+* El mensaje se cerrará.
+* Se recopilará información sobre las aplicaciones instaladas.
+* La launcher mostrará correctamente los íconos de las aplicaciones instaladas.
+
+Si el usuario selecciona **"Rechazar"**, la pantalla de inicio no podrá mostrar los íconos de las aplicaciones, excepto **Kiosk Launcher**. En caso de que el usuario cambie de opinión, será necesario permitir la recopilación de información en la configuración del dispositivo o reinstalar la aplicación para volver a visualizar la solicitud.
 
 ## **Modo Quiosco ChromeOS**
 

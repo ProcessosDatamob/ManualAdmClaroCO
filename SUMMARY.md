@@ -69,6 +69,7 @@
     * [Preguntas Frecuentes](portal/ayuda/preguntas-frecuentes.md)
     * [Documentos y Materiales de Apoyo](portal/ayuda/documentos-y-materiales-de-apoyo.md)
 * [RELEASE NOTES](release-notes/README.md)
+  * [Hotfix V 8.0.0 Modo Quiosco](release-notes/hotfix-v-8.0.0-modo-quiosco.md)
   * [Release Notes Claro Monitor Empresarial V 18.0.0](release-notes/release-notes-claro-monitor-empresarial-v-18.0.0/README.md)
     * [Configuración de Términos de Uso de la Empresa en las Políticas](release-notes/release-notes-claro-monitor-empresarial-v-18.0.0/configuracion-de-terminos-de-uso-de-la-empresa-en-las-politicas.md)
     * [Ajustes y Correcciones de la Versión - V 18.0.0](release-notes/release-notes-claro-monitor-empresarial-v-18.0.0/ajustes-y-correcciones-de-la-version-v-18.0.0.md)
