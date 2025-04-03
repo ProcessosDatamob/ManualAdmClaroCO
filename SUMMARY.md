@@ -73,6 +73,7 @@
 * [RELEASE NOTES](manual-del-administrador/release-notes/README.md)
   * [Release Notes \<NomeProduto> V 20.0.1](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/README.md)
     * [Bloqueo De Apps Por Velocidad En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Bloqueo-De-Apps-Por-Velocidad-En-El-Portal.md)
+    * [Total De Licencias En El Portal Con Licencias Híbridas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Total-De-Licencias-En-El-Portal-Con-Licencias-Híbridas.md)
   * [Release Notes \<NomeProduto> V 18.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/README.md)
     * [Configuración de Términos de Uso de la Empresa en las Políticas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/configuracion-de-terminos-de-uso-de-la-empresa-en-las-politicas.md)
     * [Ajustes y Correcciones de la Versión - V 18.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/ajustes-y-correcciones-de-la-version-v-18.0.0.md)
