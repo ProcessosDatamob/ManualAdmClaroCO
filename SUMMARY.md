@@ -71,6 +71,8 @@
     * [Preguntas Frecuentes](manual-del-administrador/portal/ayuda/preguntas-frecuentes.md)
     * [Documentos y Materiales de Apoyo](manual-del-administrador/portal/ayuda/documentos-y-materiales-de-apoyo.md)
 * [RELEASE NOTES](manual-del-administrador/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 20.0.1](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/README.md)
+    * [Bloqueo De Aplicaciones Por Velocidad](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Bloqueo-De-Aplicaciones-Por-Velocidad.md)
   * [Release Notes \<NomeProduto> V 18.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/README.md)
     * [Configuración de Términos de Uso de la Empresa en las Políticas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/configuracion-de-terminos-de-uso-de-la-empresa-en-las-politicas.md)
     * [Ajustes y Correcciones de la Versión - V 18.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/ajustes-y-correcciones-de-la-version-v-18.0.0.md)
