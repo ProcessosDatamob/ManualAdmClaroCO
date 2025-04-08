@@ -6,3 +6,7 @@
 ### **Novedades**
 
 1. [Bloqueo de Aplicaciones por Velocidad](Bloqueo-De-Aplicaciones-Por-Velocidad.md)
+
+### **Correccíon de Errores**
+
+1. [Visualización del Total de Licencias en el Portal](Visualización-Del-Total-De-Licencias-En-El-Portal.md)
