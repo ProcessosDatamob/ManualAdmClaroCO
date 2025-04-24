@@ -1,0 +1,5 @@
+# Bloqueo de Apps por Velocidad en el Portal
+
+**ID de la US: US-NPD-7726**
+
+En el portal, puedes configurar el bloqueo de aplicaciones basado en la velocidad del dispositivo para evitar su uso mientras el dispositivo se mueve rápidamente. Para ello, activa la opción "Bloqueo por Velocidad" en las configuraciones. Puedes definir la velocidad a partir de la cual comienza el bloqueo (el valor predeterminado es 20 km/h) y elegir la unidad de medida (el valor predeterminado es km/h). También es posible especificar un tiempo de espera entre 1 y 10 minutos, siendo el valor predeterminado 1 minuto. Estas configuraciones se enviarán automáticamente a los dispositivos que usan el <NombreProducto> y se aplicarán a las aplicaciones que hayas seleccionado. Cuando el dispositivo supere la velocidad definida, la aplicación será bloqueada. Una vez que la velocidad disminuya, la aplicación se desbloqueará después del tiempo de espera configurado.
