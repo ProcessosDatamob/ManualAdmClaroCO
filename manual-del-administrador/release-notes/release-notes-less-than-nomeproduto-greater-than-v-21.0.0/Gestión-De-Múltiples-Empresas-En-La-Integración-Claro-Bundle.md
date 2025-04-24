@@ -1,5 +1,0 @@
-# Gestión de Múltiples Empresas en la Integración Claro Bundle
-
-**ID de la US: US-NPD-8576**
-
-En el portal, los administradores pueden gestionar varias empresas utilizando un único inicio de sesión, lo que facilita el control y la administración de sus operaciones. Cuando sea necesario activar una licencia en Claro Bundle y la licencia o la empresa aún no existan, es posible crear una nueva empresa o asociarla a una ya existente. Si un usuario está asociado a solo una empresa, puede ser desactivado y eliminado completamente. En cambio, para los usuarios que forman parte de varias empresas, el vínculo con una empresa específica puede ser eliminado sin afectar las demás asociaciones. Además, si un usuario fue desactivado anteriormente, puede ser reactivado y vinculado nuevamente a empresas, recibiendo un correo electrónico de bienvenida para notificarle de esta reactivación.
