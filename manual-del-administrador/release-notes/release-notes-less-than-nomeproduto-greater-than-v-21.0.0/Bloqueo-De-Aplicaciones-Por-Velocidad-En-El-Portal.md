@@ -1,5 +1,0 @@
-# Bloqueo de Aplicaciones por Velocidad en el Portal
-
-**ID: US-NPD-7726**
-
-En el portal, puedes decidir bloquear aplicaciones basándote en la velocidad a la que te estás moviendo. Al acceder a la política, es posible activar esta opción y establecer la velocidad mínima necesaria para comenzar el bloqueo, con un valor inicial de 20 km/h. También puedes ajustar el tiempo de espera para verificar si el bloqueo debe ocurrir, que puede variar entre 1 y 10 minutos, siendo 1 minuto el valor predeterminado. Estas configuraciones se envían a los dispositivos asociados con <NombreProducto>. En la aplicación, hay una lista donde puedes elegir activar o desactivar el bloqueo para cada aplicación individualmente. Tan pronto como se alcanza la velocidad configurada, las aplicaciones son bloqueadas y permanecen así hasta que la velocidad disminuya y quede por debajo del límite que has definido.
