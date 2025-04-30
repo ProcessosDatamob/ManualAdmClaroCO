@@ -10,3 +10,4 @@
 ### **Correccíon de Errores**
 
 1. [Visualización del Total de Licencias en el Portal](Visualización-Del-Total-De-Licencias-En-El-Portal.md)
+2. [Visualización de Licencias No Instaladas](Visualización-De-Licencias-No-Instaladas.md)
