@@ -10,3 +10,4 @@
 ### **Mejoras**
 
 1. [Configuración de Métodos de Entrada en el Portal](Configuración-De-Métodos-De-Entrada-En-El-Portal.md)
+2. [Desactivación de Personalización del Quiosco](Desactivación-De-Personalización-Del-Quiosco.md)
