@@ -8,6 +8,7 @@
 1. [Configuración de Aplicaciones Predeterminadas en el Portal](Configuración-De-Aplicaciones-Predeterminadas-En-El-Portal.md)
 
 2. [Registro de Grupos por IMEI en Lote](Registro-De-Grupos-Por-Imei-En-Lote.md)
+3. [Filtro de Fechas en las Ubicaciones del Dashboard](Filtro-De-Fechas-En-Las-Ubicaciones-Del-Dashboard.md)
 ### **Mejoras**
 
 1. [Configuración de Métodos de Entrada en el Portal](Configuración-De-Métodos-De-Entrada-En-El-Portal.md)
