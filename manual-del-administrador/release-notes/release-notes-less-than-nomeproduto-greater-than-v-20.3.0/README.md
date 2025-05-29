@@ -15,3 +15,4 @@
 2. [Desactivación de Personalización del Quiosco](Desactivación-De-Personalización-Del-Quiosco.md)
 3. [Configuración de Servicios de Accesibilidad en el Portal](Configuración-De-Servicios-De-Accesibilidad-En-El-Portal.md)
 4. [Impedir Selección de Horarios Iguales para Monitoreo de GPS](Impedir-Selección-De-Horarios-Iguales-Para-Monitoreo-De-Gps.md)
+5. [Gestión de Métodos de Entrada en el Portal](Gestión-De-Métodos-De-Entrada-En-El-Portal.md)
