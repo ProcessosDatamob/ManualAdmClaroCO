@@ -75,6 +75,7 @@
     * [Configuración De Aplicaciones Predeterminadas En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/Configuración-De-Aplicaciones-Predeterminadas-En-El-Portal.md)
     * [Configuración De Métodos De Entrada En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/Configuración-De-Métodos-De-Entrada-En-El-Portal.md)
     * [Desactivación De Personalización Del Quiosco](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/Desactivación-De-Personalización-Del-Quiosco.md)
+    * [Registro De Grupos Por Imei En Lote](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/Registro-De-Grupos-Por-Imei-En-Lote.md)
   * [Release Notes \<NomeProduto> V 18.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/README.md)
     * [Configuración de Términos de Uso de la Empresa en las Políticas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/configuracion-de-terminos-de-uso-de-la-empresa-en-las-politicas.md)
     * [Ajustes y Correcciones de la Versión - V 18.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/ajustes-y-correcciones-de-la-version-v-18.0.0.md)
