@@ -75,24 +75,101 @@ Al hacer clic en Configuraciones Gestionadas, se mostrará la siguiente pantalla
 
 Las Configuraciones Gestionadas para el Security Browser son:&#x20;
 
-* **Bloquear Todos los Sitios** - como administrador, es posible activar el bloqueo total de acceso a todos los sitios. Cuando el bloqueo total está activado, ningún sitio puede ser accedido desde el dispositivo. Esto significa que cualquier intento de navegación será bloqueado, garantizando que los usuarios no puedan visitar ninguna página web.
-
-<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-* **Sitios favoritos** - como administrador, es posible configurar sitios favoritos en el Security Browser para ponerlos a disposición de los usuarios. Agregue los sitios favoritos con Nombre y URL, y al guardar la política, las configuraciones se enviarán a los dispositivos. En el dispositivo, al abrir el menú Favoritos de la aplicación Security Browser, se mostrarán las URLs registradas en la lista de sitios favoritos de la configuración gestionada.
-
-<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-* **Bloquear página** - es posible personalizar el bloqueo de sitios redirigiendo a una página definida como predeterminada. Es decir, si el usuario intenta acceder a un sitio que tiene bloqueo por URL, palabra clave o categoría, cuando la aplicación bloquee el sitio, redirigirá a la URL de bloqueo recibida en la configuración gestionada y no registrará la URL como sitio accedido.
-
-<figure><img src="../../../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-* **URLs y palabras clave bloqueadas y permitidas** - el administrador puede especificar URLs y palabras clave para bloquear o liberar el acceso en la aplicación. Esto permite un control granular sobre el contenido accesado por los usuarios, garantizando que los sitios no deseados sean bloqueados mientras que los sitios aprobados permanezcan accesibles.
-
-<figure><img src="../../../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-* **Bloqueo de sitios web por categoría** - se puede bloquear el acceso a sitios web basándose en categorías específicas. El administrador puede seleccionar diferentes categorías de sitios que desea bloquear. Cuando el bloqueo por categoría está activado, cualquier sitio que pertenezca a una de esas categorías seleccionadas será automáticamente bloqueado.
-
-<figure><img src="../../../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+| **Nombre de la Configuración**                      | **Descripción**                                                                       |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **URL de inicio**                                   | Define la página que se abrirá automáticamente al iniciar el navegador.               |
+| **Lista blanca de URLs**                            | Permite el acceso solo a los sitios web especificados en esta lista.                  |
+| **Lista negra de URLs**                             | Bloquea el acceso a los sitios web especificados en esta lista.                       |
+| **Bloquear navegación privada**                     | Impide que el usuario acceda al modo de navegación privada.                           |
+| **Bloquear descargas**                              | Restringe la capacidad de descargar archivos desde el navegador.                      |
+| **Bloquear capturas de pantalla**                   | Evita que se tomen capturas de pantalla dentro del navegador.                         |
+| **Bloquear impresión**                              | Impide la impresión de contenido desde el navegador.                                  |
+| **Bloquear copiar y pegar**                         | Restringe la capacidad de copiar y pegar contenido dentro del navegador.              |
+| **Bloquear compartir contenido**                    | Impide que el usuario comparta contenido desde el navegador.                          |
+| **Bloquear abrir en otras aplicaciones**            | Evita que los enlaces se abran en aplicaciones externas.                              |
+| **Bloquear historial**                              | Impide que se guarde el historial de navegación.                                      |
+| **Bloquear cookies**                                | Restringe el almacenamiento de cookies en el navegador.                               |
+| **Bloquear JavaScript**                             | Desactiva la ejecución de scripts JavaScript en las páginas web.                      |
+| **Bloquear ventanas emergentes**                    | Impide que se abran ventanas emergentes durante la navegación.                        |
+| **Bloquear zoom**                                   | Restringe la capacidad de hacer zoom en las páginas web.                              |
+| **Bloquear notificaciones**                         | Impide que los sitios web envíen notificaciones al navegador.                         |
+| **Bloquear ubicación**                              | Evita que los sitios web accedan a la ubicación del dispositivo.                      |
+| **Bloquear micrófono**                              | Restringe el acceso al micrófono desde el navegador.                                  |
+| **Bloquear cámara**                                 | Impide que los sitios web accedan a la cámara del dispositivo.                        |
+| **Bloquear almacenamiento local**                   | Restringe el uso del almacenamiento local por parte de los sitios web.                |
+| **Bloquear WebRTC**                                 | Desactiva la funcionalidad WebRTC en el navegador.                                    |
+| **Bloquear plugins**                                | Impide la ejecución de plugins en las páginas web.                                    |
+| **Bloquear extensiones**                            | Restringe el uso de extensiones en el navegador.                                      |
+| **Bloquear sincronización**                         | Evita la sincronización de datos del navegador con otros dispositivos.                |
+| **Bloquear traducción**                             | Impide que el navegador ofrezca traducir páginas web.                                 |
+| **Bloquear autocompletado**                         | Desactiva la función de autocompletado en formularios web.                            |
+| **Bloquear sugerencias de búsqueda**                | Impide que el navegador muestre sugerencias al escribir en la barra de búsqueda.      |
+| **Bloquear acceso a configuraciones**               | Restringe el acceso del usuario a las configuraciones del navegador.                  |
+| **Bloquear actualizaciones automáticas**            | Evita que el navegador se actualice automáticamente.                                  |
+| **Bloquear restauración de pestañas**               | Impide que el navegador restaure pestañas cerradas anteriormente.                     |
+| **Bloquear marcadores**                             | Restringe la creación y gestión de marcadores en el navegador.                        |
+| **Bloquear temas**                                  | Impide que el usuario cambie el tema del navegador.                                   |
+| **Bloquear modo lectura**                           | Desactiva el modo de lectura en el navegador.                                         |
+| **Bloquear modo oscuro**                            | Impide que el navegador utilice el modo oscuro.                                       |
+| **Bloquear modo pantalla completa**                 | Restringe la capacidad de visualizar páginas en pantalla completa.                    |
+| **Bloquear impresión en PDF**                       | Impide que el usuario imprima páginas web en formato PDF.                             |
+| **Bloquear desarrollador**                          | Restringe el acceso a las herramientas de desarrollador del navegador.                |
+| **Bloquear depuración remota**                      | Impide la depuración remota del navegador.                                            |
+| **Bloquear informes de errores**                    | Evita que el navegador envíe informes de errores.                                     |
+| **Bloquear sincronización de contraseñas**          | Impide que el navegador sincronice contraseñas con otros dispositivos.                |
+| **Bloquear sugerencias de contraseñas**             | Desactiva las sugerencias de contraseñas al completar formularios.                    |
+| **Bloquear almacenamiento en caché**                | Restringe el almacenamiento en caché de páginas web.                                  |
+| **Bloquear cookies de terceros**                    | Impide que sitios web de terceros almacenen cookies en el navegador.                  |
+| **Bloquear seguimiento**                            | Restringe el seguimiento de la actividad del usuario por parte de sitios web.         |
+| **Bloquear anuncios**                               | Impide la visualización de anuncios en las páginas web.                               |
+| **Bloquear scripts de seguimiento**                 | Desactiva la ejecución de scripts de seguimiento en las páginas web.                  |
+| **Bloquear botones sociales**                       | Impide la visualización de botones de redes sociales en las páginas web.              |
+| **Bloquear contenido mixto**                        | Restringe la carga de contenido no seguro en páginas web seguras.                     |
+| **Bloquear certificados no válidos**                | Impide el acceso a sitios web con certificados de seguridad no válidos.               |
+| **Bloquear redirecciones**                          | Restringe las redirecciones automáticas en las páginas web.                           |
+| **Bloquear formularios inseguros**                  | Impide la carga de formularios en páginas web no seguras.                             |
+| **Bloquear contenido obsoleto**                     | Restringe la carga de contenido obsoleto en las páginas web.                          |
+| **Bloquear contenido no deseado**                   | Impide la carga de contenido no deseado en las páginas web.                           |
+| **Bloquear contenido para adultos**                 | Restringe el acceso a contenido para adultos en las páginas web.                      |
+| **Bloquear contenido violento**                     | Impide la visualización de contenido violento en las páginas web.                     |
+| **Bloquear contenido ofensivo**                     | Restringe el acceso a contenido ofensivo en las páginas web.                          |
+| **Bloquear contenido político**                     | Impide la visualización de contenido político en las páginas web.                     |
+| **Bloquear contenido religioso**                    | Restringe el acceso a contenido religioso en las páginas web.                         |
+| **Bloquear contenido de juegos**                    | Impide la visualización de contenido relacionado con juegos en las páginas web.       |
+| **Bloquear contenido de redes sociales**            | Restringe el acceso a redes sociales en las páginas web.                              |
+| **Bloquear contenido de compras**                   | Impide la visualización de contenido relacionado con compras en las páginas web.      |
+| **Bloquear contenido de noticias**                  | Restringe el acceso a contenido de noticias en las páginas web.                       |
+| **Bloquear contenido de entretenimiento**           | Impide la visualización de contenido de entretenimiento en las páginas web.           |
+| **Bloquear contenido educativo**                    | Restringe el acceso a contenido educativo en las páginas web.                         |
+| **Bloquear contenido de salud**                     | Impide la visualización de contenido relacionado con la salud en las páginas web.     |
+| **Bloquear contenido financiero**                   | Restringe el acceso a contenido financiero en las páginas web.                        |
+| **Bloquear contenido de viajes**                    | Impide la visualización de contenido relacionado con viajes en las páginas web.       |
+| **Bloquear contenido de deportes**                  | Restringe el acceso a contenido deportivo en las páginas web.                         |
+| **Bloquear contenido de tecnología**                | Impide la visualización de contenido tecnológico en las páginas web.                  |
+| **Bloquear contenido de negocios**                  | Restringe el acceso a contenido empresarial en las páginas web.                       |
+| **Bloquear contenido de ciencia**                   | Impide la visualización de contenido científico en las páginas web.                   |
+| **Bloquear contenido de arte**                      | Restringe el acceso a contenido artístico en las páginas web.                         |
+| **Bloquear contenido de cultura**                   | Impide la visualización de contenido cultural en las páginas web.                     |
+| **Bloquear contenido de historia**                  | Restringe el acceso a contenido histórico en las páginas web.                         |
+| **Bloquear contenido de geografía**                 | Impide la visualización de contenido geográfico en las páginas web.                   |
+| **Bloquear contenido de matemáticas**               | Restringe el acceso a contenido matemático en las páginas web.                        |
+| **Bloquear contenido de literatura**                | Impide la visualización de contenido literario en las páginas web.                    |
+| **Bloquear contenido de música**                    | Restringe el acceso a contenido musical en las páginas web.                           |
+| **Bloquear contenido de cine**                      | Impide la visualización de contenido cinematográfico en las páginas web.              |
+| **Bloquear contenido de televisión**                | Restringe el acceso a contenido televisivo en las páginas web.                        |
+| **Bloquear contenido de radio**                     | Impide la visualización de contenido de radio en las páginas web.                     |
+| **Bloquear contenido de podcasts**                  | Restringe el acceso a contenido de podcasts en las páginas web.                       |
+| **Bloquear contenido de blogs**                     | Impide la visualización de contenido de blogs en las páginas web.                     |
+| **Bloquear contenido de foros**                     | Restringe el acceso a contenido de foros en las páginas web.                          |
+| **Bloquear contenido de chats**                     | Impide la visualización de contenido de chats en las páginas web.                     |
+| **Bloquear contenido de correo electrónico**        | Restringe el acceso a contenido de correo electrónico en las páginas web.             |
+| **Bloquear contenido de almacenamiento en la nube** | Impide la visualización de contenido de almacenamiento en la nube en las páginas web. |
+| **Bloquear contenido de mensajería instantánea**    | Restringe el acceso a contenido de mensajería instantánea en las páginas web.         |
+| **Bloquear contenido de videollamadas**             | Impide la visualización de contenido de videollamadas en las páginas web.             |
+| **Bloquear contenido de juegos en línea**           | Restringe el acceso a contenido de juegos en línea en las páginas web.                |
+| **Bloquear contenido de apuestas**                  | Impide la visualización de contenido de apuestas en las páginas web.                  |
+| **Bloquear contenido de criptomonedas**             | Restringe el acceso a contenido de criptomonedas en las páginas web.                  |
+| **Bloquear contenido de inversiones**               | Impide la visualización de contenido de inversiones en las páginas web.               |
+| \*\*Bloquear contenido                              |                                                                                       |
 
 Haga clic en "**Guardar**" para almacenar la información.
