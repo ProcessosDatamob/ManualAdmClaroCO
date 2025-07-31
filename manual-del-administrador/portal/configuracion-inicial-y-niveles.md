@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Configuración Inicial y Niveles
 
 Al ingresar al Portal  **\<NomeProduto>**, el usuario tendrá acceso a las configuraciones y funcionalidades.

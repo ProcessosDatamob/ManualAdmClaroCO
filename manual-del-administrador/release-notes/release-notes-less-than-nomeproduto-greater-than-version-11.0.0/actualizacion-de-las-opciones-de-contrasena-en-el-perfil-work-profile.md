@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Actualización de las opciones de contraseña en el perfil Work Profile
 
 Se ha realizado una actualización en las opciones de contraseña en una política de perfil de trabajo para evitar que la restricción de contraseña del perfil de trabajo entre en conflicto con la contraseña del dispositivo.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Recuperación de contraseña
 
 Si no recuerda la contraseña de acceso al portal, realice los siguientes pasos para recuperarla.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Token de Registro
 
 Como se ve en la sección anterior, puede acceder al token de registro de dispositivos desde el menú "**Configuraciones**" en la opción "**Administrar Políticas**". La pantalla del token de registro se muestra a continuación.

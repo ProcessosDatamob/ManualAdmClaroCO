@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Administrar Políticas
 
 Al acceder a la opción "**Administrar políticas**" se abrirá la pantalla que se muestra a continuación.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Editar Política
 
 Esta pantalla del sistema tiene como objetivo permitir la configuración de todos los detalles de una política. En la siguiente imagen se muestra la pantalla "**Editar política**".&#x20;

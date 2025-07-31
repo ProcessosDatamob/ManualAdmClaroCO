@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Primer acceso y vinculación a Enterprise
 
 Cuando el producto **\<NomeProduto>** es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:

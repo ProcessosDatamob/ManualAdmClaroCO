@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Localización
 
 Esta pantalla del sistema tiene como objetivo permitir al usuario visualizar las ubicaciones geográficas de un dispositivo activo en una fecha específica.

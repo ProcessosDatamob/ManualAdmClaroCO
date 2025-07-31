@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Configuraciones
 
 El menú de configuración permite acceder a la configuración de los perfiles de consumo y de las políticas de administración de dispositivos.

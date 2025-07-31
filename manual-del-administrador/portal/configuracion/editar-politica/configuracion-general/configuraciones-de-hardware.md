@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Hardware
 
 Al estar en la pestaña "Ajustes" de la pantalla "Edición de políticas" haga clic en "Hardware" para ver las opciones de configuración de hardware. Utilice los botones selectores para activar o desactivar una configuración. En la siguiente tabla se describen las preferencias de hardware.

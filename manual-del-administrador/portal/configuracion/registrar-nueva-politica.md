@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Registrar Nueva Política
 
 Esta pantalla del sistema tiene el objetivo de realizar el registro de nuevas políticas. Para iniciar el registro de una nueva política seleccione la opción "**Registrar nueva política**" en el menú "**Configuraciones**".

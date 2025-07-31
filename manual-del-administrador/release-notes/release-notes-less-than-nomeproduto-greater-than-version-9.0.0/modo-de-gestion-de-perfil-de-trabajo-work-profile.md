@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Modo de gestión de perfil de trabajo - Work Profile
 
 Profile es un modo de gestión exclusivo para dispositivos personales, permite que un usuario con su dispositivo personal pueda crear un entorno seguro para utilizar aplicaciones de trabajo, Garantizar la seguridad necesaria para la información de la empresa y la privacidad del usuario, ya que el dispositivo es personal.

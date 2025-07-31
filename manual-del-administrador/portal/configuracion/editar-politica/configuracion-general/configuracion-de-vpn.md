@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # VPN
 
 Al estar en la pestaña "**Ajustes**" de la pantalla "**Edición de políticas**", haga clic en "**Configuración de VPN**" para ver las opciones de configuración de VPN. En la siguiente tabla, se describen los ajustes de VPN.
