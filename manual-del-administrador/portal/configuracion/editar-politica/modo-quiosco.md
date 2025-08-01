@@ -21,7 +21,10 @@ Cuando el dispositivo instale la aplicación Kiosk, la aplicación capturará la
 
 Cuando el modo quiosco esté activado, estarán disponibles las siguientes opciones de configuración:
 
-<figure><img src="../../../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+
+**Botón para Activar/Desactivar Personalizaciones del Modo Quiosco** – permite al administrador activar o desactivar las personalizaciones visuales y funcionales del modo quiosco en dispositivos Android. Esta opción ayuda a evitar fallas en la activación del modo quiosco en dispositivos con limitaciones.\
+Al activar el modo quiosco, se mostrará un botón llamado **“Personalizaciones”**, que estará activado por defecto. Si el administrador decide desactivarlo, el sistema ocultará y dejará de aplicar las configuraciones en el dispositivo.
 
 * **Botones de navegación:** Permite definir los botones de navegación del dispositivo como "Activo", "Bloqueado" o "Solo el botón Inicio".
 * **Botão "Power":** permite definir el botón de encendido del dispositivo como "Disponible" o "Bloqueado.

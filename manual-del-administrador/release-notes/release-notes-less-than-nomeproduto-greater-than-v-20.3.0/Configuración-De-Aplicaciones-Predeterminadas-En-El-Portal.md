@@ -1,5 +1,0 @@
-# Configuración de Aplicaciones Predeterminadas en el Portal
-
-**ID: US-BTB-121**
-
-Descripción: En el portal, puedes elegir aplicaciones predeterminadas para políticas Android de manera sencilla. Solo necesitas acceder a la configuración de políticas, donde podrás seleccionar aplicaciones de una lista o ingresar paquetes para definir las acciones y categorías predeterminadas. Es posible elegir varias acciones o categorías para cada aplicación, pero no es obligatorio completar todos los campos. Es importante asegurarse de que las acciones y categorías elegidas para una aplicación no se repitan en otras aplicaciones. Después de configurar todo según lo deseado, guarda tus cambios para que las configuraciones se apliquen a los dispositivos conectados, en conformidad con los requisitos de Android Enterprise Recommended.

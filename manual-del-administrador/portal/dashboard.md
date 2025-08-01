@@ -215,9 +215,17 @@ Para realizar el análisis individual de los usuarios de dispositivos, haga clic
 
 ## **Ubicación de los Dispositivos**
 
-El mapa muestra la última ubicación de los dispositivos. Para que la ubicación se muestre y actualice, el dispositivo debe estar conectado a Internet, debe haber señal GPS y la configuración de "Modo de Localización" debe estar "Activa" en Ubicación en la política aplicada al dispositivo.
+El mapa muestra las últimas ubicaciones registradas de los dispositivos, con base en los datos enviados durante el uso. Para que las ubicaciones se muestren correctamente:
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-06 100845 (2).png" alt=""><figcaption></figcaption></figure>
+* el dispositivo debe estar conectado a Internet,
+* debe haber señal de GPS,
+* y la configuración de "Modo de ubicación" debe estar "Activa" en la política aplicada al dispositivo.
+
+Utilice la opción de filtrar las ubicaciones por período, utilizando los campos "Fecha inicial" y "Fecha final". El sistema solo habilita la búsqueda después de completar ambas fechas.
+
+Al hacer clic en "Mostrar ubicaciones", el mapa muestra los puntos registrados dentro del intervalo seleccionado, manteniendo todas las funcionalidades de visualización y marcadores ya existentes.
+
+<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 Si el sistema no carga las ubicaciones en el mapa, haga clic en el botón "Ver ubicaciones" para mostrar las ubicaciones.
 
