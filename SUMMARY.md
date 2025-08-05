@@ -91,8 +91,6 @@
   * [Hotfix V 19.0.0 – Modo Quiosque](manual-del-administrador/release-notes/hotfix-v-19.0.0-modo-quiosque.md)
   * [Release Notes Claro Monitor Empresarial V 19.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/README.md)
     * [Configuraciones Avanzadas en el Security Browser](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/configuraciones-avanzadas-en-el-security-browser.md)
-    * [Acceso Remoto vía Remote View para Dispositivos Android](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/acceso-remoto-via-remote-view-para-dispositivos-android.md)
-    * [Nuevas Funcionalidades para Gestión de Dispositivos Linux](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/nuevas-funcionalidades-para-gestion-de-dispositivos-linux.md)
     * [Nuevas Configuraciones en el Work Profile](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/nuevas-configuraciones-en-el-work-profile.md)
   * [Release Notes Claro Monitor Empresarial V 18.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/README.md)
     * [Configuración de Términos de Uso de la Empresa en las Políticas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/configuracion-de-terminos-de-uso-de-la-empresa-en-las-politicas.md)
