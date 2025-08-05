@@ -8,4 +8,4 @@ Ahora, el portal permite configurar y gestionar el Modo Quiosco para dispositivo
 
 Esta funcionalidad es esencial para gestionar dispositivos ChromeOS de manera eficiente y personalizada.
 
-Más información en las secciones [Modo Quiosco](../../portal/configuracion/editar-politica/modo-quiosco.md), [Información de la Empresa](../../portal/empresa/informacion-de-la-empresa.md) y [Registrar Nueva Política](../../portal/configuracion/registrar-nueva-politica.md).
+Más información en las secciones [Modo Quiosco](broken-reference), [Información de la Empresa](broken-reference) y [Registrar Nueva Política](broken-reference).

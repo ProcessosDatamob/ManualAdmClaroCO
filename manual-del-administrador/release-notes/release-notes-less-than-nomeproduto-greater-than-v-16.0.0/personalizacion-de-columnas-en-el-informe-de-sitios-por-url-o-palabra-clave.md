@@ -4,4 +4,4 @@ Ahora, la pantalla **"Informe de Sitios por URL o Palabra Clave"** permite perso
 
 Es posible guardar configuraciones personalizadas, copiar los datos mostrados, generar informes personalizados y ordenar o buscar columnas de manera eficiente. Esta funcionalidad mejora la organización y la usabilidad del informe.
 
-Más información en la sección[ **Informe de Sitios por URL o Palabra Clave**](../../portal/sitios/reporte-de-sitios-web-por-url-o-palabra-clave.md).
+Más información en la sección[ **Informe de Sitios por URL o Palabra Clave**](broken-reference).

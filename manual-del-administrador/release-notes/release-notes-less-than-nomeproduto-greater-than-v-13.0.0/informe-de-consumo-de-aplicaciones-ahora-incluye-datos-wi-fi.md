@@ -6,6 +6,6 @@ Además, esta información también está disponible en la lista de usuarios con
 
 Importante: La información de consumo de Wi-Fi no estará disponible en versiones anteriores de la aplicación .
 
-Más información en la sección [Información de Aplicaciones](../../portal/dispositivos/informacion-de-la-aplicacion.md).
+Más información en la sección [Información de Aplicaciones](broken-reference).
 
 [Volver a la lista de Release Notes](./)

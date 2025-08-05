@@ -9,4 +9,4 @@
 5. [Registro de Log de Acciones en Lote](registro-de-log-de-acciones-en-lote.md)
 6. [Configuración de Servicios de Telefonía](configuracion-de-servicios-de-telefonia.md)
 7. [Acciones por Lote de Dispositivos](acciones-por-lote-de-dispositivos.md)
-8. [Bloqueo Fuera del Horario Laboral](bloqueo-fuera-del-horario-laboral.md)
+8. [Bloqueo Fuera del Horario Laboral](broken-reference)

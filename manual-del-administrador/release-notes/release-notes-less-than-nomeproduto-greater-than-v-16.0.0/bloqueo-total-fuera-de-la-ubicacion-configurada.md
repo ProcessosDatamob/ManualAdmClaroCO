@@ -6,4 +6,4 @@ Cuando el dispositivo está fuera del área delimitada, oculta todas las aplicac
 
 El desbloqueo ocurre al regresar a la ubicación o al desactivar la configuración. Para su correcto funcionamiento, es necesario que los servicios de ubicación, como "Precisión de Ubicación" y "Alta Precisión", estén activados. Esta configuración asegura que el dispositivo solo sea utilizado en lugares autorizados.
 
-Más información en la sección [Bloqueo Total](../../portal/configuracion/editar-politica/configuracion-general/bloqueo-total.md).
+Más información en la sección [Bloqueo Total](broken-reference).

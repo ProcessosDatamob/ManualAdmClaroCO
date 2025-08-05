@@ -2,13 +2,13 @@
 
 **Novedades de la Versión**
 
-1. [Personalización de columnas para Visualización de Información](personalizacion-de-columnas-para-visualizacion-de-informacion.md)
-2. [Nuevo Diseño de la Opción Gestionar Dispositivo](nuevo-diseno-de-la-opcion-gestionar-dispositivo.md)
-3. [Configuración del Fondo de Pantalla Fuera del Modo Kiosco](configuracion-del-fondo-de-pantalla-fuera-del-modo-kiosco.md)
-4. [Actualización de las opciones de contraseña en el perfil de Work Profile](actualizacion-de-las-opciones-de-contrasena-en-el-perfil-work-profile.md)
-5. [Pantalla de Bloqueo Personalizada en el Security Browser](pantalla-de-bloqueo-personalizada-en-el-security-browser.md)
-6. [Gestión de Sitios Favoritos del Security Browser](gestion-de-sitios-favoritos-del-security-browser.md)
-7. [Datos de Conectividad del Dispositivo](datos-de-conectividad-del-dispositivo.md)
+1. [Personalización de columnas para Visualización de Información](broken-reference)
+2. [Nuevo Diseño de la Opción Gestionar Dispositivo](broken-reference)
+3. [Configuración del Fondo de Pantalla Fuera del Modo Kiosco](broken-reference)
+4. [Actualización de las opciones de contraseña en el perfil de Work Profile](broken-reference)
+5. [Pantalla de Bloqueo Personalizada en el Security Browser](broken-reference)
+6. [Gestión de Sitios Favoritos del Security Browser](broken-reference)
+7. [Datos de Conectividad del Dispositivo](broken-reference)
 8. [Nuevo Aplicativo para el Quiosco - Mob Settings](nuevo-aplicativo-para-el-quiosco-mob-settings.md)
 9. [Configuraciones de Bluetooth en Mob Settings](configuraciones-de-bluetooth-en-mob-settings.md)
 10. [Configuraciones de Pantalla en Mob Settings](configuraciones-de-pantalla-en-mob-settings.md)
