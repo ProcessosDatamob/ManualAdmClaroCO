@@ -4,9 +4,8 @@
 
 ### **Novedades**
 
-1. [Configuración de Aplicaciones Predeterminadas en el Portal](broken-reference)
-2. [Registro de Grupos por IMEI en Lote](Registro-De-Grupos-Por-Imei-En-Lote.md)
-3. [Filtro de Fechas en las Ubicaciones del Dashboard](Filtro-De-Fechas-En-Las-Ubicaciones-Del-Dashboard.md)
+1. [Registro de Grupos por IMEI en Lote](Registro-De-Grupos-Por-Imei-En-Lote.md)
+2. [Filtro de Fechas en las Ubicaciones del Dashboard](Filtro-De-Fechas-En-Las-Ubicaciones-Del-Dashboard.md)
 
 ### **Mejoras**
 
