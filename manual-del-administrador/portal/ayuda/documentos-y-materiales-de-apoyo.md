@@ -1,6 +1,6 @@
 # Documentos y Materiales de Apoyo
 
-En esta pantalla es posible realizar la descarga de los documentos y materiales de apoyo para utilizar la solución **\<NomeProduto>**.
+En esta pantalla es posible realizar la descarga de los documentos y materiales de apoyo para utilizar la solución **Claro Monitor Empresarial**.
 
 Para acceder a los materiales, simplemente seleccione el menú Ayuda y el submenú Documentos y Materiales de Apoyo.
 

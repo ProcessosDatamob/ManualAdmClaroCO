@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 20.6.0
+# Release Notes Claro Monitor Empresarial V 20.6.0
 
 ### **Mejoras**
 

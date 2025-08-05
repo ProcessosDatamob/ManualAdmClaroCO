@@ -15,7 +15,7 @@ Para saber cómo configurar la empresa siga los pasos descritos en esta sesión:
 * **Inicio del ciclo -** Utilizamos este campo para definir la fecha de inicio de la contabilización de los datos que serán analizados.
 * **Sincronizar a cada -** Este campo define el tiempo de sincronización del portal, es decir, el tiempo para sincronizar con los datos recibidos de los dispositivos.
 * **Correo electrónico de aviso -** Esta configuración activa el envío de notificaciones por correo electrónico al administrador cuando el dispositivo alcanza el 80%, 90% y 100% del perfil de consumo configurado.
-* Autenticación de dos factores - Esta configuración permite activar la autenticación de dos factores en el Portal de Administración de **\<NomeProduto>** . Después de activar la configuración, cada vez que un usuario intente acceder al Portal, deberá proporcionar un código de confirmación que se enviará a su correo electrónico.
+* Autenticación de dos factores - Esta configuración permite activar la autenticación de dos factores en el Portal de Administración de **Claro Monitor Empresarial** . Después de activar la configuración, cada vez que un usuario intente acceder al Portal, deberá proporcionar un código de confirmación que se enviará a su correo electrónico.
 
 {% hint style="info" %}
 **Observación:**

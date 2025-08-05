@@ -1,6 +1,6 @@
 # Primer acceso y vinculación a Enterprise
 
-Cuando el producto **\<NomeProduto>** es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:
+Cuando el producto **Claro Monitor Empresarial** es habilitado para una empresa, las siguientes tareas son ejecutadas por el sistema, para permitir el acceso del usuario administrador de la empresa al Portal:
 
 * Creación de las credenciales del Portal de Administración;
 * Envío de un correo electrónico de bienvenida que contiene las credenciales y un enlace para acceder al Portal de Administración.
@@ -30,7 +30,7 @@ Para acceder al Portal de Administración, siga los pasos descritos en esta secc
 
 {% hint style="info" %}
 **NOTA**\
-**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al  Portal **\<NomeProduto>** y permanece siempre disponible en la pantalla de login. En la aplicación **\<NomeProduto>** está presente en el momento de la activación del dispositivo.
+**La Política de privacidad** - puede ser leída y debe ser aceptada en el primer acceso al  Portal **Claro Monitor Empresarial** y permanece siempre disponible en la pantalla de login. En la aplicación **Claro Monitor Empresarial** está presente en el momento de la activación del dispositivo.
 
 **Términos de uso del usuario** - pueden ser leídos y deben ser aceptados en el primer acceso al portal y en el primer acceso a la aplicación.
 {% endhint %}
@@ -92,7 +92,7 @@ La pantalla de "Detalles de contacto" se muestra a continuación.
 
 ![](<../../../.gitbook/assets/5 (5).png>)
 
-Después de confirmar los datos, se mostrará la pantalla del Portal de administración **\<NomeProduto>** con el mensaje "¡Felicidades! Su empresa se ha registrado correctamente en Android Enterprise."
+Después de confirmar los datos, se mostrará la pantalla del Portal de administración **Claro Monitor Empresarial** con el mensaje "¡Felicidades! Su empresa se ha registrado correctamente en Android Enterprise."
 
 ![](<../../../.gitbook/assets/6 (5).png>)
 

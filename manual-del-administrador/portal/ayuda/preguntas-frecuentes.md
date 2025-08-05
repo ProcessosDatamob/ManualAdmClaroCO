@@ -1,6 +1,6 @@
 # Preguntas Frecuentes
 
-Esta pantalla del sistema tiene como objetivo permitir al usuario visualizar respuestas a las preguntas más frecuentes sobre las funciones de la solución **\<NomeProduto>**.
+Esta pantalla del sistema tiene como objetivo permitir al usuario visualizar respuestas a las preguntas más frecuentes sobre las funciones de la solución **Claro Monitor Empresarial**.
 
 Para ver las preguntas frecuentes, haga clic en el menú "Ayuda", seleccione el submenú "Preguntas frecuentes" y siga los pasos descritos a continuación.
 

@@ -14,4 +14,4 @@ Este tipo de usuario puede ver y cambiar los miembros y la información solo del
 
 ## **Usuarios de Dispositivos**
 
-Estos usuarios se crearán durante el proceso de activación de la aplicación **\<NomeProduto>** en el dispositivo. Al completar la activación de la aplicación, ya es posible visualizar la información de este usuario en el Portal.
+Estos usuarios se crearán durante el proceso de activación de la aplicación **Claro Monitor Empresarial** en el dispositivo. Al completar la activación de la aplicación, ya es posible visualizar la información de este usuario en el Portal.

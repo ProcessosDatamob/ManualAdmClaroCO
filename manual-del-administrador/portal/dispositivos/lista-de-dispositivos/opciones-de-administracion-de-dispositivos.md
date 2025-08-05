@@ -47,7 +47,7 @@ A continuación, detallaremos la información contenida en cada uno de los campo
 * **Estado Aplicado -** si el dispositivo está completamente registrado, el estado será "Activo";
 * **Fecha de registro -** fecha de registro de los dispositivos.
 * **Modo de gestión -** muestra el modo de gestión utilizado.
-* **Versión de la aplicación -** versión de la aplicación **\<NomeProduto>** instalado en el dispositivo.
+* **Versión de la aplicación -** versión de la aplicación **Claro Monitor Empresarial** instalado en el dispositivo.
 * **Nombre de la Política en el Dispositivo -** nombre de la política asignada en el dispositivo;&#x20;
 * **Versión de la Política Aplicada -** versión de la política;&#x20;
 * **Fecha de Sincronización de la Política -** mostrará la fecha de sincronización de la política;&#x20;

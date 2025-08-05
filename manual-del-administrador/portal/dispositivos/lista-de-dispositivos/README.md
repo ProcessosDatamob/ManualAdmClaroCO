@@ -57,7 +57,7 @@ Al hacer clic en el signo ">" junto al usuario, el sistema muestra más informac
 
 * Política - nombre de la política asignada al dispositivo;&#x20;
 * Modo de administración - modo de administración asignado al dispositivo;
-* Versión de la aplicación - versión de la aplicación **\<NomeProduto>** instalado en el dispositivo;&#x20;
+* Versión de la aplicación - versión de la aplicación **Claro Monitor Empresarial** instalado en el dispositivo;&#x20;
 * ICCID - número de chip SIM;&#x20;
 * Fabricante - nombre del fabricante del dispositivo;&#x20;
 * Sistema operativo - versión de Android;&#x20;

@@ -39,7 +39,7 @@ Estando en la pestaña "Configuraciones" de la pantalla "Editar Políticas", hag
 Al dejar los campos en blanco, el sistema considerará el período completo del día, o sea, 24 horas.
 {% endhint %}
 
-Cuando el dispositivo esté fuera del horario de trabajo configurado, se ocultarán todas las aplicaciones del dispositivo, excepto "Teléfono", "\<NomeProduto>" y "Play Store".
+Cuando el dispositivo esté fuera del horario de trabajo configurado, se ocultarán todas las aplicaciones del dispositivo, excepto "Teléfono", "Claro Monitor Empresarial" y "Play Store".
 
 Las aplicaciones instaladas en el dispositivo solo se ocultarán y se mostrará una notificación fija en el dispositivo con el siguiente mensaje: "Acceso a las aplicaciones bloqueado por el administrador".
 
@@ -51,7 +51,7 @@ Cuando el dispositivo esté dentro del horario de trabajo configurado, todas las
 
 Para activar el bloqueo del dispositivo por límite de uso de datos móviles, habilite la opción "Bloquear dispositivo por límite de uso de datos móviles".
 
-Cuando el dispositivo alcance el límite de uso de datos móviles configurado para el ciclo actual, el ocultará todas las aplicaciones del dispositivo, excepto "Teléfono", "\<NomeProduto>" y "Play Store".
+Cuando el dispositivo alcance el límite de uso de datos móviles configurado para el ciclo actual, el ocultará todas las aplicaciones del dispositivo, excepto "Teléfono", "Claro Monitor Empresarial" y "Play Store".
 
 El dispositivo mostrará una notificación fija con el mensaje: "Acceso a las aplicaciones bloqueado por el administrador". Esta notificación informará al usuario sobre el bloqueo.
 

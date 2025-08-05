@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 14.0.0
+# Release Notes Claro Monitor Empresarial V 14.0.0
 
 **Novedades de la Versión**
 
