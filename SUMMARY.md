@@ -71,6 +71,8 @@
     * [Preguntas Frecuentes](manual-del-administrador/portal/ayuda/preguntas-frecuentes.md)
     * [Documentos y Materiales de Apoyo](manual-del-administrador/portal/ayuda/documentos-y-materiales-de-apoyo.md)
 * [RELEASE NOTES](manual-del-administrador/release-notes/README.md)
+  * [Release Notes Claro Monitor Empresarial V 20.7.0](manual-del-administrador/release-notes/release-notes-claro-monitor-empresarial-v-20.7.0/README.md)
+    * [Ajustes y Correcciones de la Versión V 20.7.0](manual-del-administrador/release-notes/release-notes-claro-monitor-empresarial-v-20.7.0/ajustes-y-correcciones-de-la-version-v-20.7.0.md)
   * [Release Notes Claro Monitor Empresarial V 20.6.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.6.0/README.md)
     * [Envío de correo electrónico de bienvenida al reactivar una empresa en el portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.6.0/envio-de-correo-electronico-de-bienvenida-al-reactivar-una-empresa-en-el-portal.md)
     * [Corrección de fallo de sincronización del dispositivo con el portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.6.0/correccion-de-fallo-de-sincronizacion-del-dispositivo-con-el-portal.md)
